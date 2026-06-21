@@ -1,0 +1,416 @@
+LOCAL_EXEC_RESULT
+time: 2026-06-22 01:59:39
+status: 0
+risk: low
+mode: shell-readonly
+cwd: /Users/zhumulangmafeng/Projects/chatgpt-codex-bridge
+description: Audit website session work and memory for WordPress multilingual task
+output_file: /Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/logs/local-exec-watch/output-20260622-015938.log
+
+--- OUTPUT ---
+WEBSITE_SESSION_AUDIT_START
+Mon Jun 22 01:59:38 CST 2026
+
+--- bridge health ---
+{"ok":true,"bridge_server":true,"mem0":true,"mem0_api_key":true,"mem0_search_script":true,"n8n":true,"codex_cli":true}
+
+--- search bridge project logs for website related keywords ---
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-173454-38b384-chatgpt-codex-bridge.md:13:检查 ChatGPT-Codex Bridge 当前状态
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-173454-38b384-chatgpt-codex-bridge.md:15:# Context From ChatGPT
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-173454-38b384-chatgpt-codex-bridge.md:21:1. Read ChatGPT's goal and context.
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-173454-38b384-chatgpt-codex-bridge.md:28:Return task status, task path, logs, summary, Mem0 result, and next-step recommendation.
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-173454-38b384-chatgpt-codex-bridge.md:32:Write the task result, key decisions, blockers, and next step to Mem0.
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-174619-f72218-clipboard.md:3:session_id: 019e91ca-d91f-7c13-9475-e5c76f0dc451
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-174619-f72218-clipboard.md:4:created_by: ChatGPT
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-174619-f72218-clipboard.md:8:requires_approval: false
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-174619-f72218-clipboard.md:15:# Context From ChatGPT
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-174619-f72218-clipboard.md:18:这是模拟 ChatGPT App 剪贴板内容，经 n8n target 发出。
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-174619-f72218-clipboard.md:22:1. Read ChatGPT's goal and context.
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-174619-f72218-clipboard.md:29:Return task status, task path, logs, summary, Mem0 result, and next-step recommendation.
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-174619-f72218-clipboard.md:33:Write the task result, key decisions, blockers, and next step to Mem0.
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-175721-c5e178-task.md:3:session_id: 019e91ca-d91f-7c13-9475-e5c76f0dc451
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-175721-c5e178-task.md:4:created_by: ChatGPT
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-175721-c5e178-task.md:8:requires_approval: false
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-175721-c5e178-task.md:15:# Context From ChatGPT
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-175721-c5e178-task.md:18:这是模拟 ChatGPT App 复制出来的任务文本，经 chatgpt-send-task.sh 进入 n8n Webhook。
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-175721-c5e178-task.md:22:1. Read ChatGPT's goal and context.
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-175721-c5e178-task.md:29:Return task status, task path, logs, summary, Mem0 result, and next-step recommendation.
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-175721-c5e178-task.md:33:Write the task result, key decisions, blockers, and next step to Mem0.
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-221937-efbecf-chatgpt-app.md:2:task_id: task-20260604-221937-efbecf-chatgpt-app
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-221937-efbecf-chatgpt-app.md:3:session_id: 019e91ca-d91f-7c13-9475-e5c76f0dc451
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-221937-efbecf-chatgpt-app.md:4:created_by: ChatGPT
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-221937-efbecf-chatgpt-app.md:8:requires_approval: false
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-221937-efbecf-chatgpt-app.md:13:让 ChatGPT App 里的任务通过：
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-221937-efbecf-chatgpt-app.md:15:# Context From ChatGPT
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-221937-efbecf-chatgpt-app.md:20:~/Documents/chatgpt-codex-bridge
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-221937-efbecf-chatgpt-app.md:23:让 ChatGPT App 里的任务通过：
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-221937-efbecf-chatgpt-app.md:25:chatgpt-send-task.sh --target n8n --clipboard
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-221937-efbecf-chatgpt-app.md:27:正式进入 n8n Webhook，再由 n8n 调 Bridge Server 创建任务。
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-221937-efbecf-chatgpt-app.md:31:1. 更新 n8n/chatgpt-codex-orchestrator.workflow.json
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-221937-efbecf-chatgpt-app.md:36:chatgpt-codex-task
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-221937-efbecf-chatgpt-app.md:44:  "session_id": "019e91ca-d91f-7c13-9475-e5c76f0dc451",
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-221937-efbecf-chatgpt-app.md:45:  "chatgpt_goal": "...",
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-221937-efbecf-chatgpt-app.md:47:  "source": "chatgpt-app"
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-221937-efbecf-chatgpt-app.md:56:HTTP Request POST http://host.docker.internal:8790/chatgpt-task
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-221937-efbecf-chatgpt-app.md:58:HTTP Request GET http://host.docker.internal:8790/tasks/{{$json.task_id}}
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-221937-efbecf-chatgpt-app.md:60:Respond to Webhook
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-221937-efbecf-chatgpt-app.md:62:3. Respond JSON：
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-221937-efbecf-chatgpt-app.md:81:- Docker 内部访问 Bridge 用 host.docker.internal
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-221937-efbecf-chatgpt-app.md:82:- ChatGPT App 中如何复制任务
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-221937-efbecf-chatgpt-app.md:85:./scripts/chatgpt-send-task.sh --target n8n --clipboard --webhook-url "http://localhost:5678/webhook/chatgpt-codex-task"
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-221937-efbecf-chatgpt-app.md:87:5. 更新 scripts/chatgpt-send-task.sh
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-221937-efbecf-chatgpt-app.md:100:n8n/test-webhook-entry.sh
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-221937-efbecf-chatgpt-app.md:104:- 检查 Bridge /health
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-221937-efbecf-chatgpt-app.md:108:- 查询 Bridge task 状态
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-221937-efbecf-chatgpt-app.md:120:第五阶段完成：n8n 正式 Webhook 入口已配置。ChatGPT App 可以通过 chatgpt-send-task.sh --target n8n --clipboard 将任务送入 n8n，再由 n8n 调 Bridge Server 创建 Codex 任务。
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-221937-efbecf-chatgpt-app.md:133:1. Read ChatGPT's goal and context.
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-221937-efbecf-chatgpt-app.md:140:Return task status, task path, logs, summary, Mem0 result, and next-step recommendation.
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-221937-efbecf-chatgpt-app.md:144:Write the task result, key decisions, blockers, and next step to Mem0.
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-164956-s695d1-检查桥接系统.md:3:session_id: 019e91ca-d91f-7c13-9475-e5c76f0dc451
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-164956-s695d1-检查桥接系统.md:4:created_by: ChatGPT
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-164956-s695d1-检查桥接系统.md:8:requires_approval: false
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-164956-s695d1-检查桥接系统.md:15:# Context From ChatGPT
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-164956-s695d1-检查桥接系统.md:17:TODO: Paste ChatGPT context and judgment here.
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-164956-s695d1-检查桥接系统.md:23:3. Verify the result.
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-165131-8wilb7-检查桥接系统.md:3:session_id: 019e91ca-d91f-7c13-9475-e5c76f0dc451
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-165131-8wilb7-检查桥接系统.md:4:created_by: ChatGPT
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-165131-8wilb7-检查桥接系统.md:8:requires_approval: false
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-165131-8wilb7-检查桥接系统.md:15:# Context From ChatGPT
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-165131-8wilb7-检查桥接系统.md:17:TODO: Paste ChatGPT context and judgment here.
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-165131-8wilb7-检查桥接系统.md:23:3. Verify the result.
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-175714-72d3ec-chatgpt-codex-bridge.md:2:task_id: task-20260604-175714-72d3ec-chatgpt-codex-bridge
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-175714-72d3ec-chatgpt-codex-bridge.md:3:session_id: 019e91ca-d91f-7c13-9475-e5c76f0dc451
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-175714-72d3ec-chatgpt-codex-bridge.md:4:created_by: ChatGPT
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-175714-72d3ec-chatgpt-codex-bridge.md:8:requires_approval: false
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-175714-72d3ec-chatgpt-codex-bridge.md:13:检查 ChatGPT-Codex Bridge 当前状态
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-175714-72d3ec-chatgpt-codex-bridge.md:15:# Context From ChatGPT
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-175714-72d3ec-chatgpt-codex-bridge.md:21:1. Read ChatGPT's goal and context.
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-175714-72d3ec-chatgpt-codex-bridge.md:28:Return task status, task path, logs, summary, Mem0 result, and next-step recommendation.
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-175714-72d3ec-chatgpt-codex-bridge.md:32:Write the task result, key decisions, blockers, and next step to Mem0.
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-170528-c3fefd-bridge.md:2:task_id: task-20260604-170528-c3fefd-bridge
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-170528-c3fefd-bridge.md:3:session_id: 019e91ca-d91f-7c13-9475-e5c76f0dc451
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-170528-c3fefd-bridge.md:4:created_by: ChatGPT
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-170528-c3fefd-bridge.md:8:requires_approval: true
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-170528-c3fefd-bridge.md:15:# Context From ChatGPT
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-170528-c3fefd-bridge.md:17:这是来自 ChatGPT 的规划
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-170528-c3fefd-bridge.md:30:Write project status, key results, blockers, and next steps to Mem0.
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-173929-c0050c-bridge.md:2:task_id: task-20260604-173929-c0050c-bridge
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-173929-c0050c-bridge.md:3:session_id: 019e91ca-d91f-7c13-9475-e5c76f0dc451
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-173929-c0050c-bridge.md:4:created_by: ChatGPT
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-173929-c0050c-bridge.md:8:requires_approval: false
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-173929-c0050c-bridge.md:13:第四阶段 Bridge 直发测试
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-173929-c0050c-bridge.md:15:# Context From ChatGPT
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-173929-c0050c-bridge.md:17:测试 scripts/chatgpt-send-task.sh 通过 Bridge Server 创建任务。
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-173929-c0050c-bridge.md:21:1. Read ChatGPT's goal and context.
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-173929-c0050c-bridge.md:28:Return task status, task path, logs, summary, Mem0 result, and next-step recommendation.
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-173929-c0050c-bridge.md:32:Write the task result, key decisions, blockers, and next step to Mem0.
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-170529-4c1a0f-bridge-server-mem0-n8n-codex-cli.md:2:task_id: task-20260604-170529-4c1a0f-bridge-server-mem0-n8n-codex-cli
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-170529-4c1a0f-bridge-server-mem0-n8n-codex-cli.md:3:session_id: 019e91ca-d91f-7c13-9475-e5c76f0dc451
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-170529-4c1a0f-bridge-server-mem0-n8n-codex-cli.md:4:created_by: ChatGPT
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-170529-4c1a0f-bridge-server-mem0-n8n-codex-cli.md:8:requires_approval: false
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-170529-4c1a0f-bridge-server-mem0-n8n-codex-cli.md:13:检查 bridge server、Mem0、n8n 和 Codex CLI 是否可用
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-170529-4c1a0f-bridge-server-mem0-n8n-codex-cli.md:15:# Context From ChatGPT
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-170529-4c1a0f-bridge-server-mem0-n8n-codex-cli.md:17:这是 ChatGPT 发来的自然语言任务，需要 Bridge Server 转换为标准 Codex task markdown。
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-170529-4c1a0f-bridge-server-mem0-n8n-codex-cli.md:21:1. Read ChatGPT's goal and context.
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-170529-4c1a0f-bridge-server-mem0-n8n-codex-cli.md:28:Return task status, task path, logs, summary, Mem0 result, and next-step recommendation.
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-170529-4c1a0f-bridge-server-mem0-n8n-codex-cli.md:32:Write the task result, key decisions, blockers, and next step to Mem0.
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-173929-456325-n8n-webhook.md:3:session_id: 019e91ca-d91f-7c13-9475-e5c76f0dc451
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-173929-456325-n8n-webhook.md:4:created_by: ChatGPT
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-173929-456325-n8n-webhook.md:8:requires_approval: false
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-173929-456325-n8n-webhook.md:15:# Context From ChatGPT
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-173929-456325-n8n-webhook.md:17:使用 Bridge endpoint 模拟 n8n Webhook JSON 返回，验证 webhook 模式和 task_id 解析。
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-173929-456325-n8n-webhook.md:21:1. Read ChatGPT's goal and context.
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-173929-456325-n8n-webhook.md:28:Return task status, task path, logs, summary, Mem0 result, and next-step recommendation.
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-173929-456325-n8n-webhook.md:32:Write the task result, key decisions, blockers, and next step to Mem0.
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-170452-a79519-检查-bridge-状态.md:2:task_id: task-20260604-170452-a79519-检查-bridge-状态
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-170452-a79519-检查-bridge-状态.md:3:session_id: 019e91ca-d91f-7c13-9475-e5c76f0dc451
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-170452-a79519-检查-bridge-状态.md:4:created_by: ChatGPT
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-170452-a79519-检查-bridge-状态.md:8:requires_approval: true
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-170452-a79519-检查-bridge-状态.md:15:# Context From ChatGPT
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-170452-a79519-检查-bridge-状态.md:17:这是来自 ChatGPT 的规划
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-170452-a79519-检查-bridge-状态.md:30:Write project status, key results, blockers, and next steps to Mem0.
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-231002-ddbe31-launchagent-bridge-231001.md:2:task_id: task-20260604-231002-ddbe31-launchagent-bridge-231001
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-231002-ddbe31-launchagent-bridge-231001.md:3:session_id: 019e91ca-d91f-7c13-9475-e5c76f0dc451
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-231002-ddbe31-launchagent-bridge-231001.md:4:created_by: ChatGPT
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-231002-ddbe31-launchagent-bridge-231001.md:8:requires_approval: false
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-231002-ddbe31-launchagent-bridge-231001.md:13:LaunchAgent Bridge 全自动闭环复测 231001
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-231002-ddbe31-launchagent-bridge-231001.md:15:# Context From ChatGPT
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-231002-ddbe31-launchagent-bridge-231001.md:18:任务目标：LaunchAgent Bridge 全自动闭环复测 231001
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-231002-ddbe31-launchagent-bridge-231001.md:19:上下文：验证 ChatGPT App 剪贴板 watcher、n8n Webhook、常驻 Bridge Server 可以连续工作。
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-231002-ddbe31-launchagent-bridge-231001.md:24:1. Read ChatGPT's goal and context.
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-231002-ddbe31-launchagent-bridge-231001.md:31:Return task status, task path, logs, summary, Mem0 result, and next-step recommendation.
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-231002-ddbe31-launchagent-bridge-231001.md:35:Write the task result, key decisions, blockers, and next step to Mem0.
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-174619-a75805-file.md:3:session_id: 019e91ca-d91f-7c13-9475-e5c76f0dc451
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-174619-a75805-file.md:4:created_by: ChatGPT
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-174619-a75805-file.md:8:requires_approval: false
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-174619-a75805-file.md:15:# Context From ChatGPT
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-174619-a75805-file.md:18:这是从文件读取的 ChatGPT App 任务。
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-174619-a75805-file.md:22:1. Read ChatGPT's goal and context.
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-174619-a75805-file.md:29:Return task status, task path, logs, summary, Mem0 result, and next-step recommendation.
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/archive/inbox-20260621-235520-before-worker/task-20260604-174619-a75805-file.md:33:Write the task result, key decisions, blockers, and next step to Mem0.
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/failed/task-20260622-011402-worker-real-readonly-check.md:3:session_id: local-real-worker-test
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/failed/task-20260622-011402-worker-real-readonly-check.md:4:created_by: ChatGPT
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/failed/task-20260622-011402-worker-real-readonly-check.md:8:requires_approval: false
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/failed/task-20260622-011402-worker-real-readonly-check.md:13:��ʵֻ�����ԣ�ȷ�� Codex worker �ܷ�����ִ�����񣬲������ǰ Bridge��Mem0��n8n��Codex CLI��MCP/����ɼ����жϡ�
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/failed/task-20260622-011402-worker-real-readonly-check.md:15:# Context From ChatGPT
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/failed/task-20260622-011402-worker-real-readonly-check.md:20:1. ��ǰĿ¼�Ƿ�Ϊ chatgpt-codex-bridge��
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/failed/task-20260622-011402-worker-real-readonly-check.md:21:2. Bridge health �Ƿ�ȫ�̡�
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/failed/task-20260622-011402-worker-real-readonly-check.md:25:   - weizhihao-product-assets
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/failed/task-20260622-011402-worker-real-readonly-check.md:29:5. ����ܿ��� weizhihao-product-assets��ֻ����Сֻ���жϣ���Ҫ��ȡ�����زģ���Ҫ�ƶ��زġ�
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/failed/task-20260622-011402-worker-real-readonly-check.md:50:# Worker Result
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/failed/task-20260622-012456-worker-node-path-retest.md:2:task_id: task-20260622-012456-worker-node-path-retest
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/failed/task-20260622-012456-worker-node-path-retest.md:3:session_id: local-worker-node-path-retest
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/failed/task-20260622-012456-worker-node-path-retest.md:4:created_by: ChatGPT
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/failed/task-20260622-012456-worker-node-path-retest.md:8:requires_approval: false
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/failed/task-20260622-012456-worker-node-path-retest.md:15:# Context From ChatGPT
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/failed/task-20260622-012456-worker-node-path-retest.md:21:1. ȷ�ϵ�ǰĿ¼�� chatgpt-codex-bridge��
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/failed/task-20260622-012456-worker-node-path-retest.md:23:3. ��� Bridge health��
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/failed/task-20260622-012456-worker-node-path-retest.md:36:# Worker Result
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/failed/task-20260622-004245-real-readonly-mcp-check.md:3:session_id: local-real-readonly-test
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/failed/task-20260622-004245-real-readonly-mcp-check.md:4:created_by: ChatGPT
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/failed/task-20260622-004245-real-readonly-mcp-check.md:8:requires_approval: false
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/failed/task-20260622-004245-real-readonly-mcp-check.md:13:��ʵֻ�����ԣ�ȷ�� Codex worker �Ƿ�����ڵ�ǰ Bridge ������ִ�����񣬲���鵱ǰ�ɼ�����/MCP/���������
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/failed/task-20260622-004245-real-readonly-mcp-check.md:15:# Context From ChatGPT
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/failed/task-20260622-004245-real-readonly-mcp-check.md:19:1. ��ǰĿ¼�Ƿ�Ϊ chatgpt-codex-bridge��
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/failed/task-20260622-004245-real-readonly-mcp-check.md:20:2. Bridge / Mem0 / n8n / Codex CLI �Ƿ񽡿���
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/failed/task-20260622-004245-real-readonly-mcp-check.md:23:   - weizhihao-product-assets
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/failed/task-20260622-004245-real-readonly-mcp-check.md:27:4. ����ܿ��� weizhihao-product-assets����ֻ����Сֻ����ѯ��˵���ɼ������б�����Ҫ��ȡ�����زģ���Ҫ�ƶ��κ��زġ�
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/failed/task-20260622-004245-real-readonly-mcp-check.md:51:# Worker Result
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/failed/task-20260622-004109-real-readonly-mcp-check.md:3:session_id: local-real-readonly-test
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/failed/task-20260622-004109-real-readonly-mcp-check.md:4:created_by: ChatGPT
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/failed/task-20260622-004109-real-readonly-mcp-check.md:8:requires_approval: false
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/failed/task-20260622-004109-real-readonly-mcp-check.md:13:��ʵֻ�����ԣ�ȷ�� Codex worker �Ƿ�����ڵ�ǰ Bridge ������ִ�����񣬲���鵱ǰ�ɼ�����/MCP/���������
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/failed/task-20260622-004109-real-readonly-mcp-check.md:15:# Context From ChatGPT
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/failed/task-20260622-004109-real-readonly-mcp-check.md:19:1. ��ǰĿ¼�Ƿ�Ϊ chatgpt-codex-bridge��
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/failed/task-20260622-004109-real-readonly-mcp-check.md:20:2. Bridge / Mem0 / n8n / Codex CLI �Ƿ񽡿���
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/failed/task-20260622-004109-real-readonly-mcp-check.md:23:   - weizhihao-product-assets
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/failed/task-20260622-004109-real-readonly-mcp-check.md:27:4. ����ܿ��� weizhihao-product-assets����ֻ����Сֻ����ѯ��˵���ɼ������б�����Ҫ��ȡ�����زģ���Ҫ�ƶ��κ��زġ�
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/failed/task-20260622-004109-real-readonly-mcp-check.md:51:# Worker Result
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/done/task-smoke-codex-worker-test.md:2:task_id: task-smoke-codex-worker-test
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/done/task-smoke-codex-worker-test.md:3:session_id: local-smoke-test
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/done/task-smoke-codex-worker-test.md:4:created_by: ChatGPT
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/done/task-smoke-codex-worker-test.md:8:requires_approval: false
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/done/task-smoke-codex-worker-test.md:15:# Context From ChatGPT
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/done/task-smoke-codex-worker-test.md:22:2. 检查当前目录是否存在 package.json、scripts、tasks、logs。
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/done/task-smoke-codex-worker-test.md:24:4. 最后一行输出：CODEX_WORKER_TEST_OK
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/done/task-smoke-codex-worker-test.md:28:返回目录检查结果，并输出 CODEX_WORKER_TEST_OK。
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/done/task-20260604-165324-ai-env-status.md:3:session_id: 019e91ca-d91f-7c13-9475-e5c76f0dc451
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/done/task-20260604-165324-ai-env-status.md:4:created_by: ChatGPT
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/done/task-20260604-165324-ai-env-status.md:8:requires_approval: false
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/done/task-20260604-165324-ai-env-status.md:15:# Context From ChatGPT
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/done/task-20260604-165324-ai-env-status.md:17:这是 ChatGPT-Codex bridge 的第一次完整半自动真实任务闭环。ChatGPT 负责给出检查目标，Codex 负责读取本机环境、执行命令、保存日志、生成总结，并将非敏感结果写入 Mem0。
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/done/task-20260604-165324-ai-env-status.md:39:写入一条 `task_memory`：ChatGPT-Codex bridge 已完成第一次真实闭环测试。本机环境包含 Codex v0.136.0-alpha.2、Mem0 MCP、n8n Docker。桥接链路可继续进入第二阶段：n8n 中控调度。
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/done/task-20260622-012603-worker-path-fixed-test.md:2:task_id: task-20260622-012603-worker-path-fixed-test
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/done/task-20260622-012603-worker-path-fixed-test.md:3:session_id: local-worker-path-fixed-test
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/done/task-20260622-012603-worker-path-fixed-test.md:4:created_by: ChatGPT
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/done/task-20260622-012603-worker-path-fixed-test.md:8:requires_approval: false
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/done/task-20260622-012603-worker-path-fixed-test.md:15:# Context From ChatGPT
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/done/task-20260622-012603-worker-path-fixed-test.md:21:1. ȷ�ϵ�ǰĿ¼�� chatgpt-codex-bridge��
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/done/task-20260622-012603-worker-path-fixed-test.md:23:3. ��� Bridge health��
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/done/task-20260622-012603-worker-path-fixed-test.md:35:# Worker Result
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/done/task-worker-once-final-smoke.md:3:session_id: local-worker-test
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/done/task-worker-once-final-smoke.md:4:created_by: ChatGPT
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/done/task-worker-once-final-smoke.md:8:requires_approval: false
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/done/task-worker-once-final-smoke.md:15:# Context From ChatGPT
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/done/task-worker-once-final-smoke.md:21:1. 确认当前目录是 chatgpt-codex-bridge。
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/done/task-worker-once-final-smoke.md:22:2. 检查是否存在 package.json、scripts、tasks、logs。
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/done/task-worker-once-final-smoke.md:35:# Worker Result
+
+--- recent done failed running inbox tasks ---
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/done/task-20260604-165324-ai-env-status.md
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/done/task-20260622-012603-worker-path-fixed-test.md
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/done/task-smoke-codex-worker-test.md
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/done/task-worker-once-final-smoke.md
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/failed/task-20260622-004109-real-readonly-mcp-check.md
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/failed/task-20260622-004245-real-readonly-mcp-check.md
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/failed/task-20260622-011402-worker-real-readonly-check.md
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/tasks/failed/task-20260622-012456-worker-node-path-retest.md
+
+--- search local common project folders for website fix files ---
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/logs/codex-plugin-visibility-test.stdout.log
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/logs/codex-plugin-visibility-test.stderr.log
+/Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/logs/codex-plugin-visibility-test.last.txt
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ladybird/Tests/ClangPlugins/CMakeLists.txt
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ladybird/Tests/ClangPlugins/requirements.txt
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ladybird/Tests/ClangPlugins/lit.cfg.py
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ladybird/Tests/ClangPlugins/lit.site.cfg.py.in
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ladybird/Libraries/LibGfx/SystemTheme.h
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ladybird/Libraries/LibGfx/SystemTheme.cpp
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/agent-skills/.claude-plugin/marketplace.json
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/agent-skills/.claude-plugin/plugin.json
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/agent-skills/.github/workflows/test-plugin-install.yml
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/local-deep-research/tests/theme_tests/test_theme_system.py
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/local-deep-research/tests/theme_tests/test_theme_module.py
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/dexter/node_modules/babel-plugin-polyfill-regenerator/LICENSE
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/dexter/node_modules/babel-plugin-polyfill-regenerator/README.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/dexter/node_modules/babel-plugin-polyfill-regenerator/package.json
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/dexter/node_modules/babel-plugin-istanbul/LICENSE
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/dexter/node_modules/babel-plugin-istanbul/CHANGELOG.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/dexter/node_modules/babel-plugin-istanbul/README.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/dexter/node_modules/babel-plugin-istanbul/package.json
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/dexter/node_modules/babel-plugin-polyfill-corejs3/LICENSE
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/dexter/node_modules/babel-plugin-polyfill-corejs3/README.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/dexter/node_modules/babel-plugin-polyfill-corejs3/package.json
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/dexter/node_modules/babel-plugin-polyfill-corejs2/LICENSE
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/dexter/node_modules/babel-plugin-polyfill-corejs2/README.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/dexter/node_modules/babel-plugin-polyfill-corejs2/package.json
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/dexter/node_modules/babel-plugin-jest-hoist/LICENSE
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/dexter/node_modules/babel-plugin-jest-hoist/README.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/dexter/node_modules/babel-plugin-jest-hoist/package.json
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/dexter/src/theme.ts
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/InsForge/.claude-plugin/marketplace.json
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/InsForge/CLAUDE_PLUGIN.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ruflo/plugins/ruflo-wasm/README.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ruflo/plugins/ruflo-goals/README.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ruflo/plugins/ruflo-knowledge-graph/README.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ruflo/plugins/ruflo-federation/README.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ruflo/plugins/ruflo-swarm/README.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ruflo/plugins/ruflo-adr/REFERENCE.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ruflo/plugins/ruflo-adr/README.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ruflo/plugins/ruflo-security-audit/README.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ruflo/plugins/ruflo-docs/README.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ruflo/plugins/ruflo-jujutsu/README.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ruflo/plugins/ruflo-workflows/README.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ruflo/plugins/ruflo-plugin-creator/README.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ruflo/plugins/ruflo-market-data/README.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ruflo/plugins/ruflo-rag-memory/README.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ruflo/plugins/ruflo-cost-tracker/REFERENCE.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ruflo/plugins/ruflo-cost-tracker/README.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ruflo/plugins/ruflo-browser/README.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ruflo/plugins/ruflo-daa/README.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ruflo/plugins/ruflo-core/README.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ruflo/plugins/ruflo-aidefence/README.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ruflo/plugins/ruflo-ddd/REFERENCE.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ruflo/plugins/ruflo-ddd/README.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ruflo/plugins/ruflo-ruvector/README.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ruflo/plugins/ruflo-iot-cognitum/REFERENCE.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ruflo/plugins/ruflo-iot-cognitum/README.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ruflo/plugins/README.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ruflo/plugins/ruflo-observability/README.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ruflo/plugins/ruflo-testgen/README.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ruflo/plugins/ruflo-intelligence/README.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ruflo/plugins/ruflo-loop-workers/README.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ruflo/plugins/ruflo-migrations/README.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ruflo/plugins/ruflo-ruvllm/README.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ruflo/plugins/ruflo-autopilot/README.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ruflo/plugins/ruflo-sparc/README.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ruflo/plugins/ruflo-rvf/README.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ruflo/plugins/ruflo-neural-trader/README.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ruflo/plugins/ruflo-agentdb/README.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ruflo/plugin/hooks/hooks.json
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ruflo/plugin/.claude-plugin/plugin.json
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ruflo/ruflo-plugins.gif
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ruflo/v3/plugins/SECURITY-AUDIT.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ruflo/v3/implementation/PLUGIN_INTEGRATION.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ruflo/.claude-plugin/docs/STRUCTURE.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ruflo/.claude-plugin/docs/PLUGIN_SUMMARY.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ruflo/.claude-plugin/docs/QUICKSTART.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ruflo/.claude-plugin/docs/INSTALLATION.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ruflo/.claude-plugin/marketplace.json
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ruflo/.claude-plugin/plugin.json
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ruflo/.claude-plugin/README.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ruflo/.claude-plugin/hooks/hooks.json
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ruflo/.claude-plugin/scripts/uninstall.sh
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ruflo/.claude-plugin/scripts/install.sh
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/ruflo/.claude-plugin/scripts/verify.sh
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/babel-plugin-macros/LICENSE
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/babel-plugin-macros/CHANGELOG.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/babel-plugin-macros/README.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/babel-plugin-macros/package.json
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/eslint-plugin-es/LICENSE
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/eslint-plugin-es/README.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/eslint-plugin-es/package.json
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/babel-plugin-dynamic-import-node/.babelrc
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/babel-plugin-dynamic-import-node/LICENSE
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/babel-plugin-dynamic-import-node/CHANGELOG.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/babel-plugin-dynamic-import-node/.eslintrc
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/babel-plugin-dynamic-import-node/README.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/babel-plugin-dynamic-import-node/package.json
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/babel-plugin-dynamic-import-node/utils.js
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/babel-plugin-dynamic-import-node/.eslintignore
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/babel-plugin-dynamic-import-node/.travis.yml
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/eslint-plugin-import/LICENSE
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/eslint-plugin-import/CHANGELOG.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/eslint-plugin-import/README.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/eslint-plugin-import/RELEASE.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/eslint-plugin-import/package.json
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/eslint-plugin-import/CONTRIBUTING.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/eslint-plugin-import/SECURITY.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/babel-plugin-polyfill-regenerator/LICENSE
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/babel-plugin-polyfill-regenerator/README.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/babel-plugin-polyfill-regenerator/package.json
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/eslint-plugin-vue/LICENSE
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/eslint-plugin-vue/README.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/eslint-plugin-vue/package.json
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/terser-webpack-plugin/LICENSE
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/terser-webpack-plugin/README.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/terser-webpack-plugin/package.json
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/eslint-plugin-n/LICENSE
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/eslint-plugin-n/README.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/eslint-plugin-n/package.json
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/compression-webpack-plugin/LICENSE
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/compression-webpack-plugin/README.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/compression-webpack-plugin/package.json
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/eslint-plugin-promise/LICENSE.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/eslint-plugin-promise/CHANGELOG.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/eslint-plugin-promise/index.js
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/eslint-plugin-promise/README.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/eslint-plugin-promise/package.json
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/babel-plugin-polyfill-corejs3/LICENSE
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/babel-plugin-polyfill-corejs3/README.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/babel-plugin-polyfill-corejs3/package.json
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/css-minimizer-webpack-plugin/LICENSE
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/css-minimizer-webpack-plugin/CHANGELOG.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/css-minimizer-webpack-plugin/README.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/css-minimizer-webpack-plugin/package.json
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/babel-plugin-polyfill-corejs2/LICENSE
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/babel-plugin-polyfill-corejs2/README.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/babel-plugin-polyfill-corejs2/package.json
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/mini-css-extract-plugin/LICENSE
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/mini-css-extract-plugin/README.md
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/mini-css-extract-plugin/package.json
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/tailwindcss/defaultTheme.d.ts
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/tailwindcss/plugin.d.ts
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/tailwindcss/defaultTheme.js
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/tailwindcss/plugin.js
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/webpack-subresource-integrity/plugin.js.map
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/docuseal/node_modules/webpack-subresource-integrity/plugin.js
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/financial-services/claude-for-msft-365-install/.claude-plugin/plugin.json
+/Users/zhumulangmafeng/Projects/github-trending-2026-05-07/financial-services/.claude-plugin/marketplace.json
+
+--- mem0 related search if available ---
+
+--- current github evidence latest ---
+LOCAL_EXEC_RESULT
+time: 2026-06-22 01:55:28
+status: 0
+risk: low
+mode: shell-readonly
+cwd: /Users/zhumulangmafeng/Projects/chatgpt-codex-bridge
+description: Final evidence postprocess test
+output_file: /Users/zhumulangmafeng/Projects/chatgpt-codex-bridge/logs/local-exec-watch/output-20260622-015528.log
+
+--- OUTPUT ---
+FINAL_EVIDENCE_POSTPROCESS_TEST_OK
+Mon Jun 22 01:55:28 CST 2026
+{"ok":true,"bridge_server":true,"mem0":true,"mem0_api_key":true,"mem0_search_script":true,"n8n":true,"codex_cli":true}
+--- END OUTPUT ---
+
+--- SCREENSHOT ---
+screenshot uploaded via GitHub evidence
+
+--- GITHUB_EVIDENCE ---
+screenshot_url: https://raw.githubusercontent.com/lianggangwei/chatgpt-codex-evidence/main/screenshots/2026-06-22/20260622-015528-Final-evidence-postprocess-test.png
+log_url: https://raw.githubusercontent.com/lianggangwei/chatgpt-codex-evidence/main/logs/2026-06-22/20260622-015528-Final-evidence-postprocess-test.txt
+repo: https://github.com/lianggangwei/chatgpt-codex-evidence
+
+--- GITHUB_EVIDENCE ---
+screenshot_url: https://raw.githubusercontent.com/lianggangwei/chatgpt-codex-evidence/main/screenshots/2026-06-22/20260622-015540-Final-evidence-postprocess-test.png
+log_url: https://raw.githubusercontent.com/lianggangwei/chatgpt-codex-evidence/main/logs/2026-06-22/20260622-015540-Final-evidence-postprocess-test.txt
+repo: https://github.com/lianggangwei/chatgpt-codex-evidence
+
+WEBSITE_SESSION_AUDIT_DONE
+--- END OUTPUT ---
+
+--- SCREENSHOT ---
+screenshot capture failed
