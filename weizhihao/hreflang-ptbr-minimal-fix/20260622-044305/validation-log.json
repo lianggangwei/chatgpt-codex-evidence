@@ -1,0 +1,411 @@
+{
+  "timestamp": "20260621T205502Z",
+  "stamp": "hreflang-ptbr-final-20260621T205502Z",
+  "mode": "post-upload-validation",
+  "workDir": "/Users/zhumulangmafeng/Documents/国外/records/hreflang-ptbr-minimal-fix/20260622-044305",
+  "pages": [
+    {
+      "key": "home",
+      "url": "https://weizhihaomachinery.com/",
+      "expectedLang": "en-US",
+      "validationUrl": "https://weizhihaomachinery.com/?v=hreflang-ptbr-final-20260621T205502Z",
+      "status": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "xLiteSpeedCache": "miss",
+      "cfCacheStatus": "DYNAMIC",
+      "htmlLang": "en-US",
+      "canonical": [
+        "https://weizhihaomachinery.com/"
+      ],
+      "canonicalSelf": true,
+      "hreflangTags": [
+        {
+          "raw": "<link rel=\"alternate\" hreflang=\"en\" href=\"https://weizhihaomachinery.com/\" />",
+          "hreflang": "en",
+          "href": "https://weizhihaomachinery.com/"
+        },
+        {
+          "raw": "<link rel=\"alternate\" hreflang=\"es\" href=\"https://weizhihaomachinery.com/es/\" />",
+          "hreflang": "es",
+          "href": "https://weizhihaomachinery.com/es/"
+        },
+        {
+          "raw": "<link rel=\"alternate\" hreflang=\"pt-BR\" href=\"https://weizhihaomachinery.com/pt/\" />",
+          "hreflang": "pt-BR",
+          "href": "https://weizhihaomachinery.com/pt/"
+        },
+        {
+          "raw": "<link rel=\"alternate\" hreflang=\"x-default\" href=\"https://weizhihaomachinery.com/\" />",
+          "hreflang": "x-default",
+          "href": "https://weizhihaomachinery.com/"
+        }
+      ],
+      "hreflangCodes": [
+        "en",
+        "es",
+        "pt-BR",
+        "x-default"
+      ],
+      "allHreflangAttrs": [
+        "en",
+        "es",
+        "pt-BR",
+        "x-default",
+        "es",
+        "pt-BR",
+        "es",
+        "pt-BR"
+      ],
+      "exactHreflangPtCount": 0,
+      "hasPtBr": true,
+      "hasRu": false,
+      "noindex": false,
+      "languageEntries": [
+        "wzh-i18n-header-entry wzh-i18n-header-entry--desktop\" data-wzh-i18n-header-entry=\"home\" aria-label=\"Language versions\"> EN / ES / BR EN / ES / BR <script data-optimized=\"1\" id=\"wzh-i18n-header-entry-js\" src=\"data:text/javascript;base64,KGZ1bmN0aW9uKCl7ZnVuY3Rpb24gbW91bnQoKX"
+      ],
+      "screenshotName": "home.png",
+      "screenshotPath": "/Users/zhumulangmafeng/Documents/国外/records/hreflang-ptbr-minimal-fix/20260622-044305/validation-20260621T205502Z/screenshots/home.png",
+      "pass": true
+    },
+    {
+      "key": "es-home",
+      "url": "https://weizhihaomachinery.com/es/",
+      "expectedLang": "es-ES",
+      "validationUrl": "https://weizhihaomachinery.com/es/?v=hreflang-ptbr-final-20260621T205502Z",
+      "status": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "xLiteSpeedCache": "miss",
+      "cfCacheStatus": "DYNAMIC",
+      "htmlLang": "es-ES",
+      "canonical": [
+        "https://weizhihaomachinery.com/es/"
+      ],
+      "canonicalSelf": true,
+      "hreflangTags": [
+        {
+          "raw": "<link rel=\"alternate\" hreflang=\"en\" href=\"https://weizhihaomachinery.com/\" />",
+          "hreflang": "en",
+          "href": "https://weizhihaomachinery.com/"
+        },
+        {
+          "raw": "<link rel=\"alternate\" hreflang=\"es\" href=\"https://weizhihaomachinery.com/es/\" />",
+          "hreflang": "es",
+          "href": "https://weizhihaomachinery.com/es/"
+        },
+        {
+          "raw": "<link rel=\"alternate\" hreflang=\"pt-BR\" href=\"https://weizhihaomachinery.com/pt/\" />",
+          "hreflang": "pt-BR",
+          "href": "https://weizhihaomachinery.com/pt/"
+        },
+        {
+          "raw": "<link rel=\"alternate\" hreflang=\"x-default\" href=\"https://weizhihaomachinery.com/\" />",
+          "hreflang": "x-default",
+          "href": "https://weizhihaomachinery.com/"
+        }
+      ],
+      "hreflangCodes": [
+        "en",
+        "es",
+        "pt-BR",
+        "x-default"
+      ],
+      "allHreflangAttrs": [
+        "en",
+        "es",
+        "pt-BR",
+        "x-default",
+        "en",
+        "pt-BR",
+        "en",
+        "pt-BR"
+      ],
+      "exactHreflangPtCount": 0,
+      "hasPtBr": true,
+      "hasRu": false,
+      "noindex": false,
+      "languageEntries": [
+        "wzh-i18n-header-entry--mobile{display:none!important}}@media (max-width:1020px){.wzh-i18n-home-card-grid,.wzh-i18n-home-product-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.wzh-i18n-home-factory,.wzh-i18n-home-split{grid-template-columns:1fr}}@media (max-width:999.98px){.w",
+        "wzh-i18n-header-entry{position:fixed;top:54px;right:82px;z-index:10000;display:inline-flex;align-items:center;gap:0;margin-left:16px;padding:0;border:0;background:#fff0;box-shadow:none;white-space:nowrap}.wzh-i18n-header-entry__item,.wzh-i18n-header-entry__separator{display:inlin",
+        "wzh-i18n-header-entry--mobile{display:none!important}}@media (max-width:1020px){.wzh-i18n-home-card-grid,.wzh-i18n-home-product-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.wzh-i18n-home-factory,.wzh-i18n-home-split{grid-template-columns:1fr}}@media (max-width:999.98px){.w",
+        "wzh-i18n-header-entry wzh-i18n-header-entry--desktop\" data-wzh-i18n-header-entry=\"home\" aria-label=\"Language versions\"> EN / ES / BR EN / ES / BR <script data-optimized=\"1\" id=\"wzh-i18n-header-entry-js\" src=\"data:text/javascript;base64,KGZ1bmN0aW9uKCl7ZnVuY3Rpb24gbW91bnQoKXt2YXIg"
+      ],
+      "screenshotName": "es-home.png",
+      "screenshotPath": "/Users/zhumulangmafeng/Documents/国外/records/hreflang-ptbr-minimal-fix/20260622-044305/validation-20260621T205502Z/screenshots/es-home.png",
+      "pass": true
+    },
+    {
+      "key": "pt-home",
+      "url": "https://weizhihaomachinery.com/pt/",
+      "expectedLang": "pt-BR",
+      "validationUrl": "https://weizhihaomachinery.com/pt/?v=hreflang-ptbr-final-20260621T205502Z",
+      "status": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "xLiteSpeedCache": "miss",
+      "cfCacheStatus": "DYNAMIC",
+      "htmlLang": "pt-BR",
+      "canonical": [
+        "https://weizhihaomachinery.com/pt/"
+      ],
+      "canonicalSelf": true,
+      "hreflangTags": [
+        {
+          "raw": "<link rel=\"alternate\" hreflang=\"en\" href=\"https://weizhihaomachinery.com/\" />",
+          "hreflang": "en",
+          "href": "https://weizhihaomachinery.com/"
+        },
+        {
+          "raw": "<link rel=\"alternate\" hreflang=\"es\" href=\"https://weizhihaomachinery.com/es/\" />",
+          "hreflang": "es",
+          "href": "https://weizhihaomachinery.com/es/"
+        },
+        {
+          "raw": "<link rel=\"alternate\" hreflang=\"pt-BR\" href=\"https://weizhihaomachinery.com/pt/\" />",
+          "hreflang": "pt-BR",
+          "href": "https://weizhihaomachinery.com/pt/"
+        },
+        {
+          "raw": "<link rel=\"alternate\" hreflang=\"x-default\" href=\"https://weizhihaomachinery.com/\" />",
+          "hreflang": "x-default",
+          "href": "https://weizhihaomachinery.com/"
+        }
+      ],
+      "hreflangCodes": [
+        "en",
+        "es",
+        "pt-BR",
+        "x-default"
+      ],
+      "allHreflangAttrs": [
+        "en",
+        "es",
+        "pt-BR",
+        "x-default",
+        "en",
+        "es",
+        "en",
+        "es"
+      ],
+      "exactHreflangPtCount": 0,
+      "hasPtBr": true,
+      "hasRu": false,
+      "noindex": false,
+      "languageEntries": [
+        "wzh-i18n-header-entry--mobile{display:none!important}}@media (max-width:1020px){.wzh-i18n-home-card-grid,.wzh-i18n-home-product-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.wzh-i18n-home-factory,.wzh-i18n-home-split{grid-template-columns:1fr}}@media (max-width:999.98px){.w",
+        "wzh-i18n-header-entry{position:fixed;top:54px;right:82px;z-index:10000;display:inline-flex;align-items:center;gap:0;margin-left:16px;padding:0;border:0;background:#fff0;box-shadow:none;white-space:nowrap}.wzh-i18n-header-entry__item,.wzh-i18n-header-entry__separator{display:inlin",
+        "wzh-i18n-header-entry--mobile{display:none!important}}@media (max-width:1020px){.wzh-i18n-home-card-grid,.wzh-i18n-home-product-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.wzh-i18n-home-factory,.wzh-i18n-home-split{grid-template-columns:1fr}}@media (max-width:999.98px){.w",
+        "wzh-i18n-header-entry wzh-i18n-header-entry--desktop\" data-wzh-i18n-header-entry=\"home\" aria-label=\"Language versions\"> EN / ES / BR EN / ES / BR <script data-optimized=\"1\" id=\"wzh-i18n-header-entry-js\" src=\"data:text/javascript;base64,KGZ1bmN0aW9uKCl7ZnVuY3Rpb24gbW91bnQoKXt2YXIg"
+      ],
+      "screenshotName": "pt-home.png",
+      "screenshotPath": "/Users/zhumulangmafeng/Documents/国外/records/hreflang-ptbr-minimal-fix/20260622-044305/validation-20260621T205502Z/screenshots/pt-home.png",
+      "pass": true
+    },
+    {
+      "key": "es-mf2510",
+      "url": "https://weizhihaomachinery.com/es/producto/mf2510-2515cnc-rectificadora-lineal-automatica/",
+      "expectedLang": "es-ES",
+      "validationUrl": "https://weizhihaomachinery.com/es/producto/mf2510-2515cnc-rectificadora-lineal-automatica/?v=hreflang-ptbr-final-20260621T205502Z",
+      "status": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "xLiteSpeedCache": "miss",
+      "cfCacheStatus": "DYNAMIC",
+      "htmlLang": "es-ES",
+      "canonical": [
+        "https://weizhihaomachinery.com/es/producto/mf2510-2515cnc-rectificadora-lineal-automatica/"
+      ],
+      "canonicalSelf": true,
+      "hreflangTags": [
+        {
+          "raw": "<link rel=\"alternate\" hreflang=\"en\" href=\"https://weizhihaomachinery.com/product/fully-automatic-linear-grinding-machine-mf2510cnc-mf2515cnc/\" />",
+          "hreflang": "en",
+          "href": "https://weizhihaomachinery.com/product/fully-automatic-linear-grinding-machine-mf2510cnc-mf2515cnc/"
+        },
+        {
+          "raw": "<link rel=\"alternate\" hreflang=\"es\" href=\"https://weizhihaomachinery.com/es/producto/mf2510-2515cnc-rectificadora-lineal-automatica/\" />",
+          "hreflang": "es",
+          "href": "https://weizhihaomachinery.com/es/producto/mf2510-2515cnc-rectificadora-lineal-automatica/"
+        },
+        {
+          "raw": "<link rel=\"alternate\" hreflang=\"pt-BR\" href=\"https://weizhihaomachinery.com/pt/produto/mf2510-2515cnc-retificadora-linear-automatica/\" />",
+          "hreflang": "pt-BR",
+          "href": "https://weizhihaomachinery.com/pt/produto/mf2510-2515cnc-retificadora-linear-automatica/"
+        },
+        {
+          "raw": "<link rel=\"alternate\" hreflang=\"x-default\" href=\"https://weizhihaomachinery.com/product/fully-automatic-linear-grinding-machine-mf2510cnc-mf2515cnc/\" />",
+          "hreflang": "x-default",
+          "href": "https://weizhihaomachinery.com/product/fully-automatic-linear-grinding-machine-mf2510cnc-mf2515cnc/"
+        }
+      ],
+      "hreflangCodes": [
+        "en",
+        "es",
+        "pt-BR",
+        "x-default"
+      ],
+      "allHreflangAttrs": [
+        "en",
+        "es",
+        "pt-BR",
+        "x-default",
+        "en",
+        "pt-BR",
+        "en",
+        "pt-BR"
+      ],
+      "exactHreflangPtCount": 0,
+      "hasPtBr": true,
+      "hasRu": false,
+      "noindex": false,
+      "languageEntries": [
+        "wzh-i18n-header-entry wzh-i18n-header-entry--desktop\" data-wzh-i18n-header-entry=\"product-mf2510-2515cnc\" aria-label=\"Language versions\"> EN / ES / BR EN / ES / <a class=\"wzh-i18n-header-ent",
+        "wzh-i18n-header-entry-js\" src=\"data:text/javascript;base64,KGZ1bmN0aW9uKCl7ZnVuY3Rpb24gbW91bnQoKXt2YXIgZGVza3RvcD1kb2N1bWVudC5xdWVyeVNlbGVjdG9yKCcud3poLWkxOG4taGVhZGVyLWVudHJ5LS1kZXNrdG9wJyk7dmFyIGRlc2t0b3BUYXJnZXQ9ZG9jdW1lbnQucXVlcnlTZWxlY3RvcignI2hlYWRlciBbZGF0YS1kZXZpY2U9ImRlc"
+      ],
+      "screenshotName": "es-mf2510.png",
+      "screenshotPath": "/Users/zhumulangmafeng/Documents/国外/records/hreflang-ptbr-minimal-fix/20260622-044305/validation-20260621T205502Z/screenshots/es-mf2510.png",
+      "pass": true
+    },
+    {
+      "key": "pt-mf2510",
+      "url": "https://weizhihaomachinery.com/pt/produto/mf2510-2515cnc-retificadora-linear-automatica/",
+      "expectedLang": "pt-BR",
+      "validationUrl": "https://weizhihaomachinery.com/pt/produto/mf2510-2515cnc-retificadora-linear-automatica/?v=hreflang-ptbr-final-20260621T205502Z",
+      "status": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "xLiteSpeedCache": "miss",
+      "cfCacheStatus": "DYNAMIC",
+      "htmlLang": "pt-BR",
+      "canonical": [
+        "https://weizhihaomachinery.com/pt/produto/mf2510-2515cnc-retificadora-linear-automatica/"
+      ],
+      "canonicalSelf": true,
+      "hreflangTags": [
+        {
+          "raw": "<link rel=\"alternate\" hreflang=\"en\" href=\"https://weizhihaomachinery.com/product/fully-automatic-linear-grinding-machine-mf2510cnc-mf2515cnc/\" />",
+          "hreflang": "en",
+          "href": "https://weizhihaomachinery.com/product/fully-automatic-linear-grinding-machine-mf2510cnc-mf2515cnc/"
+        },
+        {
+          "raw": "<link rel=\"alternate\" hreflang=\"es\" href=\"https://weizhihaomachinery.com/es/producto/mf2510-2515cnc-rectificadora-lineal-automatica/\" />",
+          "hreflang": "es",
+          "href": "https://weizhihaomachinery.com/es/producto/mf2510-2515cnc-rectificadora-lineal-automatica/"
+        },
+        {
+          "raw": "<link rel=\"alternate\" hreflang=\"pt-BR\" href=\"https://weizhihaomachinery.com/pt/produto/mf2510-2515cnc-retificadora-linear-automatica/\" />",
+          "hreflang": "pt-BR",
+          "href": "https://weizhihaomachinery.com/pt/produto/mf2510-2515cnc-retificadora-linear-automatica/"
+        },
+        {
+          "raw": "<link rel=\"alternate\" hreflang=\"x-default\" href=\"https://weizhihaomachinery.com/product/fully-automatic-linear-grinding-machine-mf2510cnc-mf2515cnc/\" />",
+          "hreflang": "x-default",
+          "href": "https://weizhihaomachinery.com/product/fully-automatic-linear-grinding-machine-mf2510cnc-mf2515cnc/"
+        }
+      ],
+      "hreflangCodes": [
+        "en",
+        "es",
+        "pt-BR",
+        "x-default"
+      ],
+      "allHreflangAttrs": [
+        "en",
+        "es",
+        "pt-BR",
+        "x-default",
+        "en",
+        "es",
+        "en",
+        "es"
+      ],
+      "exactHreflangPtCount": 0,
+      "hasPtBr": true,
+      "hasRu": false,
+      "noindex": false,
+      "languageEntries": [
+        "wzh-i18n-header-entry wzh-i18n-header-entry--desktop\" data-wzh-i18n-header-entry=\"product-mf2510-2515cnc\" aria-label=\"Language versions\"> EN / ES / BR EN / ES <span class=\"wzh-i18n-header-",
+        "wzh-i18n-header-entry__item is-current\" lang=\"pt\" aria-current=\"page\">BR <script data-optimized=\"1\" id=\"wzh-i18n-header-entry-js\" src=\"data:text/javascript;base64,KGZ1bmN0aW9uKCl7ZnVuY3Rpb24gbW91bnQoKXt2YXIgZGVza3RvcD1kb2N1bWVudC5xdWVyeVNlbGVjdG9yKCcud3poLWkxOG4taGVhZGVyLWVudHJ5L"
+      ],
+      "screenshotName": "pt-mf2510.png",
+      "screenshotPath": "/Users/zhumulangmafeng/Documents/国外/records/hreflang-ptbr-minimal-fix/20260622-044305/validation-20260621T205502Z/screenshots/pt-mf2510.png",
+      "pass": true
+    },
+    {
+      "key": "en-mf158cnc",
+      "url": "https://weizhihaomachinery.com/product/fully-automatic-circular-saw-blade-sharpening-machine-mf158cnc/",
+      "expectedLang": "en-US",
+      "validationUrl": "https://weizhihaomachinery.com/product/fully-automatic-circular-saw-blade-sharpening-machine-mf158cnc/?v=hreflang-ptbr-final-20260621T205502Z",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "xLiteSpeedCache": "miss",
+      "cfCacheStatus": "DYNAMIC",
+      "htmlLang": "en-US",
+      "canonical": [
+        "https://weizhihaomachinery.com/product/fully-automatic-circular-saw-blade-sharpening-machine-mf158cnc/"
+      ],
+      "canonicalSelf": true,
+      "hreflangTags": [
+        {
+          "raw": "<link rel=\"alternate\" hreflang=\"en\" href=\"https://weizhihaomachinery.com/product/fully-automatic-circular-saw-blade-sharpening-machine-mf158cnc/\" />",
+          "hreflang": "en",
+          "href": "https://weizhihaomachinery.com/product/fully-automatic-circular-saw-blade-sharpening-machine-mf158cnc/"
+        },
+        {
+          "raw": "<link rel=\"alternate\" hreflang=\"es\" href=\"https://weizhihaomachinery.com/es/producto/mf158cnc-afiladora-sierra-circular-cnc/\" />",
+          "hreflang": "es",
+          "href": "https://weizhihaomachinery.com/es/producto/mf158cnc-afiladora-sierra-circular-cnc/"
+        },
+        {
+          "raw": "<link rel=\"alternate\" hreflang=\"pt-BR\" href=\"https://weizhihaomachinery.com/pt/produto/mf158cnc-afiadora-serra-circular-cnc/\" />",
+          "hreflang": "pt-BR",
+          "href": "https://weizhihaomachinery.com/pt/produto/mf158cnc-afiadora-serra-circular-cnc/"
+        },
+        {
+          "raw": "<link rel=\"alternate\" hreflang=\"x-default\" href=\"https://weizhihaomachinery.com/product/fully-automatic-circular-saw-blade-sharpening-machine-mf158cnc/\" />",
+          "hreflang": "x-default",
+          "href": "https://weizhihaomachinery.com/product/fully-automatic-circular-saw-blade-sharpening-machine-mf158cnc/"
+        }
+      ],
+      "hreflangCodes": [
+        "en",
+        "es",
+        "pt-BR",
+        "x-default"
+      ],
+      "allHreflangAttrs": [
+        "en",
+        "es",
+        "pt-BR",
+        "x-default",
+        "es",
+        "pt-BR",
+        "es",
+        "pt-BR"
+      ],
+      "exactHreflangPtCount": 0,
+      "hasPtBr": true,
+      "hasRu": false,
+      "noindex": false,
+      "languageEntries": [
+        "wzh-i18n-header-entry wzh-i18n-header-entry--desktop\" data-wzh-i18n-header-entry=\"product-mf158cnc\" aria-label=\"Language versions\"> EN / ES / BR EN / ES / <a class=\"wzh-i18n-header-entry__item\" href=\"https://weizhihaomachinery.com/pt/produ",
+        "wzh-i18n-header-entry-js\" src=\"data:text/javascript;base64,KGZ1bmN0aW9uKCl7ZnVuY3Rpb24gbW91bnQoKXt2YXIgZGVza3RvcD1kb2N1bWVudC5xdWVyeVNlbGVjdG9yKCcud3poLWkxOG4taGVhZGVyLWVudHJ5LS1kZXNrdG9wJyk7dmFyIGRlc2t0b3BUYXJnZXQ9ZG9jdW1lbnQucXVlcnlTZWxlY3RvcignI2hlYWRlciBbZGF0YS1kZXZpY2U9ImRlc"
+      ],
+      "screenshotName": "en-mf158cnc.png",
+      "screenshotPath": "/Users/zhumulangmafeng/Documents/国外/records/hreflang-ptbr-minimal-fix/20260622-044305/validation-20260621T205502Z/screenshots/en-mf158cnc.png",
+      "pass": true
+    }
+  ],
+  "jsonCheck": {
+    "url": "https://weizhihaomachinery.com/wp-content/plugins/wzh-seo-output-fixes/config/i18n-settings.json?v=hreflang-ptbr-final-20260621T205502Z",
+    "status": 200,
+    "pt": {
+      "label": "BR",
+      "html_lang": "pt-BR",
+      "dir": "ltr",
+      "enabled": true
+    },
+    "ru": {
+      "label": "RU",
+      "html_lang": "ru-RU",
+      "dir": "ltr",
+      "enabled": false
+    }
+  }
+}

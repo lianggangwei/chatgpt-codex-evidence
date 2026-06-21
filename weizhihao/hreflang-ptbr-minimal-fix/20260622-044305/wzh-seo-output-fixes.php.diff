@@ -1,0 +1,48 @@
+--- /Users/zhumulangmafeng/Documents/国外/records/hreflang-ptbr-minimal-fix/20260622-044305/wzh-seo-output-fixes.php.before	2026-06-22 04:43:13
++++ /Users/zhumulangmafeng/Documents/国外/records/hreflang-ptbr-minimal-fix/20260622-044305/wzh-seo-output-fixes.php.after	2026-06-22 04:44:56
+@@ -279,7 +279,18 @@
+ 
+     return isset($config[$lang]['html_lang']) ? $config[$lang]['html_lang'] : '';
+ }
++
++function wzh_seo_output_plugin_i18n_hreflang_code($lang) {
++    $lang = sanitize_key((string) $lang);
++    $html_lang = wzh_seo_output_plugin_i18n_language_html_lang($lang);
++
++    if ($lang === 'pt' && strcasecmp($html_lang, 'pt-BR') === 0) {
++        return 'pt-BR';
++    }
+ 
++    return $lang;
++}
++
+ function wzh_seo_output_plugin_i18n_language_is_enabled($lang) {
+     $config = wzh_seo_output_plugin_i18n_language_config();
+     $lang = sanitize_key((string) $lang);
+@@ -1570,7 +1581,7 @@
+     foreach ($group['languages'] as $lang => $url) {
+         printf(
+             '<link rel="alternate" hreflang="%s" href="%s" />' . "\n",
+-            esc_attr($lang),
++            esc_attr(wzh_seo_output_plugin_i18n_hreflang_code($lang)),
+             esc_url(wzh_seo_output_plugin_i18n_normalize_url($url))
+         );
+     }
+@@ -1652,7 +1663,7 @@
+             foreach ($alternates as $alt_lang => $alt_url) {
+                 printf(
+                     '    <xhtml:link rel="alternate" hreflang="%s" href="%s" />' . "\n",
+-                    esc_attr($alt_lang),
++                    esc_attr(wzh_seo_output_plugin_i18n_hreflang_code($alt_lang)),
+                     esc_url($alt_url)
+                 );
+             }
+@@ -1712,7 +1723,7 @@
+         $html .= sprintf(
+             '<a class="wzh-i18n-header-entry__item" href="%s" hreflang="%s" lang="%s">%s</a>',
+             esc_url(wzh_seo_output_plugin_i18n_normalize_url($url)),
+-            esc_attr($lang),
++            esc_attr(wzh_seo_output_plugin_i18n_hreflang_code($lang)),
+             esc_attr($lang),
+             esc_html($label)
+         );
