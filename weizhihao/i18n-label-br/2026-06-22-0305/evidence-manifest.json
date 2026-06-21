@@ -1,0 +1,56 @@
+{
+  "task": "weizhihao-i18n-pt-label-to-br",
+  "audit_time_cst": "2026-06-22 03:05",
+  "scope": "Only change live config/i18n-settings.json languages.pt.label from PT to BR.",
+  "remote_active_path": "/domains/weizhihaomachinery.com/public_html/wp-content/plugins/wzh-seo-output-fixes/config/i18n-settings.json",
+  "backup_path": "/Users/zhumulangmafeng/Documents/国外/records/i18n-settings-label-br-2026-06-22/i18n-settings.domain-before.json",
+  "after_upload_path": "/Users/zhumulangmafeng/Documents/国外/records/i18n-settings-label-br-2026-06-22/i18n-settings.domain-after-upload.json",
+  "not_changed": [
+    "pt url remains /pt/",
+    "language key remains pt",
+    "html_lang remains pt-BR",
+    "enabled remains unchanged",
+    "ru remains unchanged",
+    "registry remains unchanged",
+    "product directory remains unchanged",
+    "wzh-seo-output-fixes.php remains unchanged",
+    "WPCode remains unchanged",
+    "no WordPress page was saved or published",
+    "no plugin package was uploaded"
+  ],
+  "cache_actions": [
+    "LiteSpeed LSCache purge",
+    "LiteSpeed Opcode Cache purge"
+  ],
+  "github_evidence_directory": "weizhihao/i18n-label-br/2026-06-22-0305",
+  "log_url": "https://github.com/lianggangwei/chatgpt-codex-evidence/blob/main/weizhihao/i18n-label-br/2026-06-22-0305/audit-log.md",
+  "pages": [
+    {
+      "name": "Home language entry",
+      "url": "https://weizhihaomachinery.com/",
+      "language": "EN",
+      "status": "normal",
+      "expected_entry": "EN / ES / BR",
+      "screenshot": "home-language-entry-br.png",
+      "screenshot_url": "https://raw.githubusercontent.com/lianggangwei/chatgpt-codex-evidence/main/weizhihao/i18n-label-br/2026-06-22-0305/home-language-entry-br.png"
+    },
+    {
+      "name": "PT home language entry",
+      "url": "https://weizhihaomachinery.com/pt/",
+      "language": "pt-BR",
+      "status": "normal",
+      "expected_entry": "EN / ES / BR",
+      "screenshot": "pt-home-language-entry-br.png",
+      "screenshot_url": "https://raw.githubusercontent.com/lianggangwei/chatgpt-codex-evidence/main/weizhihao/i18n-label-br/2026-06-22-0305/pt-home-language-entry-br.png"
+    },
+    {
+      "name": "PT MF2510CNC / MF2515CNC product language entry",
+      "url": "https://weizhihaomachinery.com/pt/produto/mf2510-2515cnc-retificadora-linear-automatica/",
+      "language": "pt-BR",
+      "status": "normal",
+      "expected_entry": "EN / ES / BR",
+      "screenshot": "pt-mf2510-language-entry-br.png",
+      "screenshot_url": "https://raw.githubusercontent.com/lianggangwei/chatgpt-codex-evidence/main/weizhihao/i18n-label-br/2026-06-22-0305/pt-mf2510-language-entry-br.png"
+    }
+  ]
+}
