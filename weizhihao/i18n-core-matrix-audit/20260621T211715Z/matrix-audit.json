@@ -1,0 +1,868 @@
+{
+  "timestamp": "20260621T211715Z",
+  "mode": "read-only EN/ES/BR core language matrix audit",
+  "constraints": "No site changes, no page saves, no plugin/config edits, no cache purge, no RU work.",
+  "row_count": 15,
+  "counts": {
+    "OK": 11,
+    "P0": 1,
+    "P1": 3,
+    "missing_language_rows": 4,
+    "mutual_return_ok_rows": 11
+  },
+  "results": [
+    {
+      "page_type": "Home",
+      "page_name": "Homepage",
+      "source_note": "",
+      "en_url": "https://weizhihaomachinery.com/",
+      "es_url": "https://weizhihaomachinery.com/es/",
+      "br_url": "https://weizhihaomachinery.com/pt/",
+      "status": {
+        "en": 200,
+        "es": 200,
+        "br": 200
+      },
+      "redirects": {
+        "en": [],
+        "es": [],
+        "br": []
+      },
+      "html_lang": {
+        "en": "en-US",
+        "es": "es-ES",
+        "br": "pt-BR"
+      },
+      "canonical": {
+        "en": "https://weizhihaomachinery.com/",
+        "es": "https://weizhihaomachinery.com/es/",
+        "br": "https://weizhihaomachinery.com/pt/"
+      },
+      "hreflang": {
+        "en": {
+          "en": "https://weizhihaomachinery.com/",
+          "es": "https://weizhihaomachinery.com/es/",
+          "pt-BR": "https://weizhihaomachinery.com/pt/",
+          "x-default": "https://weizhihaomachinery.com/"
+        },
+        "es": {
+          "en": "https://weizhihaomachinery.com/",
+          "es": "https://weizhihaomachinery.com/es/",
+          "pt-BR": "https://weizhihaomachinery.com/pt/",
+          "x-default": "https://weizhihaomachinery.com/"
+        },
+        "br": {
+          "en": "https://weizhihaomachinery.com/",
+          "es": "https://weizhihaomachinery.com/es/",
+          "pt-BR": "https://weizhihaomachinery.com/pt/",
+          "x-default": "https://weizhihaomachinery.com/"
+        }
+      },
+      "x_default": {
+        "en": "https://weizhihaomachinery.com/",
+        "es": "https://weizhihaomachinery.com/",
+        "br": "https://weizhihaomachinery.com/"
+      },
+      "mutual_return_links": true,
+      "missing_pages": [],
+      "needs_translation": false,
+      "priority": "OK",
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "page_type": "Product index",
+      "page_name": "Products",
+      "source_note": "",
+      "en_url": "https://weizhihaomachinery.com/products/",
+      "es_url": "https://weizhihaomachinery.com/es/productos/",
+      "br_url": "https://weizhihaomachinery.com/pt/produtos/",
+      "status": {
+        "en": 200,
+        "es": 200,
+        "br": 200
+      },
+      "redirects": {
+        "en": [],
+        "es": [],
+        "br": []
+      },
+      "html_lang": {
+        "en": "en-US",
+        "es": "es-ES",
+        "br": "pt-BR"
+      },
+      "canonical": {
+        "en": "https://weizhihaomachinery.com/products/",
+        "es": "https://weizhihaomachinery.com/es/productos/",
+        "br": "https://weizhihaomachinery.com/pt/produtos/"
+      },
+      "hreflang": {
+        "en": {
+          "en": "https://weizhihaomachinery.com/products/",
+          "es": "https://weizhihaomachinery.com/es/productos/",
+          "pt-BR": "https://weizhihaomachinery.com/pt/produtos/",
+          "x-default": "https://weizhihaomachinery.com/products/"
+        },
+        "es": {
+          "en": "https://weizhihaomachinery.com/products/",
+          "es": "https://weizhihaomachinery.com/es/productos/",
+          "pt-BR": "https://weizhihaomachinery.com/pt/produtos/",
+          "x-default": "https://weizhihaomachinery.com/products/"
+        },
+        "br": {
+          "en": "https://weizhihaomachinery.com/products/",
+          "es": "https://weizhihaomachinery.com/es/productos/",
+          "pt-BR": "https://weizhihaomachinery.com/pt/produtos/",
+          "x-default": "https://weizhihaomachinery.com/products/"
+        }
+      },
+      "x_default": {
+        "en": "https://weizhihaomachinery.com/products/",
+        "es": "https://weizhihaomachinery.com/products/",
+        "br": "https://weizhihaomachinery.com/products/"
+      },
+      "mutual_return_links": true,
+      "missing_pages": [],
+      "needs_translation": false,
+      "priority": "OK",
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "page_type": "Category",
+      "page_name": "Saw Blade Grinder",
+      "source_note": "",
+      "en_url": "https://weizhihaomachinery.com/product-category/saw-blade-grinder/",
+      "es_url": "https://weizhihaomachinery.com/es/afiladora-hojas-sierra/",
+      "br_url": "https://weizhihaomachinery.com/pt/afiadora-serra-circular/",
+      "status": {
+        "en": 200,
+        "es": 200,
+        "br": 200
+      },
+      "redirects": {
+        "en": [],
+        "es": [],
+        "br": []
+      },
+      "html_lang": {
+        "en": "en-US",
+        "es": "es-ES",
+        "br": "pt-BR"
+      },
+      "canonical": {
+        "en": "https://weizhihaomachinery.com/product-category/saw-blade-grinder/",
+        "es": "https://weizhihaomachinery.com/es/afiladora-hojas-sierra/",
+        "br": "https://weizhihaomachinery.com/pt/afiadora-serra-circular/"
+      },
+      "hreflang": {
+        "en": {
+          "en": "https://weizhihaomachinery.com/product-category/saw-blade-grinder/",
+          "es": "https://weizhihaomachinery.com/es/afiladora-hojas-sierra/",
+          "pt-BR": "https://weizhihaomachinery.com/pt/afiadora-serra-circular/",
+          "x-default": "https://weizhihaomachinery.com/product-category/saw-blade-grinder/"
+        },
+        "es": {
+          "en": "https://weizhihaomachinery.com/product-category/saw-blade-grinder/",
+          "es": "https://weizhihaomachinery.com/es/afiladora-hojas-sierra/",
+          "pt-BR": "https://weizhihaomachinery.com/pt/afiadora-serra-circular/",
+          "x-default": "https://weizhihaomachinery.com/product-category/saw-blade-grinder/"
+        },
+        "br": {
+          "en": "https://weizhihaomachinery.com/product-category/saw-blade-grinder/",
+          "es": "https://weizhihaomachinery.com/es/afiladora-hojas-sierra/",
+          "pt-BR": "https://weizhihaomachinery.com/pt/afiadora-serra-circular/",
+          "x-default": "https://weizhihaomachinery.com/product-category/saw-blade-grinder/"
+        }
+      },
+      "x_default": {
+        "en": "https://weizhihaomachinery.com/product-category/saw-blade-grinder/",
+        "es": "https://weizhihaomachinery.com/product-category/saw-blade-grinder/",
+        "br": "https://weizhihaomachinery.com/product-category/saw-blade-grinder/"
+      },
+      "mutual_return_links": true,
+      "missing_pages": [],
+      "needs_translation": false,
+      "priority": "OK",
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "page_type": "Category",
+      "page_name": "Straight Knife Grinder",
+      "source_note": "",
+      "en_url": "https://weizhihaomachinery.com/product-category/straight-knife-grinder/",
+      "es_url": "https://weizhihaomachinery.com/es/afiladora-cuchillas-rectas/",
+      "br_url": "https://weizhihaomachinery.com/pt/afiadora-facas-retas/",
+      "status": {
+        "en": 200,
+        "es": 200,
+        "br": 200
+      },
+      "redirects": {
+        "en": [],
+        "es": [],
+        "br": []
+      },
+      "html_lang": {
+        "en": "en-US",
+        "es": "es-ES",
+        "br": "pt-BR"
+      },
+      "canonical": {
+        "en": "https://weizhihaomachinery.com/product-category/straight-knife-grinder/",
+        "es": "https://weizhihaomachinery.com/es/afiladora-cuchillas-rectas/",
+        "br": "https://weizhihaomachinery.com/pt/afiadora-facas-retas/"
+      },
+      "hreflang": {
+        "en": {
+          "en": "https://weizhihaomachinery.com/product-category/straight-knife-grinder/",
+          "es": "https://weizhihaomachinery.com/es/afiladora-cuchillas-rectas/",
+          "pt-BR": "https://weizhihaomachinery.com/pt/afiadora-facas-retas/",
+          "x-default": "https://weizhihaomachinery.com/product-category/straight-knife-grinder/"
+        },
+        "es": {
+          "en": "https://weizhihaomachinery.com/product-category/straight-knife-grinder/",
+          "es": "https://weizhihaomachinery.com/es/afiladora-cuchillas-rectas/",
+          "pt-BR": "https://weizhihaomachinery.com/pt/afiadora-facas-retas/",
+          "x-default": "https://weizhihaomachinery.com/product-category/straight-knife-grinder/"
+        },
+        "br": {
+          "en": "https://weizhihaomachinery.com/product-category/straight-knife-grinder/",
+          "es": "https://weizhihaomachinery.com/es/afiladora-cuchillas-rectas/",
+          "pt-BR": "https://weizhihaomachinery.com/pt/afiadora-facas-retas/",
+          "x-default": "https://weizhihaomachinery.com/product-category/straight-knife-grinder/"
+        }
+      },
+      "x_default": {
+        "en": "https://weizhihaomachinery.com/product-category/straight-knife-grinder/",
+        "es": "https://weizhihaomachinery.com/product-category/straight-knife-grinder/",
+        "br": "https://weizhihaomachinery.com/product-category/straight-knife-grinder/"
+      },
+      "mutual_return_links": true,
+      "missing_pages": [],
+      "needs_translation": false,
+      "priority": "OK",
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "page_type": "Category",
+      "page_name": "Universal Tool Grinder",
+      "source_note": "",
+      "en_url": "https://weizhihaomachinery.com/product-category/universal-tool-grinder/",
+      "es_url": "https://weizhihaomachinery.com/es/afiladora-universal-herramientas/",
+      "br_url": "https://weizhihaomachinery.com/pt/afiadora-universal-ferramentas/",
+      "status": {
+        "en": 200,
+        "es": 200,
+        "br": 200
+      },
+      "redirects": {
+        "en": [],
+        "es": [],
+        "br": []
+      },
+      "html_lang": {
+        "en": "en-US",
+        "es": "es-ES",
+        "br": "pt-BR"
+      },
+      "canonical": {
+        "en": "https://weizhihaomachinery.com/product-category/universal-tool-grinder/",
+        "es": "https://weizhihaomachinery.com/es/afiladora-universal-herramientas/",
+        "br": "https://weizhihaomachinery.com/pt/afiadora-universal-ferramentas/"
+      },
+      "hreflang": {
+        "en": {
+          "en": "https://weizhihaomachinery.com/product-category/universal-tool-grinder/",
+          "es": "https://weizhihaomachinery.com/es/afiladora-universal-herramientas/",
+          "pt-BR": "https://weizhihaomachinery.com/pt/afiadora-universal-ferramentas/",
+          "x-default": "https://weizhihaomachinery.com/product-category/universal-tool-grinder/"
+        },
+        "es": {
+          "en": "https://weizhihaomachinery.com/product-category/universal-tool-grinder/",
+          "es": "https://weizhihaomachinery.com/es/afiladora-universal-herramientas/",
+          "pt-BR": "https://weizhihaomachinery.com/pt/afiadora-universal-ferramentas/",
+          "x-default": "https://weizhihaomachinery.com/product-category/universal-tool-grinder/"
+        },
+        "br": {
+          "en": "https://weizhihaomachinery.com/product-category/universal-tool-grinder/",
+          "es": "https://weizhihaomachinery.com/es/afiladora-universal-herramientas/",
+          "pt-BR": "https://weizhihaomachinery.com/pt/afiadora-universal-ferramentas/",
+          "x-default": "https://weizhihaomachinery.com/product-category/universal-tool-grinder/"
+        }
+      },
+      "x_default": {
+        "en": "https://weizhihaomachinery.com/product-category/universal-tool-grinder/",
+        "es": "https://weizhihaomachinery.com/product-category/universal-tool-grinder/",
+        "br": "https://weizhihaomachinery.com/product-category/universal-tool-grinder/"
+      },
+      "mutual_return_links": true,
+      "missing_pages": [],
+      "needs_translation": false,
+      "priority": "OK",
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "page_type": "Category",
+      "page_name": "Profiling Knife Sharpening Machine",
+      "source_note": "",
+      "en_url": "https://weizhihaomachinery.com/product-category/profiling-knife-sharpening-machine/",
+      "es_url": "https://weizhihaomachinery.com/es/afiladora-cuchillas-perfiladas/",
+      "br_url": "https://weizhihaomachinery.com/pt/afiadora-facas-perfiladas/",
+      "status": {
+        "en": 200,
+        "es": 200,
+        "br": 200
+      },
+      "redirects": {
+        "en": [],
+        "es": [],
+        "br": []
+      },
+      "html_lang": {
+        "en": "en-US",
+        "es": "es-ES",
+        "br": "pt-BR"
+      },
+      "canonical": {
+        "en": "https://weizhihaomachinery.com/product-category/profiling-knife-sharpening-machine/",
+        "es": "https://weizhihaomachinery.com/es/afiladora-cuchillas-perfiladas/",
+        "br": "https://weizhihaomachinery.com/pt/afiadora-facas-perfiladas/"
+      },
+      "hreflang": {
+        "en": {
+          "en": "https://weizhihaomachinery.com/product-category/profiling-knife-sharpening-machine/",
+          "es": "https://weizhihaomachinery.com/es/afiladora-cuchillas-perfiladas/",
+          "pt-BR": "https://weizhihaomachinery.com/pt/afiadora-facas-perfiladas/",
+          "x-default": "https://weizhihaomachinery.com/product-category/profiling-knife-sharpening-machine/"
+        },
+        "es": {
+          "en": "https://weizhihaomachinery.com/product-category/profiling-knife-sharpening-machine/",
+          "es": "https://weizhihaomachinery.com/es/afiladora-cuchillas-perfiladas/",
+          "pt-BR": "https://weizhihaomachinery.com/pt/afiadora-facas-perfiladas/",
+          "x-default": "https://weizhihaomachinery.com/product-category/profiling-knife-sharpening-machine/"
+        },
+        "br": {
+          "en": "https://weizhihaomachinery.com/product-category/profiling-knife-sharpening-machine/",
+          "es": "https://weizhihaomachinery.com/es/afiladora-cuchillas-perfiladas/",
+          "pt-BR": "https://weizhihaomachinery.com/pt/afiadora-facas-perfiladas/",
+          "x-default": "https://weizhihaomachinery.com/product-category/profiling-knife-sharpening-machine/"
+        }
+      },
+      "x_default": {
+        "en": "https://weizhihaomachinery.com/product-category/profiling-knife-sharpening-machine/",
+        "es": "https://weizhihaomachinery.com/product-category/profiling-knife-sharpening-machine/",
+        "br": "https://weizhihaomachinery.com/product-category/profiling-knife-sharpening-machine/"
+      },
+      "mutual_return_links": true,
+      "missing_pages": [],
+      "needs_translation": false,
+      "priority": "OK",
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "page_type": "Category",
+      "page_name": "Blade Grinding Machine",
+      "source_note": "",
+      "en_url": "https://weizhihaomachinery.com/product-category/blade-grinding-machine/",
+      "es_url": "https://weizhihaomachinery.com/es/rectificadora-cuchillas-industriales/",
+      "br_url": "https://weizhihaomachinery.com/pt/retificadora-facas-industriais/",
+      "status": {
+        "en": 200,
+        "es": 200,
+        "br": 200
+      },
+      "redirects": {
+        "en": [],
+        "es": [],
+        "br": []
+      },
+      "html_lang": {
+        "en": "en-US",
+        "es": "es-ES",
+        "br": "pt-BR"
+      },
+      "canonical": {
+        "en": "https://weizhihaomachinery.com/product-category/blade-grinding-machine/",
+        "es": "https://weizhihaomachinery.com/es/rectificadora-cuchillas-industriales/",
+        "br": "https://weizhihaomachinery.com/pt/retificadora-facas-industriais/"
+      },
+      "hreflang": {
+        "en": {
+          "en": "https://weizhihaomachinery.com/product-category/blade-grinding-machine/",
+          "es": "https://weizhihaomachinery.com/es/rectificadora-cuchillas-industriales/",
+          "pt-BR": "https://weizhihaomachinery.com/pt/retificadora-facas-industriais/",
+          "x-default": "https://weizhihaomachinery.com/product-category/blade-grinding-machine/"
+        },
+        "es": {
+          "en": "https://weizhihaomachinery.com/product-category/blade-grinding-machine/",
+          "es": "https://weizhihaomachinery.com/es/rectificadora-cuchillas-industriales/",
+          "pt-BR": "https://weizhihaomachinery.com/pt/retificadora-facas-industriais/",
+          "x-default": "https://weizhihaomachinery.com/product-category/blade-grinding-machine/"
+        },
+        "br": {
+          "en": "https://weizhihaomachinery.com/product-category/blade-grinding-machine/",
+          "es": "https://weizhihaomachinery.com/es/rectificadora-cuchillas-industriales/",
+          "pt-BR": "https://weizhihaomachinery.com/pt/retificadora-facas-industriais/",
+          "x-default": "https://weizhihaomachinery.com/product-category/blade-grinding-machine/"
+        }
+      },
+      "x_default": {
+        "en": "https://weizhihaomachinery.com/product-category/blade-grinding-machine/",
+        "es": "https://weizhihaomachinery.com/product-category/blade-grinding-machine/",
+        "br": "https://weizhihaomachinery.com/product-category/blade-grinding-machine/"
+      },
+      "mutual_return_links": true,
+      "missing_pages": [],
+      "needs_translation": false,
+      "priority": "OK",
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "page_type": "Product",
+      "page_name": "MF158CNC",
+      "source_note": "",
+      "en_url": "https://weizhihaomachinery.com/product/fully-automatic-circular-saw-blade-sharpening-machine-mf158cnc/",
+      "es_url": "https://weizhihaomachinery.com/es/producto/mf158cnc-afiladora-sierra-circular-cnc/",
+      "br_url": "https://weizhihaomachinery.com/pt/produto/mf158cnc-afiadora-serra-circular-cnc/",
+      "status": {
+        "en": 200,
+        "es": 200,
+        "br": 200
+      },
+      "redirects": {
+        "en": [],
+        "es": [],
+        "br": []
+      },
+      "html_lang": {
+        "en": "en-US",
+        "es": "es-ES",
+        "br": "pt-BR"
+      },
+      "canonical": {
+        "en": "https://weizhihaomachinery.com/product/fully-automatic-circular-saw-blade-sharpening-machine-mf158cnc/",
+        "es": "https://weizhihaomachinery.com/es/producto/mf158cnc-afiladora-sierra-circular-cnc/",
+        "br": "https://weizhihaomachinery.com/pt/produto/mf158cnc-afiadora-serra-circular-cnc/"
+      },
+      "hreflang": {
+        "en": {
+          "en": "https://weizhihaomachinery.com/product/fully-automatic-circular-saw-blade-sharpening-machine-mf158cnc/",
+          "es": "https://weizhihaomachinery.com/es/producto/mf158cnc-afiladora-sierra-circular-cnc/",
+          "pt-BR": "https://weizhihaomachinery.com/pt/produto/mf158cnc-afiadora-serra-circular-cnc/",
+          "x-default": "https://weizhihaomachinery.com/product/fully-automatic-circular-saw-blade-sharpening-machine-mf158cnc/"
+        },
+        "es": {
+          "en": "https://weizhihaomachinery.com/product/fully-automatic-circular-saw-blade-sharpening-machine-mf158cnc/",
+          "es": "https://weizhihaomachinery.com/es/producto/mf158cnc-afiladora-sierra-circular-cnc/",
+          "pt-BR": "https://weizhihaomachinery.com/pt/produto/mf158cnc-afiadora-serra-circular-cnc/",
+          "x-default": "https://weizhihaomachinery.com/product/fully-automatic-circular-saw-blade-sharpening-machine-mf158cnc/"
+        },
+        "br": {
+          "en": "https://weizhihaomachinery.com/product/fully-automatic-circular-saw-blade-sharpening-machine-mf158cnc/",
+          "es": "https://weizhihaomachinery.com/es/producto/mf158cnc-afiladora-sierra-circular-cnc/",
+          "pt-BR": "https://weizhihaomachinery.com/pt/produto/mf158cnc-afiadora-serra-circular-cnc/",
+          "x-default": "https://weizhihaomachinery.com/product/fully-automatic-circular-saw-blade-sharpening-machine-mf158cnc/"
+        }
+      },
+      "x_default": {
+        "en": "https://weizhihaomachinery.com/product/fully-automatic-circular-saw-blade-sharpening-machine-mf158cnc/",
+        "es": "https://weizhihaomachinery.com/product/fully-automatic-circular-saw-blade-sharpening-machine-mf158cnc/",
+        "br": "https://weizhihaomachinery.com/product/fully-automatic-circular-saw-blade-sharpening-machine-mf158cnc/"
+      },
+      "mutual_return_links": true,
+      "missing_pages": [],
+      "needs_translation": false,
+      "priority": "OK",
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "page_type": "Product",
+      "page_name": "MF2510CNC / MF2515CNC",
+      "source_note": "",
+      "en_url": "https://weizhihaomachinery.com/product/fully-automatic-linear-grinding-machine-mf2510cnc-mf2515cnc/",
+      "es_url": "https://weizhihaomachinery.com/es/producto/mf2510-2515cnc-rectificadora-lineal-automatica/",
+      "br_url": "https://weizhihaomachinery.com/pt/produto/mf2510-2515cnc-retificadora-linear-automatica/",
+      "status": {
+        "en": 200,
+        "es": 200,
+        "br": 200
+      },
+      "redirects": {
+        "en": [],
+        "es": [],
+        "br": []
+      },
+      "html_lang": {
+        "en": "en-US",
+        "es": "es-ES",
+        "br": "pt-BR"
+      },
+      "canonical": {
+        "en": "https://weizhihaomachinery.com/product/fully-automatic-linear-grinding-machine-mf2510cnc-mf2515cnc/",
+        "es": "https://weizhihaomachinery.com/es/producto/mf2510-2515cnc-rectificadora-lineal-automatica/",
+        "br": "https://weizhihaomachinery.com/pt/produto/mf2510-2515cnc-retificadora-linear-automatica/"
+      },
+      "hreflang": {
+        "en": {
+          "en": "https://weizhihaomachinery.com/product/fully-automatic-linear-grinding-machine-mf2510cnc-mf2515cnc/",
+          "es": "https://weizhihaomachinery.com/es/producto/mf2510-2515cnc-rectificadora-lineal-automatica/",
+          "pt-BR": "https://weizhihaomachinery.com/pt/produto/mf2510-2515cnc-retificadora-linear-automatica/",
+          "x-default": "https://weizhihaomachinery.com/product/fully-automatic-linear-grinding-machine-mf2510cnc-mf2515cnc/"
+        },
+        "es": {
+          "en": "https://weizhihaomachinery.com/product/fully-automatic-linear-grinding-machine-mf2510cnc-mf2515cnc/",
+          "es": "https://weizhihaomachinery.com/es/producto/mf2510-2515cnc-rectificadora-lineal-automatica/",
+          "pt-BR": "https://weizhihaomachinery.com/pt/produto/mf2510-2515cnc-retificadora-linear-automatica/",
+          "x-default": "https://weizhihaomachinery.com/product/fully-automatic-linear-grinding-machine-mf2510cnc-mf2515cnc/"
+        },
+        "br": {
+          "en": "https://weizhihaomachinery.com/product/fully-automatic-linear-grinding-machine-mf2510cnc-mf2515cnc/",
+          "es": "https://weizhihaomachinery.com/es/producto/mf2510-2515cnc-rectificadora-lineal-automatica/",
+          "pt-BR": "https://weizhihaomachinery.com/pt/produto/mf2510-2515cnc-retificadora-linear-automatica/",
+          "x-default": "https://weizhihaomachinery.com/product/fully-automatic-linear-grinding-machine-mf2510cnc-mf2515cnc/"
+        }
+      },
+      "x_default": {
+        "en": "https://weizhihaomachinery.com/product/fully-automatic-linear-grinding-machine-mf2510cnc-mf2515cnc/",
+        "es": "https://weizhihaomachinery.com/product/fully-automatic-linear-grinding-machine-mf2510cnc-mf2515cnc/",
+        "br": "https://weizhihaomachinery.com/product/fully-automatic-linear-grinding-machine-mf2510cnc-mf2515cnc/"
+      },
+      "mutual_return_links": true,
+      "missing_pages": [],
+      "needs_translation": false,
+      "priority": "OK",
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "page_type": "Product",
+      "page_name": "MF223C",
+      "source_note": "",
+      "en_url": "https://weizhihaomachinery.com/product/profiling-knife-sharpening-machine/",
+      "es_url": "",
+      "br_url": "",
+      "status": {
+        "en": 200,
+        "es": null,
+        "br": null
+      },
+      "redirects": {
+        "en": [],
+        "es": [],
+        "br": []
+      },
+      "html_lang": {
+        "en": "en-US",
+        "es": "",
+        "br": ""
+      },
+      "canonical": {
+        "en": "https://weizhihaomachinery.com/product/profiling-knife-sharpening-machine/",
+        "es": "",
+        "br": ""
+      },
+      "hreflang": {
+        "en": {},
+        "es": {},
+        "br": {}
+      },
+      "x_default": {
+        "en": "",
+        "es": "",
+        "br": ""
+      },
+      "mutual_return_links": false,
+      "missing_pages": [
+        "ES",
+        "BR"
+      ],
+      "needs_translation": true,
+      "priority": "P1",
+      "issues": [
+        "EN hreflang missing ['en', 'es', 'pt-BR', 'x-default']",
+        "ES page missing or non-200 (None; missing hreflang alternate)",
+        "BR page missing or non-200 (None; missing hreflang alternate)"
+      ],
+      "notes": "EN hreflang missing ['en', 'es', 'pt-BR', 'x-default']; ES page missing or non-200 (None; missing hreflang alternate); BR page missing or non-200 (None; missing hreflang alternate)"
+    },
+    {
+      "page_type": "Product",
+      "page_name": "MF256",
+      "source_note": "",
+      "en_url": "https://weizhihaomachinery.com/product/casting-automatic-linear-sharpener-mf256/",
+      "es_url": "",
+      "br_url": "",
+      "status": {
+        "en": 200,
+        "es": null,
+        "br": null
+      },
+      "redirects": {
+        "en": [],
+        "es": [],
+        "br": []
+      },
+      "html_lang": {
+        "en": "en-US",
+        "es": "",
+        "br": ""
+      },
+      "canonical": {
+        "en": "https://weizhihaomachinery.com/product/casting-automatic-linear-sharpener-mf256/",
+        "es": "",
+        "br": ""
+      },
+      "hreflang": {
+        "en": {},
+        "es": {},
+        "br": {}
+      },
+      "x_default": {
+        "en": "",
+        "es": "",
+        "br": ""
+      },
+      "mutual_return_links": false,
+      "missing_pages": [
+        "ES",
+        "BR"
+      ],
+      "needs_translation": true,
+      "priority": "P1",
+      "issues": [
+        "EN hreflang missing ['en', 'es', 'pt-BR', 'x-default']",
+        "ES page missing or non-200 (None; missing hreflang alternate)",
+        "BR page missing or non-200 (None; missing hreflang alternate)"
+      ],
+      "notes": "EN hreflang missing ['en', 'es', 'pt-BR', 'x-default']; ES page missing or non-200 (None; missing hreflang alternate); BR page missing or non-200 (None; missing hreflang alternate)"
+    },
+    {
+      "page_type": "Product",
+      "page_name": "MF2718 series",
+      "source_note": "Representative MF2718 family page from homepage product card.",
+      "en_url": "https://weizhihaomachinery.com/product/universal-knife-sharpening-machine/",
+      "es_url": "",
+      "br_url": "",
+      "status": {
+        "en": 200,
+        "es": null,
+        "br": null
+      },
+      "redirects": {
+        "en": [],
+        "es": [],
+        "br": []
+      },
+      "html_lang": {
+        "en": "en-US",
+        "es": "",
+        "br": ""
+      },
+      "canonical": {
+        "en": "https://weizhihaomachinery.com/product/universal-knife-sharpening-machine/",
+        "es": "",
+        "br": ""
+      },
+      "hreflang": {
+        "en": {},
+        "es": {},
+        "br": {}
+      },
+      "x_default": {
+        "en": "",
+        "es": "",
+        "br": ""
+      },
+      "mutual_return_links": false,
+      "missing_pages": [
+        "ES",
+        "BR"
+      ],
+      "needs_translation": true,
+      "priority": "P1",
+      "issues": [
+        "EN hreflang missing ['en', 'es', 'pt-BR', 'x-default']",
+        "ES page missing or non-200 (None; missing hreflang alternate)",
+        "BR page missing or non-200 (None; missing hreflang alternate)"
+      ],
+      "notes": "Representative MF2718 family page from homepage product card.; EN hreflang missing ['en', 'es', 'pt-BR', 'x-default']; ES page missing or non-200 (None; missing hreflang alternate); BR page missing or non-200 (None; missing hreflang alternate)"
+    },
+    {
+      "page_type": "About",
+      "page_name": "About",
+      "source_note": "",
+      "en_url": "https://weizhihaomachinery.com/about-us/",
+      "es_url": "https://weizhihaomachinery.com/es/sobre-nosotros/",
+      "br_url": "https://weizhihaomachinery.com/pt/sobre-nos/",
+      "status": {
+        "en": 200,
+        "es": 200,
+        "br": 200
+      },
+      "redirects": {
+        "en": [],
+        "es": [],
+        "br": []
+      },
+      "html_lang": {
+        "en": "en-US",
+        "es": "es-ES",
+        "br": "pt-BR"
+      },
+      "canonical": {
+        "en": "https://weizhihaomachinery.com/about-us/",
+        "es": "https://weizhihaomachinery.com/es/sobre-nosotros/",
+        "br": "https://weizhihaomachinery.com/pt/sobre-nos/"
+      },
+      "hreflang": {
+        "en": {
+          "en": "https://weizhihaomachinery.com/about-us/",
+          "es": "https://weizhihaomachinery.com/es/sobre-nosotros/",
+          "pt-BR": "https://weizhihaomachinery.com/pt/sobre-nos/",
+          "x-default": "https://weizhihaomachinery.com/about-us/"
+        },
+        "es": {
+          "en": "https://weizhihaomachinery.com/about-us/",
+          "es": "https://weizhihaomachinery.com/es/sobre-nosotros/",
+          "pt-BR": "https://weizhihaomachinery.com/pt/sobre-nos/",
+          "x-default": "https://weizhihaomachinery.com/about-us/"
+        },
+        "br": {
+          "en": "https://weizhihaomachinery.com/about-us/",
+          "es": "https://weizhihaomachinery.com/es/sobre-nosotros/",
+          "pt-BR": "https://weizhihaomachinery.com/pt/sobre-nos/",
+          "x-default": "https://weizhihaomachinery.com/about-us/"
+        }
+      },
+      "x_default": {
+        "en": "https://weizhihaomachinery.com/about-us/",
+        "es": "https://weizhihaomachinery.com/about-us/",
+        "br": "https://weizhihaomachinery.com/about-us/"
+      },
+      "mutual_return_links": true,
+      "missing_pages": [],
+      "needs_translation": false,
+      "priority": "OK",
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "page_type": "Contact",
+      "page_name": "Contact",
+      "source_note": "",
+      "en_url": "https://weizhihaomachinery.com/contact/",
+      "es_url": "https://weizhihaomachinery.com/es/contacto/",
+      "br_url": "https://weizhihaomachinery.com/pt/contato/",
+      "status": {
+        "en": 200,
+        "es": 200,
+        "br": 200
+      },
+      "redirects": {
+        "en": [],
+        "es": [],
+        "br": []
+      },
+      "html_lang": {
+        "en": "en-US",
+        "es": "es-ES",
+        "br": "pt-BR"
+      },
+      "canonical": {
+        "en": "https://weizhihaomachinery.com/contact/",
+        "es": "https://weizhihaomachinery.com/es/contacto/",
+        "br": "https://weizhihaomachinery.com/pt/contato/"
+      },
+      "hreflang": {
+        "en": {
+          "en": "https://weizhihaomachinery.com/contact/",
+          "es": "https://weizhihaomachinery.com/es/contacto/",
+          "pt-BR": "https://weizhihaomachinery.com/pt/contato/",
+          "x-default": "https://weizhihaomachinery.com/contact/"
+        },
+        "es": {
+          "en": "https://weizhihaomachinery.com/contact/",
+          "es": "https://weizhihaomachinery.com/es/contacto/",
+          "pt-BR": "https://weizhihaomachinery.com/pt/contato/",
+          "x-default": "https://weizhihaomachinery.com/contact/"
+        },
+        "br": {
+          "en": "https://weizhihaomachinery.com/contact/",
+          "es": "https://weizhihaomachinery.com/es/contacto/",
+          "pt-BR": "https://weizhihaomachinery.com/pt/contato/",
+          "x-default": "https://weizhihaomachinery.com/contact/"
+        }
+      },
+      "x_default": {
+        "en": "https://weizhihaomachinery.com/contact/",
+        "es": "https://weizhihaomachinery.com/contact/",
+        "br": "https://weizhihaomachinery.com/contact/"
+      },
+      "mutual_return_links": true,
+      "missing_pages": [],
+      "needs_translation": false,
+      "priority": "OK",
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "page_type": "FAQ",
+      "page_name": "FAQ",
+      "source_note": "",
+      "en_url": "https://weizhihaomachinery.com/faq/",
+      "es_url": "",
+      "br_url": "",
+      "status": {
+        "en": 200,
+        "es": null,
+        "br": null
+      },
+      "redirects": {
+        "en": [],
+        "es": [],
+        "br": []
+      },
+      "html_lang": {
+        "en": "en-US",
+        "es": "",
+        "br": ""
+      },
+      "canonical": {
+        "en": "https://weizhihaomachinery.com/faq/",
+        "es": "",
+        "br": ""
+      },
+      "hreflang": {
+        "en": {},
+        "es": {},
+        "br": {}
+      },
+      "x_default": {
+        "en": "",
+        "es": "",
+        "br": ""
+      },
+      "mutual_return_links": false,
+      "missing_pages": [
+        "ES",
+        "BR"
+      ],
+      "needs_translation": true,
+      "priority": "P0",
+      "issues": [
+        "EN hreflang missing ['en', 'es', 'pt-BR', 'x-default']",
+        "ES page missing or non-200 (None; missing hreflang alternate)",
+        "BR page missing or non-200 (None; missing hreflang alternate)"
+      ],
+      "notes": "EN hreflang missing ['en', 'es', 'pt-BR', 'x-default']; ES page missing or non-200 (None; missing hreflang alternate); BR page missing or non-200 (None; missing hreflang alternate)"
+    }
+  ]
+}

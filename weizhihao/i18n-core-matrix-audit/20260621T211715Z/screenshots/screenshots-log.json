@@ -1,0 +1,26 @@
+[
+  {
+    "name": "faq-en-missing-i18n",
+    "url": "https://weizhihaomachinery.com/faq/",
+    "status": 200,
+    "screenshotPath": "/Users/zhumulangmafeng/Documents/国外/records/i18n-matrix-audit/20260621T211715Z/screenshots/faq-en-missing-i18n.png"
+  },
+  {
+    "name": "mf223c-en-missing-i18n",
+    "url": "https://weizhihaomachinery.com/product/profiling-knife-sharpening-machine/",
+    "status": 200,
+    "screenshotPath": "/Users/zhumulangmafeng/Documents/国外/records/i18n-matrix-audit/20260621T211715Z/screenshots/mf223c-en-missing-i18n.png"
+  },
+  {
+    "name": "mf256-en-missing-i18n",
+    "url": "https://weizhihaomachinery.com/product/casting-automatic-linear-sharpener-mf256/",
+    "status": 200,
+    "screenshotPath": "/Users/zhumulangmafeng/Documents/国外/records/i18n-matrix-audit/20260621T211715Z/screenshots/mf256-en-missing-i18n.png"
+  },
+  {
+    "name": "mf2718-series-en-missing-i18n",
+    "url": "https://weizhihaomachinery.com/product/universal-knife-sharpening-machine/",
+    "status": 200,
+    "screenshotPath": "/Users/zhumulangmafeng/Documents/国外/records/i18n-matrix-audit/20260621T211715Z/screenshots/mf2718-series-en-missing-i18n.png"
+  }
+]

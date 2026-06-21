@@ -1,0 +1,129 @@
+{
+  "title": "Weizhihao EN / ES / BR core language page matrix audit",
+  "created_at": "20260621T211715Z",
+  "mode": "read-only EN/ES/BR core language matrix audit",
+  "constraints": "No site changes, no page saves, no plugin/config edits, no cache purge, no RU work.",
+  "scope": [
+    "Homepage",
+    "Products",
+    "Five product category pages",
+    "MF158CNC",
+    "MF2510CNC / MF2515CNC",
+    "MF223C",
+    "MF256",
+    "MF2718 series representative page",
+    "About",
+    "Contact",
+    "FAQ"
+  ],
+  "summary": {
+    "OK": 11,
+    "P0": 1,
+    "P1": 3,
+    "missing_language_rows": 4,
+    "mutual_return_ok_rows": 11
+  },
+  "evidence_urls": {
+    "manifest_url": "https://raw.githubusercontent.com/lianggangwei/chatgpt-codex-evidence/main/weizhihao/i18n-core-matrix-audit/20260621T211715Z/evidence-manifest.json",
+    "manifest_blob_url": "https://github.com/lianggangwei/chatgpt-codex-evidence/blob/main/weizhihao/i18n-core-matrix-audit/20260621T211715Z/evidence-manifest.json",
+    "log_url": "https://github.com/lianggangwei/chatgpt-codex-evidence/blob/main/weizhihao/i18n-core-matrix-audit/20260621T211715Z/matrix-audit.md",
+    "json_log_url": "https://raw.githubusercontent.com/lianggangwei/chatgpt-codex-evidence/main/weizhihao/i18n-core-matrix-audit/20260621T211715Z/matrix-audit.json",
+    "csv_url": "https://raw.githubusercontent.com/lianggangwei/chatgpt-codex-evidence/main/weizhihao/i18n-core-matrix-audit/20260621T211715Z/matrix-audit.csv"
+  },
+  "key_findings": {
+    "ok_rows": [
+      "Homepage",
+      "Products",
+      "Saw Blade Grinder",
+      "Straight Knife Grinder",
+      "Universal Tool Grinder",
+      "Profiling Knife Sharpening Machine",
+      "Blade Grinding Machine",
+      "MF158CNC",
+      "MF2510CNC / MF2515CNC",
+      "About",
+      "Contact"
+    ],
+    "p0_rows": [
+      "FAQ"
+    ],
+    "p1_rows": [
+      "MF223C",
+      "MF256",
+      "MF2718 series"
+    ],
+    "missing_language_rows": [
+      {
+        "page_name": "MF223C",
+        "missing_pages": [
+          "ES",
+          "BR"
+        ],
+        "priority": "P1"
+      },
+      {
+        "page_name": "MF256",
+        "missing_pages": [
+          "ES",
+          "BR"
+        ],
+        "priority": "P1"
+      },
+      {
+        "page_name": "MF2718 series",
+        "missing_pages": [
+          "ES",
+          "BR"
+        ],
+        "priority": "P1"
+      },
+      {
+        "page_name": "FAQ",
+        "missing_pages": [
+          "ES",
+          "BR"
+        ],
+        "priority": "P0"
+      }
+    ]
+  },
+  "screenshots": [
+    {
+      "name": "faq-en-missing-i18n",
+      "url": "https://weizhihaomachinery.com/faq/",
+      "status": 200,
+      "screenshotPath": "/Users/zhumulangmafeng/Documents/国外/records/i18n-matrix-audit/20260621T211715Z/screenshots/faq-en-missing-i18n.png",
+      "screenshot_url": "https://raw.githubusercontent.com/lianggangwei/chatgpt-codex-evidence/main/weizhihao/i18n-core-matrix-audit/20260621T211715Z/screenshots/faq-en-missing-i18n.png",
+      "screenshot_blob_url": "https://github.com/lianggangwei/chatgpt-codex-evidence/blob/main/weizhihao/i18n-core-matrix-audit/20260621T211715Z/screenshots/faq-en-missing-i18n.png"
+    },
+    {
+      "name": "mf223c-en-missing-i18n",
+      "url": "https://weizhihaomachinery.com/product/profiling-knife-sharpening-machine/",
+      "status": 200,
+      "screenshotPath": "/Users/zhumulangmafeng/Documents/国外/records/i18n-matrix-audit/20260621T211715Z/screenshots/mf223c-en-missing-i18n.png",
+      "screenshot_url": "https://raw.githubusercontent.com/lianggangwei/chatgpt-codex-evidence/main/weizhihao/i18n-core-matrix-audit/20260621T211715Z/screenshots/mf223c-en-missing-i18n.png",
+      "screenshot_blob_url": "https://github.com/lianggangwei/chatgpt-codex-evidence/blob/main/weizhihao/i18n-core-matrix-audit/20260621T211715Z/screenshots/mf223c-en-missing-i18n.png"
+    },
+    {
+      "name": "mf256-en-missing-i18n",
+      "url": "https://weizhihaomachinery.com/product/casting-automatic-linear-sharpener-mf256/",
+      "status": 200,
+      "screenshotPath": "/Users/zhumulangmafeng/Documents/国外/records/i18n-matrix-audit/20260621T211715Z/screenshots/mf256-en-missing-i18n.png",
+      "screenshot_url": "https://raw.githubusercontent.com/lianggangwei/chatgpt-codex-evidence/main/weizhihao/i18n-core-matrix-audit/20260621T211715Z/screenshots/mf256-en-missing-i18n.png",
+      "screenshot_blob_url": "https://github.com/lianggangwei/chatgpt-codex-evidence/blob/main/weizhihao/i18n-core-matrix-audit/20260621T211715Z/screenshots/mf256-en-missing-i18n.png"
+    },
+    {
+      "name": "mf2718-series-en-missing-i18n",
+      "url": "https://weizhihaomachinery.com/product/universal-knife-sharpening-machine/",
+      "status": 200,
+      "screenshotPath": "/Users/zhumulangmafeng/Documents/国外/records/i18n-matrix-audit/20260621T211715Z/screenshots/mf2718-series-en-missing-i18n.png",
+      "screenshot_url": "https://raw.githubusercontent.com/lianggangwei/chatgpt-codex-evidence/main/weizhihao/i18n-core-matrix-audit/20260621T211715Z/screenshots/mf2718-series-en-missing-i18n.png",
+      "screenshot_blob_url": "https://github.com/lianggangwei/chatgpt-codex-evidence/blob/main/weizhihao/i18n-core-matrix-audit/20260621T211715Z/screenshots/mf2718-series-en-missing-i18n.png"
+    }
+  ],
+  "sha256": {
+    "matrix-audit.md": "2187e00a8b6a3e56b94d979d69c588d197b43d46788c4b106c52ddfa0347ea85",
+    "matrix-audit.json": "b6d6c381673ad24779d5493dd0dd9554870122c2fbbb7522bdebdbdf48cdbe25",
+    "matrix-audit.csv": "25fc0dde2526ccbf12b6b60370af848900a768c3a2aa7d884d58e6687c7d4eb7"
+  }
+}
