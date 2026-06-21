@@ -1,0 +1,12 @@
+{
+  "generated_at": "2026-06-21T23:41:58.883Z",
+  "task": "faq-es-br-minimal-prepublish-confirmation",
+  "result": "blocked_not_published",
+  "files": [
+    "weizhihao/faq-es-br-publish/20260621T233955Z/es-editor-parent-none.png",
+    "weizhihao/faq-es-br-publish/20260621T233955Z/br-editor-parent-none.png",
+    "weizhihao/faq-es-br-publish/20260621T233955Z/prepublish-blocked-log.md",
+    "weizhihao/faq-es-br-publish/20260621T233955Z/prepublish-blocked-log.json"
+  ],
+  "conclusion": "Do not publish. Both drafts are still Draft and slugs are correct, but both parent checks show None, so the user-defined publish gate did not pass."
+}

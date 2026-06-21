@@ -1,0 +1,35 @@
+{
+  "generated_at": "2026-06-21T23:41:58.883Z",
+  "scope": "Minimal pre-publish confirmation for ES/BR FAQ drafts; no publish because parent checks failed",
+  "checks": {
+    "es_4897": {
+      "status": "draft",
+      "slug": "preguntas-frecuentes",
+      "parent_expected": "ES root page",
+      "parent_observed": "None",
+      "theoretical_url_if_parent_fixed": "https://weizhihaomachinery.com/es/preguntas-frecuentes/",
+      "publish_allowed": false,
+      "screenshot": "weizhihao/faq-es-br-publish/20260621T233955Z/es-editor-parent-none.png"
+    },
+    "br_4898": {
+      "status": "draft",
+      "slug": "perguntas-frequentes",
+      "parent_expected": "/pt/ root page",
+      "parent_observed": "None",
+      "theoretical_url_if_parent_fixed": "https://weizhihaomachinery.com/pt/perguntas-frequentes/",
+      "publish_allowed": false,
+      "screenshot": "weizhihao/faq-es-br-publish/20260621T233955Z/br-editor-parent-none.png"
+    }
+  },
+  "actions": {
+    "published_es": false,
+    "published_br": false,
+    "changed_content": false,
+    "changed_plugin": false,
+    "changed_registry": false,
+    "cleared_cache": false,
+    "handled_ru": false,
+    "changed_en_faq": false
+  },
+  "conclusion": "Do not publish. Both drafts are still Draft and slugs are correct, but both parent checks show None, so the user-defined publish gate did not pass."
+}
