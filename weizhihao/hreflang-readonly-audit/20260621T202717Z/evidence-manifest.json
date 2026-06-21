@@ -1,0 +1,270 @@
+{
+  "task": "weizhihao-hreflang-canonical-xdefault-readonly-audit",
+  "timestamp": "20260621T202717Z",
+  "mode": "read-only-no-site-changes",
+  "log_url": "https://github.com/lianggangwei/chatgpt-codex-evidence/blob/main/weizhihao/hreflang-readonly-audit/20260621T202717Z/hreflang-audit.md",
+  "json_log_url": "https://raw.githubusercontent.com/lianggangwei/chatgpt-codex-evidence/main/weizhihao/hreflang-readonly-audit/20260621T202717Z/hreflang-audit.json",
+  "manifest_url": "https://raw.githubusercontent.com/lianggangwei/chatgpt-codex-evidence/main/weizhihao/hreflang-readonly-audit/20260621T202717Z/evidence-manifest.json",
+  "summary": {
+    "urls_checked": 7,
+    "http_200": 7,
+    "noindex_detected": 0,
+    "x_default_present": 7,
+    "ru_absent_all": true,
+    "main_issue": "BR visible label uses BR, but hreflang uses pt instead of pt-BR."
+  },
+  "pages": [
+    {
+      "url": "https://weizhihaomachinery.com/",
+      "status": 200,
+      "html_lang": "en-US",
+      "canonical": [
+        "https://weizhihaomachinery.com/"
+      ],
+      "hreflang": [
+        {
+          "hreflang": "en",
+          "href": "https://weizhihaomachinery.com/"
+        },
+        {
+          "hreflang": "es",
+          "href": "https://weizhihaomachinery.com/es/"
+        },
+        {
+          "hreflang": "pt",
+          "href": "https://weizhihaomachinery.com/pt/"
+        },
+        {
+          "hreflang": "x-default",
+          "href": "https://weizhihaomachinery.com/"
+        }
+      ],
+      "x_default": [
+        "https://weizhihaomachinery.com/"
+      ],
+      "noindex": false,
+      "ru_absent": true,
+      "br_uses_pt_br_hreflang": false,
+      "issues": [
+        "BR alternate uses hreflang=pt; expected pt-BR for Brazil targeting"
+      ],
+      "screenshot_url": "https://raw.githubusercontent.com/lianggangwei/chatgpt-codex-evidence/main/weizhihao/hreflang-readonly-audit/20260621T202717Z/screenshots/home.png"
+    },
+    {
+      "url": "https://weizhihaomachinery.com/es/",
+      "status": 200,
+      "html_lang": "es-ES",
+      "canonical": [
+        "https://weizhihaomachinery.com/es/"
+      ],
+      "hreflang": [
+        {
+          "hreflang": "en",
+          "href": "https://weizhihaomachinery.com/"
+        },
+        {
+          "hreflang": "es",
+          "href": "https://weizhihaomachinery.com/es/"
+        },
+        {
+          "hreflang": "pt",
+          "href": "https://weizhihaomachinery.com/pt/"
+        },
+        {
+          "hreflang": "x-default",
+          "href": "https://weizhihaomachinery.com/"
+        }
+      ],
+      "x_default": [
+        "https://weizhihaomachinery.com/"
+      ],
+      "noindex": false,
+      "ru_absent": true,
+      "br_uses_pt_br_hreflang": false,
+      "issues": [
+        "BR alternate uses hreflang=pt; expected pt-BR for Brazil targeting"
+      ],
+      "screenshot_url": "https://raw.githubusercontent.com/lianggangwei/chatgpt-codex-evidence/main/weizhihao/hreflang-readonly-audit/20260621T202717Z/screenshots/es.png"
+    },
+    {
+      "url": "https://weizhihaomachinery.com/pt/",
+      "status": 200,
+      "html_lang": "pt-BR",
+      "canonical": [
+        "https://weizhihaomachinery.com/pt/"
+      ],
+      "hreflang": [
+        {
+          "hreflang": "en",
+          "href": "https://weizhihaomachinery.com/"
+        },
+        {
+          "hreflang": "es",
+          "href": "https://weizhihaomachinery.com/es/"
+        },
+        {
+          "hreflang": "pt",
+          "href": "https://weizhihaomachinery.com/pt/"
+        },
+        {
+          "hreflang": "x-default",
+          "href": "https://weizhihaomachinery.com/"
+        }
+      ],
+      "x_default": [
+        "https://weizhihaomachinery.com/"
+      ],
+      "noindex": false,
+      "ru_absent": true,
+      "br_uses_pt_br_hreflang": false,
+      "issues": [
+        "BR alternate uses hreflang=pt; expected pt-BR for Brazil targeting"
+      ],
+      "screenshot_url": "https://raw.githubusercontent.com/lianggangwei/chatgpt-codex-evidence/main/weizhihao/hreflang-readonly-audit/20260621T202717Z/screenshots/pt.png"
+    },
+    {
+      "url": "https://weizhihaomachinery.com/products/",
+      "status": 200,
+      "html_lang": "en-US",
+      "canonical": [
+        "https://weizhihaomachinery.com/products/"
+      ],
+      "hreflang": [
+        {
+          "hreflang": "en",
+          "href": "https://weizhihaomachinery.com/products/"
+        },
+        {
+          "hreflang": "es",
+          "href": "https://weizhihaomachinery.com/es/productos/"
+        },
+        {
+          "hreflang": "pt",
+          "href": "https://weizhihaomachinery.com/pt/produtos/"
+        },
+        {
+          "hreflang": "x-default",
+          "href": "https://weizhihaomachinery.com/products/"
+        }
+      ],
+      "x_default": [
+        "https://weizhihaomachinery.com/products/"
+      ],
+      "noindex": false,
+      "ru_absent": true,
+      "br_uses_pt_br_hreflang": false,
+      "issues": [
+        "BR alternate uses hreflang=pt; expected pt-BR for Brazil targeting"
+      ],
+      "screenshot_url": "https://raw.githubusercontent.com/lianggangwei/chatgpt-codex-evidence/main/weizhihao/hreflang-readonly-audit/20260621T202717Z/screenshots/products.png"
+    },
+    {
+      "url": "https://weizhihaomachinery.com/es/producto/mf2510-2515cnc-rectificadora-lineal-automatica/",
+      "status": 200,
+      "html_lang": "es-ES",
+      "canonical": [
+        "https://weizhihaomachinery.com/es/producto/mf2510-2515cnc-rectificadora-lineal-automatica/"
+      ],
+      "hreflang": [
+        {
+          "hreflang": "en",
+          "href": "https://weizhihaomachinery.com/product/fully-automatic-linear-grinding-machine-mf2510cnc-mf2515cnc/"
+        },
+        {
+          "hreflang": "es",
+          "href": "https://weizhihaomachinery.com/es/producto/mf2510-2515cnc-rectificadora-lineal-automatica/"
+        },
+        {
+          "hreflang": "pt",
+          "href": "https://weizhihaomachinery.com/pt/produto/mf2510-2515cnc-retificadora-linear-automatica/"
+        },
+        {
+          "hreflang": "x-default",
+          "href": "https://weizhihaomachinery.com/product/fully-automatic-linear-grinding-machine-mf2510cnc-mf2515cnc/"
+        }
+      ],
+      "x_default": [
+        "https://weizhihaomachinery.com/product/fully-automatic-linear-grinding-machine-mf2510cnc-mf2515cnc/"
+      ],
+      "noindex": false,
+      "ru_absent": true,
+      "br_uses_pt_br_hreflang": false,
+      "issues": [
+        "BR alternate uses hreflang=pt; expected pt-BR for Brazil targeting"
+      ],
+      "screenshot_url": "https://raw.githubusercontent.com/lianggangwei/chatgpt-codex-evidence/main/weizhihao/hreflang-readonly-audit/20260621T202717Z/screenshots/es-producto-mf2510-2515cnc-rectificadora-lineal-automatica.png"
+    },
+    {
+      "url": "https://weizhihaomachinery.com/pt/produto/mf2510-2515cnc-retificadora-linear-automatica/",
+      "status": 200,
+      "html_lang": "pt-BR",
+      "canonical": [
+        "https://weizhihaomachinery.com/pt/produto/mf2510-2515cnc-retificadora-linear-automatica/"
+      ],
+      "hreflang": [
+        {
+          "hreflang": "en",
+          "href": "https://weizhihaomachinery.com/product/fully-automatic-linear-grinding-machine-mf2510cnc-mf2515cnc/"
+        },
+        {
+          "hreflang": "es",
+          "href": "https://weizhihaomachinery.com/es/producto/mf2510-2515cnc-rectificadora-lineal-automatica/"
+        },
+        {
+          "hreflang": "pt",
+          "href": "https://weizhihaomachinery.com/pt/produto/mf2510-2515cnc-retificadora-linear-automatica/"
+        },
+        {
+          "hreflang": "x-default",
+          "href": "https://weizhihaomachinery.com/product/fully-automatic-linear-grinding-machine-mf2510cnc-mf2515cnc/"
+        }
+      ],
+      "x_default": [
+        "https://weizhihaomachinery.com/product/fully-automatic-linear-grinding-machine-mf2510cnc-mf2515cnc/"
+      ],
+      "noindex": false,
+      "ru_absent": true,
+      "br_uses_pt_br_hreflang": false,
+      "issues": [
+        "BR alternate uses hreflang=pt; expected pt-BR for Brazil targeting"
+      ],
+      "screenshot_url": "https://raw.githubusercontent.com/lianggangwei/chatgpt-codex-evidence/main/weizhihao/hreflang-readonly-audit/20260621T202717Z/screenshots/pt-produto-mf2510-2515cnc-retificadora-linear-automatica.png"
+    },
+    {
+      "url": "https://weizhihaomachinery.com/product/fully-automatic-circular-saw-blade-sharpening-machine-mf158cnc/",
+      "status": 200,
+      "html_lang": "en-US",
+      "canonical": [
+        "https://weizhihaomachinery.com/product/fully-automatic-circular-saw-blade-sharpening-machine-mf158cnc/"
+      ],
+      "hreflang": [
+        {
+          "hreflang": "en",
+          "href": "https://weizhihaomachinery.com/product/fully-automatic-circular-saw-blade-sharpening-machine-mf158cnc/"
+        },
+        {
+          "hreflang": "es",
+          "href": "https://weizhihaomachinery.com/es/producto/mf158cnc-afiladora-sierra-circular-cnc/"
+        },
+        {
+          "hreflang": "pt",
+          "href": "https://weizhihaomachinery.com/pt/produto/mf158cnc-afiadora-serra-circular-cnc/"
+        },
+        {
+          "hreflang": "x-default",
+          "href": "https://weizhihaomachinery.com/product/fully-automatic-circular-saw-blade-sharpening-machine-mf158cnc/"
+        }
+      ],
+      "x_default": [
+        "https://weizhihaomachinery.com/product/fully-automatic-circular-saw-blade-sharpening-machine-mf158cnc/"
+      ],
+      "noindex": false,
+      "ru_absent": true,
+      "br_uses_pt_br_hreflang": false,
+      "issues": [
+        "BR alternate uses hreflang=pt; expected pt-BR for Brazil targeting"
+      ],
+      "screenshot_url": "https://raw.githubusercontent.com/lianggangwei/chatgpt-codex-evidence/main/weizhihao/hreflang-readonly-audit/20260621T202717Z/screenshots/product-fully-automatic-circular-saw-blade-sharpening-machine-mf158cnc.png"
+    }
+  ]
+}
