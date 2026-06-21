@@ -1,0 +1,60 @@
+{
+  "task": "weizhihao-i18n-br-final-acceptance",
+  "timestamp": "20260621T201814Z",
+  "cache_busting_value": "br-check-20260621T201814Z",
+  "log_url": "https://github.com/lianggangwei/chatgpt-codex-evidence/blob/main/weizhihao/i18n-br-final-acceptance/20260621T201814Z/verification-log.md",
+  "manifest_url": "https://raw.githubusercontent.com/lianggangwei/chatgpt-codex-evidence/main/weizhihao/i18n-br-final-acceptance/20260621T201814Z/evidence-manifest.json",
+  "json_log_url": "https://raw.githubusercontent.com/lianggangwei/chatgpt-codex-evidence/main/weizhihao/i18n-br-final-acceptance/20260621T201814Z/verification-log.json",
+  "pages": [
+    {
+      "name": "Home",
+      "url": "https://weizhihaomachinery.com/?v=br-check-20260621T201814Z",
+      "status": 200,
+      "html_lang": "en-US",
+      "language_entry": "EN/ES/BR",
+      "contains_en_es_br": true,
+      "contains_pt": false,
+      "contains_ru": false,
+      "screenshot_url": "https://raw.githubusercontent.com/lianggangwei/chatgpt-codex-evidence/main/weizhihao/i18n-br-final-acceptance/20260621T201814Z/home-br-final.png"
+    },
+    {
+      "name": "PT home",
+      "url": "https://weizhihaomachinery.com/pt/?v=br-check-20260621T201814Z",
+      "status": 200,
+      "html_lang": "pt-BR",
+      "language_entry": "EN / ES / BR | EN/ES/BR",
+      "contains_en_es_br": true,
+      "contains_pt": false,
+      "contains_ru": false,
+      "screenshot_url": "https://raw.githubusercontent.com/lianggangwei/chatgpt-codex-evidence/main/weizhihao/i18n-br-final-acceptance/20260621T201814Z/pt-home-br-final.png"
+    },
+    {
+      "name": "PT MF2510CNC / MF2515CNC product",
+      "url": "https://weizhihaomachinery.com/pt/produto/mf2510-2515cnc-retificadora-linear-automatica/?v=br-check-20260621T201814Z",
+      "status": 200,
+      "html_lang": "pt-BR",
+      "language_entry": "EN/ES/BR",
+      "contains_en_es_br": true,
+      "contains_pt": false,
+      "contains_ru": false,
+      "screenshot_url": "https://raw.githubusercontent.com/lianggangwei/chatgpt-codex-evidence/main/weizhihao/i18n-br-final-acceptance/20260621T201814Z/pt-mf2510-br-final.png"
+    }
+  ],
+  "json_check": {
+    "url": "https://weizhihaomachinery.com/wp-content/plugins/wzh-seo-output-fixes/config/i18n-settings.json?v=br-check-20260621T201814Z",
+    "status": 200,
+    "contentType": "application/json",
+    "lastModified": "Sun, 21 Jun 2026 19:00:59 GMT",
+    "cfCacheStatus": "DYNAMIC",
+    "ptLabel": "BR",
+    "ptHtmlLang": "pt-BR",
+    "ptEnabled": true,
+    "ruEnabled": false
+  },
+  "conclusion": {
+    "pt_to_br_complete": true,
+    "es_pt_pages_not_broken": true,
+    "ru_not_enabled": true,
+    "no_site_changes_performed_in_final_acceptance": true
+  }
+}
