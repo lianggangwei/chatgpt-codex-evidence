@@ -1,0 +1,52 @@
+{
+  "generated_at": "2026-06-21T23:53:14.132Z",
+  "scope": "Fix ES/BR FAQ draft parent only; keep draft; no publish, no registry, no cache clear, no RU",
+  "root_pages": {
+    "es": {
+      "id": 4825,
+      "url": "https://weizhihaomachinery.com/es/",
+      "title": "Fabricante de afiladoras industriales para cuchillas y sierras - weizhihaomachinery.com"
+    },
+    "br_pt": {
+      "id": 4826,
+      "url": "https://weizhihaomachinery.com/pt/",
+      "title": "Fabricante de afiadoras industriais para facas e serras - weizhihaomachinery.com"
+    }
+  },
+  "drafts": {
+    "es_4897": {
+      "before_parent": "None",
+      "after_parent_id": 4825,
+      "after_parent_title": "Fabricante de afiladoras industriales para cuchillas y sierras",
+      "status": "Draft",
+      "slug": "preguntas-frecuentes",
+      "expected_publish_url": "https://weizhihaomachinery.com/es/preguntas-frecuentes/",
+      "expected_url_preview_line": "https://weizhihaomachinery.com › es › preguntas-frecuentes",
+      "saved": true,
+      "save_reason": "clicked Save draft",
+      "screenshot": "weizhihao/faq-parent-fix/20260621T234508Z/es-draft-parent-fixed.png"
+    },
+    "br_4898": {
+      "before_parent": "None",
+      "after_parent_id": 4826,
+      "after_parent_title": "Fabricante de afiadoras industriais para facas e serras",
+      "status": "Draft",
+      "slug": "perguntas-frequentes",
+      "expected_publish_url": "https://weizhihaomachinery.com/pt/perguntas-frequentes/",
+      "expected_url_preview_line": "https://weizhihaomachinery.com › pt › perguntas-frequentes",
+      "saved": true,
+      "save_reason": "clicked Save draft",
+      "screenshot": "weizhihao/faq-parent-fix/20260621T234508Z/br-draft-parent-fixed.png"
+    }
+  },
+  "actions_not_taken": {
+    "published": false,
+    "changed_content": false,
+    "changed_plugin": false,
+    "changed_registry": false,
+    "cleared_cache": false,
+    "handled_ru": false,
+    "changed_en_faq": false
+  },
+  "conclusion": "Parent fix completed and both pages remain draft. Ready for next publish-gate confirmation, but not published in this step."
+}
