@@ -1,0 +1,89 @@
+{
+  "audit_time": "2026-06-22 02:15:51 CST",
+  "mode": "read-only",
+  "github_repository": "lianggangwei/chatgpt-codex-evidence",
+  "github_directory": "weizhihao/multilingual-audit/2026-06-22-0215",
+  "log_url": "https://github.com/lianggangwei/chatgpt-codex-evidence/blob/main/weizhihao/multilingual-audit/2026-06-22-0215/audit-log.md",
+  "items": [
+    {
+      "page": "MF2510CNC / MF2515CNC ES page",
+      "url": "https://weizhihaomachinery.com/es/producto/mf2510-2515cnc-rectificadora-lineal-automatica/",
+      "language": "es / es-ES",
+      "status": "normal",
+      "screenshot_file": "es-mf2510.png",
+      "screenshot_url": "https://raw.githubusercontent.com/lianggangwei/chatgpt-codex-evidence/main/weizhihao/multilingual-audit/2026-06-22-0215/es-mf2510.png"
+    },
+    {
+      "page": "MF2510CNC / MF2515CNC PT page",
+      "url": "https://weizhihaomachinery.com/pt/produto/mf2510-2515cnc-retificadora-linear-automatica/",
+      "language": "pt / pt-BR",
+      "status": "normal_with_caveat",
+      "screenshot_file": "pt-mf2510.png",
+      "screenshot_url": "https://raw.githubusercontent.com/lianggangwei/chatgpt-codex-evidence/main/weizhihao/multilingual-audit/2026-06-22-0215/pt-mf2510.png"
+    },
+    {
+      "page": "PT / BR home entry state",
+      "url": "https://weizhihaomachinery.com/pt/",
+      "language": "pt / pt-BR",
+      "status": "abnormal_naming_mismatch",
+      "screenshot_file": "pt-home-br-state.png",
+      "screenshot_url": "https://raw.githubusercontent.com/lianggangwei/chatgpt-codex-evidence/main/weizhihao/multilingual-audit/2026-06-22-0215/pt-home-br-state.png"
+    },
+    {
+      "page": "RU home placeholder",
+      "url": "https://weizhihaomachinery.com/ru/",
+      "language": "ru",
+      "status": "abnormal_placeholder_noindex",
+      "screenshot_file": "ru-home.png",
+      "screenshot_url": "https://raw.githubusercontent.com/lianggangwei/chatgpt-codex-evidence/main/weizhihao/multilingual-audit/2026-06-22-0215/ru-home.png"
+    },
+    {
+      "page": "RU MF2510CNC / MF2515CNC product route candidate",
+      "url": "https://weizhihaomachinery.com/ru/produkt/mf2510-2515cnc-avtomaticheskii-lineinyi-stanok/",
+      "language": "expected ru, actual en-US 404",
+      "status": "abnormal_404",
+      "screenshot_file": "ru-mf2510-404.png",
+      "screenshot_url": "https://raw.githubusercontent.com/lianggangwei/chatgpt-codex-evidence/main/weizhihao/multilingual-audit/2026-06-22-0215/ru-mf2510-404.png"
+    },
+    {
+      "page": "EN home language entry",
+      "url": "https://weizhihaomachinery.com/",
+      "language": "en / en-US",
+      "status": "normal_with_missing_br_ru_entry_caveat",
+      "screenshot_file": "en-home-language-entry.png",
+      "screenshot_url": "https://raw.githubusercontent.com/lianggangwei/chatgpt-codex-evidence/main/weizhihao/multilingual-audit/2026-06-22-0215/en-home-language-entry.png"
+    },
+    {
+      "page": "WordPress backend pages search ES",
+      "url": "https://weizhihaomachinery.com/wp-admin/edit.php?post_type=page&s=es",
+      "language": "backend / ES search",
+      "status": "verified_screenshot_only",
+      "screenshot_file": "wp-pages-es-search.png",
+      "screenshot_url": "https://raw.githubusercontent.com/lianggangwei/chatgpt-codex-evidence/main/weizhihao/multilingual-audit/2026-06-22-0215/wp-pages-es-search.png"
+    },
+    {
+      "page": "WordPress backend pages search PT",
+      "url": "https://weizhihaomachinery.com/wp-admin/edit.php?post_type=page&s=pt",
+      "language": "backend / PT search",
+      "status": "verified_screenshot_only",
+      "screenshot_file": "wp-pages-pt-search.png",
+      "screenshot_url": "https://raw.githubusercontent.com/lianggangwei/chatgpt-codex-evidence/main/weizhihao/multilingual-audit/2026-06-22-0215/wp-pages-pt-search.png"
+    },
+    {
+      "page": "WordPress backend pages search RU",
+      "url": "https://weizhihaomachinery.com/wp-admin/edit.php?post_type=page&s=ru",
+      "language": "backend / RU search",
+      "status": "verified_screenshot_only",
+      "screenshot_file": "wp-pages-ru-search.png",
+      "screenshot_url": "https://raw.githubusercontent.com/lianggangwei/chatgpt-codex-evidence/main/weizhihao/multilingual-audit/2026-06-22-0215/wp-pages-ru-search.png"
+    },
+    {
+      "page": "WordPress WPCode snippet 4823 current state",
+      "url": "https://weizhihaomachinery.com/wp-admin/admin.php?page=wpcode-snippet-manager&snippet_id=4823",
+      "language": "backend / configuration",
+      "status": "verified_screenshot_only",
+      "screenshot_file": "wpcode-4823-current.png",
+      "screenshot_url": "https://raw.githubusercontent.com/lianggangwei/chatgpt-codex-evidence/main/weizhihao/multilingual-audit/2026-06-22-0215/wpcode-4823-current.png"
+    }
+  ]
+}
