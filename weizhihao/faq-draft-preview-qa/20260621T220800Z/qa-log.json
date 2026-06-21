@@ -1,0 +1,303 @@
+{
+  "generated_at": "2026-06-21T22:14:45.865Z",
+  "scope": "ES/BR FAQ draft preview QA only; no publish, no registry, no cache clear, no RU",
+  "evidence_dir": "weizhihao/faq-draft-preview-qa/20260621T220800Z",
+  "pages": [
+    {
+      "language": "ES",
+      "page_id": 4897,
+      "preview_url": "https://weizhihaomachinery.com/?page_id=4897&preview=true",
+      "title_expected": "Preguntas frecuentes sobre máquinas afiladoras",
+      "title_observed": "Preguntas frecuentes sobre máquinas afiladoras - weizhihaomachinery.com",
+      "h1_observed": "Preguntas frecuentes sobre máquinas afiladoras",
+      "html_lang_observed": "en-US",
+      "screenshot": "weizhihao/faq-draft-preview-qa/20260621T220800Z/es-faq-preview.png",
+      "opens": true,
+      "draft_evidence": {
+        "editor_url": "https://weizhihaomachinery.com/wp-admin/post.php?post=4897&action=edit",
+        "title_field": "Preguntas frecuentes sobre máquinas afiladoras",
+        "text_has_draft": true,
+        "save_draft_button_seen": true,
+        "publish_button_seen": true,
+        "status": "draft_observed_in_editor"
+      },
+      "content_checks": {
+        "natural_language": "pass_body_copy_reads_as_spanish",
+        "faq_landing_not_full_298": true,
+        "question_count": 6,
+        "has_gradual_more_faq_note": true,
+        "no_mojibake": true,
+        "not_blank": true,
+        "structure_normal_from_screenshot": true
+      },
+      "cta_checks": {
+        "whatsapp_links": [
+          {
+            "href": "https://wa.me/message/F4IPUJ2WCXY4O1",
+            "text": "Enviar requisitos por WhatsApp"
+          },
+          {
+            "href": "https://wa.me/message/F4IPUJ2WCXY4O1",
+            "text": "Request a Quote"
+          },
+          {
+            "href": "https://wa.me/message/F4IPUJ2WCXY4O1",
+            "text": "Request a Quote"
+          },
+          {
+            "href": "https://wa.me/message/F4IPUJ2WCXY4O1",
+            "text": "WhatsApp"
+          },
+          {
+            "href": "https://wa.me/message/F4IPUJ2WCXY4O1",
+            "text": "WhatsApp"
+          }
+        ],
+        "contact_links": [
+          {
+            "href": "https://weizhihaomachinery.com/contact/",
+            "text": "Contact"
+          },
+          {
+            "href": "https://weizhihaomachinery.com/contact/",
+            "text": "CONTACT"
+          },
+          {
+            "href": "https://weizhihaomachinery.com/es/contacto/",
+            "text": "Contactar a Weizhihao"
+          },
+          {
+            "href": "https://weizhihaomachinery.com/contact/",
+            "text": "Contact Weizhihao"
+          },
+          {
+            "href": "https://weizhihaomachinery.com/contact/",
+            "text": "Contact Weizhihao"
+          },
+          {
+            "href": "https://weizhihaomachinery.com/contact/",
+            "text": "Contact Page"
+          },
+          {
+            "href": "https://weizhihaomachinery.com/contact/",
+            "text": "Contact Weizhihao"
+          },
+          {
+            "href": "https://weizhihaomachinery.com/contact/",
+            "text": "Contact"
+          }
+        ],
+        "product_links": [
+          {
+            "href": "https://weizhihaomachinery.com/products/",
+            "text": "Industrial Sharpening Machines"
+          },
+          {
+            "href": "https://weizhihaomachinery.com/product-category/straight-knife-grinder/",
+            "text": "Straight Knife Grinder"
+          },
+          {
+            "href": "https://weizhihaomachinery.com/product-category/universal-tool-grinder/",
+            "text": "Universal Tool Grinder"
+          },
+          {
+            "href": "https://weizhihaomachinery.com/product-category/profiling-knife-sharpening-machine/",
+            "text": "Profiling Knife Sharpening Machine"
+          },
+          {
+            "href": "https://weizhihaomachinery.com/product-category/blade-grinding-machine/",
+            "text": "Blade Grinding Machine"
+          },
+          {
+            "href": "https://weizhihaomachinery.com/product-category/saw-blade-grinder/",
+            "text": "Saw Blade Grinder"
+          },
+          {
+            "href": "https://weizhihaomachinery.com/products/",
+            "text": "Explore Shop"
+          },
+          {
+            "href": "https://weizhihaomachinery.com/products/",
+            "text": "MACHINES"
+          },
+          {
+            "href": "https://weizhihaomachinery.com/product-category/straight-knife-grinder/",
+            "text": "Straight Knife Grinder"
+          },
+          {
+            "href": "https://weizhihaomachinery.com/product-category/universal-tool-grinder/",
+            "text": "Universal Tool Grinder"
+          },
+          {
+            "href": "https://weizhihaomachinery.com/product-category/profiling-knife-sharpening-machine/",
+            "text": "Profiling Knife Sharpening Machine"
+          },
+          {
+            "href": "https://weizhihaomachinery.com/product-category/blade-grinding-machine/",
+            "text": "Blade Grinding Machine"
+          }
+        ],
+        "has_whatsapp": true,
+        "has_contact": true,
+        "has_product_category": true
+      },
+      "risks": [
+        "Draft preview html lang currently reports en-US; language SEO should be handled at publish/hreflang stage.",
+        "Global footer/quote module still contains English text such as Get a Free Quote; body FAQ copy is localized.",
+        "ES editor parent should be rechecked before publish; previous admin signal showed parent None."
+      ]
+    },
+    {
+      "language": "BR",
+      "page_id": 4898,
+      "preview_url": "https://weizhihaomachinery.com/?page_id=4898&preview=true",
+      "title_expected": "Perguntas frequentes sobre máquinas de afiação",
+      "title_observed": "Perguntas frequentes sobre máquinas de afiação - weizhihaomachinery.com",
+      "h1_observed": "Perguntas frequentes sobre máquinas de afiação",
+      "html_lang_observed": "en-US",
+      "screenshot": "weizhihao/faq-draft-preview-qa/20260621T220800Z/br-faq-preview.png",
+      "opens": true,
+      "draft_evidence": {
+        "editor_url": "https://weizhihaomachinery.com/wp-admin/post.php?post=4898&action=edit",
+        "title_field": "Perguntas frequentes sobre máquinas de afiação",
+        "text_has_draft": true,
+        "save_draft_button_seen": true,
+        "publish_button_seen": true,
+        "status": "draft_observed_in_editor"
+      },
+      "content_checks": {
+        "natural_language": "pass_body_copy_reads_as_brazilian_portuguese",
+        "faq_landing_not_full_298": true,
+        "question_count": 6,
+        "has_gradual_more_faq_note": true,
+        "no_mojibake": true,
+        "not_blank": true,
+        "structure_normal_from_screenshot": true
+      },
+      "cta_checks": {
+        "whatsapp_links": [
+          {
+            "href": "https://wa.me/message/F4IPUJ2WCXY4O1",
+            "text": "Enviar requisitos pelo WhatsApp"
+          },
+          {
+            "href": "https://wa.me/message/F4IPUJ2WCXY4O1",
+            "text": "Request a Quote"
+          },
+          {
+            "href": "https://wa.me/message/F4IPUJ2WCXY4O1",
+            "text": "Request a Quote"
+          },
+          {
+            "href": "https://wa.me/message/F4IPUJ2WCXY4O1",
+            "text": "WhatsApp"
+          },
+          {
+            "href": "https://wa.me/message/F4IPUJ2WCXY4O1",
+            "text": "WhatsApp"
+          }
+        ],
+        "contact_links": [
+          {
+            "href": "https://weizhihaomachinery.com/contact/",
+            "text": "Contact"
+          },
+          {
+            "href": "https://weizhihaomachinery.com/contact/",
+            "text": "CONTACT"
+          },
+          {
+            "href": "https://weizhihaomachinery.com/pt/contato/",
+            "text": "Contatar a Weizhihao"
+          },
+          {
+            "href": "https://weizhihaomachinery.com/contact/",
+            "text": "Contact Weizhihao"
+          },
+          {
+            "href": "https://weizhihaomachinery.com/contact/",
+            "text": "Contact Weizhihao"
+          },
+          {
+            "href": "https://weizhihaomachinery.com/contact/",
+            "text": "Contact Page"
+          },
+          {
+            "href": "https://weizhihaomachinery.com/contact/",
+            "text": "Contact Weizhihao"
+          },
+          {
+            "href": "https://weizhihaomachinery.com/contact/",
+            "text": "Contact"
+          }
+        ],
+        "product_links": [
+          {
+            "href": "https://weizhihaomachinery.com/products/",
+            "text": "Industrial Sharpening Machines"
+          },
+          {
+            "href": "https://weizhihaomachinery.com/product-category/straight-knife-grinder/",
+            "text": "Straight Knife Grinder"
+          },
+          {
+            "href": "https://weizhihaomachinery.com/product-category/universal-tool-grinder/",
+            "text": "Universal Tool Grinder"
+          },
+          {
+            "href": "https://weizhihaomachinery.com/product-category/profiling-knife-sharpening-machine/",
+            "text": "Profiling Knife Sharpening Machine"
+          },
+          {
+            "href": "https://weizhihaomachinery.com/product-category/blade-grinding-machine/",
+            "text": "Blade Grinding Machine"
+          },
+          {
+            "href": "https://weizhihaomachinery.com/product-category/saw-blade-grinder/",
+            "text": "Saw Blade Grinder"
+          },
+          {
+            "href": "https://weizhihaomachinery.com/products/",
+            "text": "Explore Shop"
+          },
+          {
+            "href": "https://weizhihaomachinery.com/products/",
+            "text": "MACHINES"
+          },
+          {
+            "href": "https://weizhihaomachinery.com/product-category/straight-knife-grinder/",
+            "text": "Straight Knife Grinder"
+          },
+          {
+            "href": "https://weizhihaomachinery.com/product-category/universal-tool-grinder/",
+            "text": "Universal Tool Grinder"
+          },
+          {
+            "href": "https://weizhihaomachinery.com/product-category/profiling-knife-sharpening-machine/",
+            "text": "Profiling Knife Sharpening Machine"
+          },
+          {
+            "href": "https://weizhihaomachinery.com/product-category/blade-grinding-machine/",
+            "text": "Blade Grinding Machine"
+          }
+        ],
+        "has_whatsapp": true,
+        "has_contact": true,
+        "has_product_category": true
+      },
+      "risks": [
+        "Draft preview html lang currently reports en-US; final public BR should be pt-BR after registry/hreflang publish stage.",
+        "Global footer/quote module still contains English text such as Get a Free Quote; body FAQ copy is localized."
+      ]
+    }
+  ],
+  "conclusion": {
+    "preview_qa_passed": true,
+    "recommend_publish_stage": false,
+    "publish_stage_reason": "Content preview is acceptable, but do not publish yet until ES parent/URL and final language SEO output are confirmed.",
+    "no_publish_performed": true,
+    "no_registry_change_performed": true,
+    "no_cache_clear_performed": true,
+    "no_ru_action_performed": true
+  }
+}

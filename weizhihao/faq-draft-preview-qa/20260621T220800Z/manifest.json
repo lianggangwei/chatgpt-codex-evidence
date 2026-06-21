@@ -1,0 +1,34 @@
+{
+  "generated_at": "2026-06-21T22:14:45.865Z",
+  "task": "ES/BR FAQ draft preview QA",
+  "no_site_changes": true,
+  "files": [
+    {
+      "type": "screenshot",
+      "language": "ES",
+      "path": "weizhihao/faq-draft-preview-qa/20260621T220800Z/es-faq-preview.png"
+    },
+    {
+      "type": "screenshot",
+      "language": "BR",
+      "path": "weizhihao/faq-draft-preview-qa/20260621T220800Z/br-faq-preview.png"
+    },
+    {
+      "type": "log_markdown",
+      "path": "weizhihao/faq-draft-preview-qa/20260621T220800Z/qa-log.md"
+    },
+    {
+      "type": "log_json",
+      "path": "weizhihao/faq-draft-preview-qa/20260621T220800Z/qa-log.json"
+    }
+  ],
+  "conclusion": {
+    "preview_qa_passed": true,
+    "recommend_publish_stage": false,
+    "publish_stage_reason": "Content preview is acceptable, but do not publish yet until ES parent/URL and final language SEO output are confirmed.",
+    "no_publish_performed": true,
+    "no_registry_change_performed": true,
+    "no_cache_clear_performed": true,
+    "no_ru_action_performed": true
+  }
+}
