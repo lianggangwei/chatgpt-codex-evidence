@@ -1,0 +1,327 @@
+{
+  "timestamp": "20260621T212817Z",
+  "mode": "read-only FAQ ES/BR preparation",
+  "constraints": [
+    "no website changes",
+    "no WordPress save",
+    "no publish",
+    "no plugin edit",
+    "no config edit",
+    "no cache purge",
+    "no RU work"
+  ],
+  "en_faq": {
+    "url": "https://weizhihaomachinery.com/faq/",
+    "page_id": 4195,
+    "admin_edit_url_reference": "https://weizhihaomachinery.com/wp-admin/post.php?post=4195&action=edit",
+    "title": "Sharpening Machine FAQ",
+    "browser_title": "Sharpening Machine FAQ | Buying, Shipping and Customization",
+    "status": "publish",
+    "slug": "faq",
+    "modified": "2026-06-18T15:25:37",
+    "date": "2026-03-18T04:43:05",
+    "html_lang": "en-US",
+    "canonical": "https://weizhihaomachinery.com/faq/",
+    "body_page_id_class_present": true,
+    "content_rendered_bytes": 212749,
+    "h2_question_count": 298
+  },
+  "existence_checks": [
+    {
+      "label": "EN FAQ",
+      "requested_url": "https://weizhihaomachinery.com/faq/",
+      "status": 200,
+      "final_url": "https://weizhihaomachinery.com/faq/",
+      "history": []
+    },
+    {
+      "label": "ES /es/faq/",
+      "requested_url": "https://weizhihaomachinery.com/es/faq/",
+      "status": 200,
+      "final_url": "https://weizhihaomachinery.com/faq/",
+      "history": [
+        {
+          "status": 301,
+          "location": "https://weizhihaomachinery.com/faq/"
+        }
+      ]
+    },
+    {
+      "label": "BR /pt/faq/",
+      "requested_url": "https://weizhihaomachinery.com/pt/faq/",
+      "status": 200,
+      "final_url": "https://weizhihaomachinery.com/faq/",
+      "history": [
+        {
+          "status": 301,
+          "location": "https://weizhihaomachinery.com/faq/"
+        }
+      ]
+    },
+    {
+      "label": "Suggested ES",
+      "requested_url": "https://weizhihaomachinery.com/es/preguntas-frecuentes/",
+      "status": 404,
+      "final_url": "https://weizhihaomachinery.com/es/preguntas-frecuentes/",
+      "history": []
+    },
+    {
+      "label": "Suggested BR",
+      "requested_url": "https://weizhihaomachinery.com/pt/perguntas-frequentes/",
+      "status": 404,
+      "final_url": "https://weizhihaomachinery.com/pt/perguntas-frequentes/",
+      "history": []
+    }
+  ],
+  "search_results": {
+    "preguntas frecuentes": [],
+    "perguntas frequentes": [],
+    "FAQ": [
+      {
+        "id": 4195,
+        "title": "Sharpening Machine FAQ",
+        "url": "https://weizhihaomachinery.com/faq/"
+      },
+      {
+        "id": 4337,
+        "title": "What Spare Parts Or Consumables Should Buyers Recheck After The First Weeks Of Sharpening Machine Use",
+        "url": "https://weizhihaomachinery.com/faq/what-spare-parts-or-consumables-should-buyers-recheck-after-the-first-weeks-of-sharpening-machine-use/"
+      },
+      {
+        "id": 4336,
+        "title": "When Should Buyers Contact The Supplier During Early Sharpening Machine Operation After Startup",
+        "url": "https://weizhihaomachinery.com/faq/when-should-buyers-contact-the-supplier-during-early-sharpening-machine-operation-after-startup/"
+      },
+      {
+        "id": 4335,
+        "title": "How Should Buyers Describe A Sharpening Result Problem During The First Startup Test",
+        "url": "https://weizhihaomachinery.com/faq/how-should-buyers-describe-a-sharpening-result-problem-during-the-first-startup-test/"
+      },
+      {
+        "id": 4334,
+        "title": "Who Should Be Present For Sharpening Machine Installation Setup And The First Production Test",
+        "url": "https://weizhihaomachinery.com/faq/who-should-be-present-for-sharpening-machine-installation-setup-and-the-first-production-test/"
+      },
+      {
+        "id": 4333,
+        "title": "How Should Buyers Record And Report A Problem If A Sharpening Machine Shipment Looks Abnormal On Arrival",
+        "url": "https://weizhihaomachinery.com/faq/how-should-buyers-record-and-report-a-problem-if-a-sharpening-machine-shipment-looks-abnormal-on-arrival/"
+      },
+      {
+        "id": 4332,
+        "title": "What Should Buyers Check When A Sharpening Machine Arrives Before Unpacking And Startup",
+        "url": "https://weizhihaomachinery.com/faq/what-should-buyers-check-when-a-sharpening-machine-arrives-before-unpacking-and-startup/"
+      },
+      {
+        "id": 4331,
+        "title": "How Should Buyers Respond If A Sharpening Machine Delivery Schedule Changes Before Shipment",
+        "url": "https://weizhihaomachinery.com/faq/how-should-buyers-respond-if-a-sharpening-machine-delivery-schedule-changes-before-shipment/"
+      },
+      {
+        "id": 4330,
+        "title": "How Should Buyers Ask For Production Progress Or Order Status Updates After Confirming A Sharpening Machine Order",
+        "url": "https://weizhihaomachinery.com/faq/how-should-buyers-ask-for-production-progress-or-order-status-updates-after-confirming-a-sharpening-machine-order/"
+      },
+      {
+        "id": 4329,
+        "title": "How Should Buyers Coordinate Arrival Installation And Startup Timing After A Sharpening Machine Is Shipped",
+        "url": "https://weizhihaomachinery.com/faq/how-should-buyers-coordinate-arrival-installation-and-startup-timing-after-a-sharpening-machine-is-shipped/"
+      }
+    ],
+    "Sharpening Machine FAQ": [
+      {
+        "id": 4195,
+        "title": "Sharpening Machine FAQ",
+        "url": "https://weizhihaomachinery.com/faq/"
+      },
+      {
+        "id": 4337,
+        "title": "What Spare Parts Or Consumables Should Buyers Recheck After The First Weeks Of Sharpening Machine Use",
+        "url": "https://weizhihaomachinery.com/faq/what-spare-parts-or-consumables-should-buyers-recheck-after-the-first-weeks-of-sharpening-machine-use/"
+      },
+      {
+        "id": 4336,
+        "title": "When Should Buyers Contact The Supplier During Early Sharpening Machine Operation After Startup",
+        "url": "https://weizhihaomachinery.com/faq/when-should-buyers-contact-the-supplier-during-early-sharpening-machine-operation-after-startup/"
+      },
+      {
+        "id": 4335,
+        "title": "How Should Buyers Describe A Sharpening Result Problem During The First Startup Test",
+        "url": "https://weizhihaomachinery.com/faq/how-should-buyers-describe-a-sharpening-result-problem-during-the-first-startup-test/"
+      },
+      {
+        "id": 4334,
+        "title": "Who Should Be Present For Sharpening Machine Installation Setup And The First Production Test",
+        "url": "https://weizhihaomachinery.com/faq/who-should-be-present-for-sharpening-machine-installation-setup-and-the-first-production-test/"
+      },
+      {
+        "id": 4333,
+        "title": "How Should Buyers Record And Report A Problem If A Sharpening Machine Shipment Looks Abnormal On Arrival",
+        "url": "https://weizhihaomachinery.com/faq/how-should-buyers-record-and-report-a-problem-if-a-sharpening-machine-shipment-looks-abnormal-on-arrival/"
+      },
+      {
+        "id": 4332,
+        "title": "What Should Buyers Check When A Sharpening Machine Arrives Before Unpacking And Startup",
+        "url": "https://weizhihaomachinery.com/faq/what-should-buyers-check-when-a-sharpening-machine-arrives-before-unpacking-and-startup/"
+      },
+      {
+        "id": 4331,
+        "title": "How Should Buyers Respond If A Sharpening Machine Delivery Schedule Changes Before Shipment",
+        "url": "https://weizhihaomachinery.com/faq/how-should-buyers-respond-if-a-sharpening-machine-delivery-schedule-changes-before-shipment/"
+      },
+      {
+        "id": 4330,
+        "title": "How Should Buyers Ask For Production Progress Or Order Status Updates After Confirming A Sharpening Machine Order",
+        "url": "https://weizhihaomachinery.com/faq/how-should-buyers-ask-for-production-progress-or-order-status-updates-after-confirming-a-sharpening-machine-order/"
+      },
+      {
+        "id": 4329,
+        "title": "How Should Buyers Coordinate Arrival Installation And Startup Timing After A Sharpening Machine Is Shipped",
+        "url": "https://weizhihaomachinery.com/faq/how-should-buyers-coordinate-arrival-installation-and-startup-timing-after-a-sharpening-machine-is-shipped/"
+      }
+    ]
+  },
+  "recommended_urls": {
+    "es": "https://weizhihaomachinery.com/es/preguntas-frecuentes/",
+    "br": "https://weizhihaomachinery.com/pt/perguntas-frequentes/"
+  },
+  "content_structure": {
+    "intro": [
+      "Below are the most common questions buyers ask before choosing a sharpening machine from WEIZHIHAO."
+    ],
+    "h2_question_count": 298,
+    "first_20_questions": [
+      {
+        "question": "How do I choose the right sharpening machine?",
+        "answer": "Start with your main tool type, blade size range, tooth or edge profile, required accuracy, and daily output. Saw blade grinders, straight knife grinders, profile knife grinders, and universal tool grinders serve different applications, so matching the machine to your real production workload is the key first step."
+      },
+      {
+        "question": "What types of sharpening machines do you offer?",
+        "answer": "WEIZHIHAO offers saw blade grinding machines, straight knife grinding machines, profile knife grinding machines, universal tool grinders, and insert blade grinding machines for different woodworking and industrial sharpening tasks."
+      },
+      {
+        "question": "Do your machines come with a warranty?",
+        "answer": "Yes. Warranty support is available for our sharpening machines. Specific coverage can vary by model and order arrangement, so buyers should confirm warranty terms together with the quotation and machine configuration."
+      },
+      {
+        "question": "Can you provide custom sharpening solutions?",
+        "answer": "Yes. We can recommend or customize sharpening solutions based on your tool type, blade dimensions, grinding requirements, voltage, and destination market. This is especially helpful for buyers with special knife profiles, large blade ranges, or factory-specific production needs."
+      },
+      {
+        "question": "Which industries use your sharpening machines?",
+        "answer": "Our machines are commonly used in woodworking, furniture manufacturing, saw service workshops, paper processing, tool maintenance, and other industrial sectors that need repeatable blade and cutter sharpening."
+      },
+      {
+        "question": "Do you ship sharpening machines internationally?",
+        "answer": "Yes. WEIZHIHAO supplies sharpening machines for international buyers. When requesting a quote, it is best to prepare your destination country, voltage, preferred model, and key tool details so shipping and configuration can be matched correctly. Evaluating Chinese Grinding Machine Suppliers"
+      },
+      {
+        "question": "How do I assess a supplier's technical capability for grinding machines?",
+        "answer": "Request detailed technical specifications, sample machine videos, and information on their R&D team to verify if their specialization aligns with your grinding needs for materials and geometries."
+      },
+      {
+        "question": "What quality control measures indicate a reliable Chinese grinding machine supplier?",
+        "answer": "Look for ISO certification, clear inspection protocols at each production stage, and specific tolerance standards for components like spindle runout. A factory tour or video can help assess consistency."
+      },
+      {
+        "question": "What key details should be included in a transparent quotation for grinding machines?",
+        "answer": "A transparent quotation should break down costs for the machine, optional accessories, crating, and shipping, while openly discussing lead times and potential production bottlenecks."
+      },
+      {
+        "question": "What after-sales support aspects are critical when sourcing grinding machines from China?",
+        "answer": "Evaluate response times for technical support, availability of English-speaking engineers, warranty coverage specifics, and the cost and availability of spare parts like grinding wheels and bearings."
+      },
+      {
+        "question": "How can I verify a supplier's reputation and reliability through references?",
+        "answer": "Request contact information for existing clients in your industry, review case studies or operational videos, and research their presence in professional forums and industry exhibitions. Industrial Knife Grinder Questions"
+      },
+      {
+        "question": "What safety details should buyers check before ordering an industrial knife grinder?",
+        "answer": "Buyers should review guarding, electrical layout, coolant handling, clamping stability, and operator access before confirming a machine. These points help reduce avoidable risk during daily sharpening work."
+      },
+      {
+        "question": "How can factories confirm grinding accuracy before purchase?",
+        "answer": "Factories should share the knife size, material, required edge result, and current sharpening problem. The supplier can then recommend a suitable structure and explain how the grinder controls repeatability."
+      },
+      {
+        "question": "Which production details help match an industrial knife grinder correctly?",
+        "answer": "Useful details include blade length, blade type, sharpening frequency, voltage, workshop space, and target finish. Clear information makes the quotation more practical and reduces machine mismatch."
+      },
+      {
+        "question": "Why should a buyer compare maintenance access when choosing a knife grinder?",
+        "answer": "Maintenance access affects downtime, cleaning, coolant care, and wheel replacement. A machine that is easier to inspect and service is usually better for factories with regular sharpening schedules. Industrial Grinder Procurement FAQ"
+      },
+      {
+        "question": "What core specifications should I request before asking for a quote?",
+        "answer": "Beyond the model name, ask for grinding wheel size and type, spindle power, maximum workpiece dimensions, and control system. Verify compatibility with your tool materials and tooth geometries, and request sample grinding reports or videos."
+      },
+      {
+        "question": "How can I assess a supplier’s quality control and machine consistency?",
+        "answer": "Inquire about in-house machined castings, guideway and spindle tolerances, and ISO 9001 documentation. Ask how each machine is tested before shipment, including vibration analysis and geometric accuracy checks."
+      },
+      {
+        "question": "What long-term costs should I consider apart from the purchase price?",
+        "answer": "Evaluate total cost of ownership by reviewing spare part availability and pricing, expected lifespan of grinding wheels and bearings, energy consumption, and recommended maintenance schedules."
+      },
+      {
+        "question": "What technical support and training come with the machine?",
+        "answer": "Confirm warranty terms, response time, remote diagnostics, and whether installation supervision, operator training, and detailed manuals are included to maximize uptime."
+      },
+      {
+        "question": "How do I verify a supplier’s export experience and regulatory compliance?",
+        "answer": "Check their track record shipping to your region and familiarity with local compliance standards like CE or UL. Also confirm spare parts logistics and a clear lead time with a single project contact. Sharpening Machine Buyer Questions"
+      }
+    ],
+    "section_title_candidates": [
+      "Evaluating Chinese Grinding Machine Suppliers",
+      "Industrial Knife Grinder Questions",
+      "Industrial Grinder Procurement FAQ",
+      "Sharpening Machine Buyer Questions",
+      "Straight Knife Grinder Uptime",
+      "Coolant Filtration for Knife Grinding Machines",
+      "Pre-FAT Installation Verification",
+      "Spare Parts Planning for Importers",
+      "Operator Training for Straight Knife Grinder Accuracy",
+      "Coolant and Wheel Care Procurement Notes",
+      "Pre-Shipment Documentation",
+      "Factory Acceptance Photo Records",
+      "Sharpening Machine Handoff Checklist",
+      "Commissioning Essentials",
+      "Saw Blade Grinder Questions",
+      "Shipping Sharpening Machines",
+      "Insert Grinder Buying Checklist FAQs",
+      "Profile Knife Grinder Questions",
+      "Wood Chipper Knife Grinder Selection",
+      "Straight Knife Grinder Buying & Maintenance",
+      "Pre-Quotation Evaluation Checklist",
+      "Carbide Sharpening Buyer Guidance",
+      "Pre-Shipment Inspection",
+      "Grinding Machine Commissioning FAQ",
+      "Installation Site Preparation Checklist",
+      "Knife Grinder Accuracy for Paper & Packaging",
+      "Supplier Evaluation Questions",
+      "Tooth Angle Precision in Saw Blade Grinders",
+      "Evaluating Straight Knife Grinders: Magnetic Chuck Maintenance Insights",
+      "Grinding Wheel Comparison"
+    ],
+    "full_question_backlog_file": "en-faq-question-backlog.md"
+  },
+  "draft_files": {
+    "es": "es-faq-draft.md",
+    "br": "br-faq-draft.md"
+  },
+  "recommend_next_step_create_pages": true,
+  "minimal_safe_plan": [
+    "Create ES FAQ as a draft page at /es/preguntas-frecuentes/ using the ES draft, without publishing until preview is verified.",
+    "Create BR FAQ as a draft page at /pt/perguntas-frequentes/ using the BR draft, without publishing until preview is verified.",
+    "After both drafts are approved, publish and then add the FAQ group to the i18n hreflang registry so EN/ES/BR mutually link.",
+    "Keep /pt/ as the BR URL prefix and keep html lang pt-BR; do not touch RU.",
+    "Later translate child FAQ detail pages in batches; do not try to translate all 298 FAQ items in one risky live edit."
+  ],
+  "risks": [
+    "/es/faq/ and /pt/faq/ currently 301 to the EN /faq/ page, so those paths should not be reused without checking rewrite behavior.",
+    "The EN FAQ page is very large (298 H2 questions); translating the entire page in one backend edit is high risk for quality and timeout.",
+    "New ES/BR FAQ pages will not provide SEO hreflang value until they are published and mapped into the hreflang registry.",
+    "Partial translation should be clearly structured as a localized FAQ landing page; detailed child FAQ pages should be translated later in controlled batches."
+  ]
+}

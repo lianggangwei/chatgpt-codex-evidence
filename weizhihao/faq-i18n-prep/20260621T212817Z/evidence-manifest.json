@@ -1,0 +1,70 @@
+{
+  "title": "Weizhihao FAQ ES/BR read-only preparation evidence",
+  "created_at": "20260621T212817Z",
+  "mode": "read-only FAQ ES/BR preparation",
+  "constraints": [
+    "no website changes",
+    "no WordPress save",
+    "no publish",
+    "no plugin edit",
+    "no config edit",
+    "no cache purge",
+    "no RU work"
+  ],
+  "en_faq": {
+    "url": "https://weizhihaomachinery.com/faq/",
+    "page_id": 4195,
+    "admin_edit_url_reference": "https://weizhihaomachinery.com/wp-admin/post.php?post=4195&action=edit",
+    "title": "Sharpening Machine FAQ",
+    "browser_title": "Sharpening Machine FAQ | Buying, Shipping and Customization",
+    "status": "publish",
+    "slug": "faq",
+    "modified": "2026-06-18T15:25:37",
+    "date": "2026-03-18T04:43:05",
+    "html_lang": "en-US",
+    "canonical": "https://weizhihaomachinery.com/faq/",
+    "body_page_id_class_present": true,
+    "content_rendered_bytes": 212749,
+    "h2_question_count": 298
+  },
+  "recommended_urls": {
+    "es": "https://weizhihaomachinery.com/es/preguntas-frecuentes/",
+    "br": "https://weizhihaomachinery.com/pt/perguntas-frequentes/"
+  },
+  "status_summary": {
+    "es_exists": false,
+    "br_exists": false,
+    "es_faq_redirects_to_en": true,
+    "br_faq_redirects_to_en": true,
+    "recommend_next_step_create_pages": true
+  },
+  "evidence_urls": {
+    "manifest_url": "https://raw.githubusercontent.com/lianggangwei/chatgpt-codex-evidence/main/weizhihao/faq-i18n-prep/20260621T212817Z/evidence-manifest.json",
+    "manifest_blob_url": "https://github.com/lianggangwei/chatgpt-codex-evidence/blob/main/weizhihao/faq-i18n-prep/20260621T212817Z/evidence-manifest.json",
+    "log_url": "https://github.com/lianggangwei/chatgpt-codex-evidence/blob/main/weizhihao/faq-i18n-prep/20260621T212817Z/faq-i18n-prep.md",
+    "json_log_url": "https://raw.githubusercontent.com/lianggangwei/chatgpt-codex-evidence/main/weizhihao/faq-i18n-prep/20260621T212817Z/faq-i18n-prep.json",
+    "es_draft_url": "https://github.com/lianggangwei/chatgpt-codex-evidence/blob/main/weizhihao/faq-i18n-prep/20260621T212817Z/es-faq-draft.md",
+    "br_draft_url": "https://github.com/lianggangwei/chatgpt-codex-evidence/blob/main/weizhihao/faq-i18n-prep/20260621T212817Z/br-faq-draft.md",
+    "question_backlog_url": "https://github.com/lianggangwei/chatgpt-codex-evidence/blob/main/weizhihao/faq-i18n-prep/20260621T212817Z/en-faq-question-backlog.md"
+  },
+  "minimal_safe_plan": [
+    "Create ES FAQ as a draft page at /es/preguntas-frecuentes/ using the ES draft, without publishing until preview is verified.",
+    "Create BR FAQ as a draft page at /pt/perguntas-frequentes/ using the BR draft, without publishing until preview is verified.",
+    "After both drafts are approved, publish and then add the FAQ group to the i18n hreflang registry so EN/ES/BR mutually link.",
+    "Keep /pt/ as the BR URL prefix and keep html lang pt-BR; do not touch RU.",
+    "Later translate child FAQ detail pages in batches; do not try to translate all 298 FAQ items in one risky live edit."
+  ],
+  "risks": [
+    "/es/faq/ and /pt/faq/ currently 301 to the EN /faq/ page, so those paths should not be reused without checking rewrite behavior.",
+    "The EN FAQ page is very large (298 H2 questions); translating the entire page in one backend edit is high risk for quality and timeout.",
+    "New ES/BR FAQ pages will not provide SEO hreflang value until they are published and mapped into the hreflang registry.",
+    "Partial translation should be clearly structured as a localized FAQ landing page; detailed child FAQ pages should be translated later in controlled batches."
+  ],
+  "sha256": {
+    "faq-i18n-prep.md": "07a5430b0f5ac32dfb1eda4cfc00726208173c943ed135ebf6497a8aa141e9ac",
+    "faq-i18n-prep.json": "45324369e9d441beaabc803a874d88263900610b8c4206e5c0664d3802fff6f4",
+    "es-faq-draft.md": "15c996e3a4dc0022533caa5c5347d445f3f1d1ec020a93e4b42440a3f5503dd7",
+    "br-faq-draft.md": "ef4dca71990bf7a6985520650262943cbc22aede53021246cc2f4138514c30be",
+    "en-faq-question-backlog.md": "72a4c016f5f926ec0d916bb81a048d399fa6d97ab62d82d61369817b66dfa35a"
+  }
+}
