@@ -1,0 +1,88 @@
+{
+  "title": "WZH Multilingual Content Pipeline and Core Page Matrix",
+  "generated_at": "2026-06-22T15:32:35Z",
+  "scope": "read-only pipeline design and matrix generation",
+  "site": "https://weizhihaomachinery.com/",
+  "no_mutation_guarantee": [
+    "no WordPress save",
+    "no page creation",
+    "no publishing",
+    "no registry edit",
+    "no cache purge",
+    "no RU handling"
+  ],
+  "files": {
+    "log": "log.md",
+    "csv": "core-page-matrix.csv",
+    "summary": "matrix-summary.json",
+    "source_registry": "source/i18n-registry.public.json",
+    "source_settings": "source/i18n-settings.public.json",
+    "source_product_directory": "source/i18n-product-directory.public.json",
+    "source_sitemap_index": "source/sitemap_index.xml"
+  },
+  "summary": {
+    "generated_at": "2026-06-22T15:32:35Z",
+    "source_files": [
+      "/Users/zhumulangmafeng/Documents/国外/records/multilingual-content-pipeline/20260622T152303Z/source/product_cat-sitemap.xml",
+      "/Users/zhumulangmafeng/Documents/国外/records/multilingual-content-pipeline/20260622T152303Z/source/i18n-registry.public.json",
+      "/Users/zhumulangmafeng/Documents/国外/records/multilingual-content-pipeline/20260622T152303Z/source/post-sitemap.xml",
+      "/Users/zhumulangmafeng/Documents/国外/records/multilingual-content-pipeline/20260622T152303Z/source/i18n-product-directory.public.json",
+      "/Users/zhumulangmafeng/Documents/国外/records/multilingual-content-pipeline/20260622T152303Z/source/i18n-settings.public.json",
+      "/Users/zhumulangmafeng/Documents/国外/records/multilingual-content-pipeline/20260622T152303Z/source/product-sitemap.xml",
+      "/Users/zhumulangmafeng/Documents/国外/records/multilingual-content-pipeline/20260622T152303Z/source/sitemap_index.xml",
+      "/Users/zhumulangmafeng/Documents/国外/records/multilingual-content-pipeline/20260622T152303Z/source/page-sitemap.xml"
+    ],
+    "registry_groups": 12,
+    "matrix_rows": 23,
+    "enabled_languages": {
+      "en": {
+        "label": "EN",
+        "html_lang": "en-US",
+        "dir": "ltr",
+        "enabled": true
+      },
+      "es": {
+        "label": "ES",
+        "html_lang": "es-ES",
+        "dir": "ltr",
+        "enabled": true
+      },
+      "pt": {
+        "label": "BR",
+        "html_lang": "pt-BR",
+        "dir": "ltr",
+        "enabled": true
+      }
+    },
+    "disabled_languages": {
+      "fr": {
+        "label": "FR",
+        "html_lang": "fr-FR",
+        "dir": "ltr",
+        "enabled": false
+      },
+      "de": {
+        "label": "DE",
+        "html_lang": "de-DE",
+        "dir": "ltr",
+        "enabled": false
+      },
+      "ar": {
+        "label": "AR",
+        "html_lang": "ar",
+        "dir": "rtl",
+        "enabled": false
+      },
+      "ru": {
+        "label": "RU",
+        "html_lang": "ru-RU",
+        "dir": "ltr",
+        "enabled": false
+      }
+    },
+    "http_status_counts": {
+      "200": 46,
+      "404": 1
+    }
+  }
+}

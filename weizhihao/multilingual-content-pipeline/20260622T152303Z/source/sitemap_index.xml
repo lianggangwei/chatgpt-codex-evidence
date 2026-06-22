@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This sitemap was dynamically generated on June 22, 2026 at 3:26 pm by All in One SEO Pro v4.8.3.2 - the original SEO plugin for WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="https://weizhihaomachinery.com/default-sitemap.xsl?sitemap=root"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc><![CDATA[https://weizhihaomachinery.com/post-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2026-06-17T22:51:29+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[https://weizhihaomachinery.com/page-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2026-06-21T23:59:28+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[https://weizhihaomachinery.com/product-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2026-05-08T13:36:54+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[https://weizhihaomachinery.com/product_cat-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2026-05-08T13:36:54+00:00]]></lastmod>
+	</sitemap>
+</sitemapindex>

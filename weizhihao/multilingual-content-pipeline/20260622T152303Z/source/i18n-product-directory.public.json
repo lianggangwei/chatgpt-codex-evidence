@@ -1,0 +1,257 @@
+{
+  "schema_version": 1,
+  "hub": {
+    "en": {
+      "eyebrow": "Product selection hub",
+      "headline": "Choose the right sharpening machine by blade and application",
+      "lead": "Start with the tool you sharpen, then compare the machine category and representative models. Send blade size, material, voltage and target output by WhatsApp for a practical recommendation.",
+      "whatsapp_cta": "Ask for a machine recommendation",
+      "secondary_cta": "View machine categories",
+      "checklist_title": "Information to send for a faster quote",
+      "checklist": [
+        "Blade or saw type and size",
+        "Material and current sharpening problem",
+        "Available voltage and destination country",
+        "Target output or daily sharpening volume",
+        "Whether a test video is required"
+      ]
+    },
+    "es": {
+      "eyebrow": "Centro de selección de productos",
+      "headline": "Elija la afiladora correcta según la cuchilla y la aplicación",
+      "lead": "Empiece por el tipo de herramienta que necesita afilar y compare la categoría de máquina con modelos representativos. Envíe medidas, material, voltaje y producción objetivo por WhatsApp para recibir una recomendación práctica.",
+      "whatsapp_cta": "Pedir recomendación por WhatsApp",
+      "secondary_cta": "Ver categorías de máquinas",
+      "checklist_title": "Datos para recibir una cotización más rápida",
+      "checklist": [
+        "Tipo y medida de cuchilla o sierra",
+        "Material y problema actual de afilado",
+        "Voltaje disponible y país de destino",
+        "Producción objetivo o volumen diario de afilado",
+        "Si necesita video de prueba"
+      ]
+    },
+    "pt": {
+      "eyebrow": "Centro de seleção de produtos",
+      "headline": "Escolha a afiadora correta pela faca, serra e aplicação",
+      "lead": "Comece pelo tipo de ferramenta que precisa afiar e compare a categoria de máquina com modelos representativos. Envie medidas, material, tensão e produção desejada pelo WhatsApp para receber uma recomendação prática.",
+      "whatsapp_cta": "Pedir recomendação pelo WhatsApp",
+      "secondary_cta": "Ver categorias de máquinas",
+      "checklist_title": "Dados para receber uma cotação mais rápida",
+      "checklist": [
+        "Tipo e medida da faca ou serra",
+        "Material e problema atual de afiação",
+        "Tensão disponível e país de destino",
+        "Produção desejada ou volume diário de afiação",
+        "Se precisa de vídeo de teste"
+      ]
+    }
+  },
+  "categories": [
+    {
+      "group_id": "cat-saw-blade-grinder",
+      "image": {
+        "url": "https://weizhihaomachinery.com/wp-content/uploads/2026/02/158CNC-300x414.png",
+        "alt": {
+          "en": "MF158CNC circular saw blade sharpening machine",
+          "es": "Afiladora CNC MF158CNC para hojas de sierra circular",
+          "pt": "Afiadora CNC MF158CNC para serras circulares"
+        }
+      },
+      "labels": {
+        "en": {
+          "name": "Saw Blade Grinder",
+          "summary": "For TCT and HSS circular saw blades used by furniture plants, saw service shops and woodworking factories.",
+          "fits": "Circular saw blades, carbide saw blades, HSS saw blades",
+          "industries": "Furniture, panel cutting, saw service",
+          "view_cta": "View saw blade grinders",
+          "whatsapp_cta": "Ask about saw blade sharpening"
+        },
+        "es": {
+          "name": "Afiladoras de hojas de sierra",
+          "summary": "Para hojas de sierra circular TCT y HSS usadas en fábricas de muebles, talleres de servicio y plantas de corte.",
+          "fits": "Sierras circulares, hojas de carburo, sierras HSS",
+          "industries": "Muebles, corte de paneles, servicio de sierras",
+          "view_cta": "Ver afiladoras de sierra",
+          "whatsapp_cta": "Consultar por sierras"
+        },
+        "pt": {
+          "name": "Afiadoras de serras circulares",
+          "summary": "Para serras circulares TCT e HSS usadas por fábricas de móveis, serviços de afiação e linhas de corte.",
+          "fits": "Serras circulares, serras de metal duro, serras HSS",
+          "industries": "Móveis, corte de painéis, serviço de serras",
+          "view_cta": "Ver afiadoras de serra",
+          "whatsapp_cta": "Consultar sobre serras"
+        }
+      },
+      "representative_models": [
+        { "model": "MF158CNC", "group_id": "product-mf158cnc", "status": "verified" },
+        { "model": "MF158C", "url": "https://weizhihaomachinery.com/product/fully-automatic-circular-saw-blade-sharpening-machine-mf158c/", "status": "en_only" },
+        { "model": "MF158", "url": "https://weizhihaomachinery.com/product/circular-saw-blade-grinding-machine-mf158/", "status": "en_only" },
+        { "model": "MF128", "url": "https://weizhihaomachinery.com/product/circular-saw-blade-gear-grinding-machine-mf128/", "status": "en_only" }
+      ]
+    },
+    {
+      "group_id": "cat-straight-knife-grinder",
+      "image": {
+        "url": "https://weizhihaomachinery.com/wp-content/uploads/2026/02/2510CNC2515CNC-300x414.png",
+        "alt": {
+          "en": "MF2510CNC and MF2515CNC automatic straight knife grinder",
+          "es": "Rectificadora lineal automática MF2510CNC y MF2515CNC",
+          "pt": "Retificadora linear automática MF2510CNC e MF2515CNC"
+        }
+      },
+      "labels": {
+        "en": {
+          "name": "Straight Knife Grinder",
+          "summary": "For long straight knives such as planer knives, veneer knives, paper knives and chipper knives.",
+          "fits": "Planer knives, veneer knives, paper knives, chipper knives",
+          "industries": "Woodworking, veneer, paper cutting",
+          "view_cta": "View straight knife grinders",
+          "whatsapp_cta": "Ask about straight knives"
+        },
+        "es": {
+          "name": "Afiladoras de cuchillas rectas",
+          "summary": "Para cuchillas rectas largas como cuchillas de cepillo, chapa, papel y astilladora.",
+          "fits": "Cuchillas de cepillo, chapa, papel y astilladora",
+          "industries": "Madera, chapa, corte de papel",
+          "view_cta": "Ver afiladoras de cuchillas rectas",
+          "whatsapp_cta": "Consultar por cuchillas rectas"
+        },
+        "pt": {
+          "name": "Afiadoras de facas retas",
+          "summary": "Para facas retas longas, incluindo facas de plaina, lâminas de lâmina de madeira, papel e picador.",
+          "fits": "Facas de plaina, lâminas de madeira, papel e picador",
+          "industries": "Madeira, lâminas, corte de papel",
+          "view_cta": "Ver afiadoras de facas retas",
+          "whatsapp_cta": "Consultar sobre facas retas"
+        }
+      },
+      "representative_models": [
+        { "model": "MF2510/2515CNC", "group_id": "product-mf2510-2515cnc", "status": "verified" },
+        { "model": "MF2510C/2515C", "url": "https://weizhihaomachinery.com/product/automatic-straight-knife-grinder-mf2510c-2515c/", "status": "en_only" }
+      ]
+    },
+    {
+      "group_id": "cat-universal-tool-grinder",
+      "image": {
+        "url": "https://weizhihaomachinery.com/wp-content/uploads/2026/02/2718CIII-300x414.png",
+        "alt": {
+          "en": "MF2718C-III universal knife sharpening machine",
+          "es": "Afiladora universal de herramientas MF2718C-III",
+          "pt": "Afiadora universal de ferramentas MF2718C-III"
+        }
+      },
+      "labels": {
+        "en": {
+          "name": "Universal Tool Grinder",
+          "summary": "Flexible grinder for workshops that sharpen different knives, tools and small cutting edges.",
+          "fits": "Workshop knives, small tools, mixed sharpening jobs",
+          "industries": "Maintenance shops, woodworking workshops",
+          "view_cta": "View universal tool grinders",
+          "whatsapp_cta": "Ask about universal grinding"
+        },
+        "es": {
+          "name": "Afiladora universal de herramientas",
+          "summary": "Máquina flexible para talleres que afilan diferentes cuchillas, herramientas y filos pequeños.",
+          "fits": "Cuchillas de taller, herramientas pequeñas, trabajos mixtos",
+          "industries": "Mantenimiento, talleres de madera",
+          "view_cta": "Ver afiladoras universales",
+          "whatsapp_cta": "Consultar por afilado universal"
+        },
+        "pt": {
+          "name": "Afiadora universal de ferramentas",
+          "summary": "Máquina flexível para oficinas que afiam diferentes facas, ferramentas e pequenos gumes.",
+          "fits": "Facas de oficina, ferramentas pequenas, trabalhos variados",
+          "industries": "Manutenção, oficinas de madeira",
+          "view_cta": "Ver afiadoras universais",
+          "whatsapp_cta": "Consultar sobre afiação universal"
+        }
+      },
+      "representative_models": [
+        { "model": "MF2718C-III", "url": "https://weizhihaomachinery.com/product/universal-knife-sharpening-machine/", "status": "en_only" }
+      ]
+    },
+    {
+      "group_id": "cat-blade-grinding-machine",
+      "image": {
+        "url": "https://weizhihaomachinery.com/wp-content/uploads/2026/02/250CNC-300x414.png",
+        "alt": {
+          "en": "MF250CNC blade sharpener and insert blade grinding machine",
+          "es": "Rectificadora CNC MF250CNC para cuchillas industriales",
+          "pt": "Retificadora CNC MF250CNC para facas industriais"
+        }
+      },
+      "labels": {
+        "en": {
+          "name": "Industrial Blade Grinding Machine",
+          "summary": "For insert blades and industrial blades where repeatable grinding accuracy matters.",
+          "fits": "Insert blades, industrial blades, short straight blades",
+          "industries": "Panel cutting, tooling, industrial blade service",
+          "view_cta": "View blade grinding machines",
+          "whatsapp_cta": "Ask about industrial blades"
+        },
+        "es": {
+          "name": "Rectificadora de cuchillas industriales",
+          "summary": "Para cuchillas intercambiables e industriales donde importa la precisión repetible.",
+          "fits": "Cuchillas intercambiables, cuchillas industriales, cuchillas rectas cortas",
+          "industries": "Corte de paneles, herramientas, servicio industrial",
+          "view_cta": "Ver rectificadoras de cuchillas",
+          "whatsapp_cta": "Consultar por cuchillas industriales"
+        },
+        "pt": {
+          "name": "Retificadora de facas industriais",
+          "summary": "Para facas intercambiáveis e industriais quando a precisão repetível é essencial.",
+          "fits": "Facas intercambiáveis, facas industriais, facas retas curtas",
+          "industries": "Corte de painéis, ferramentas, serviço industrial",
+          "view_cta": "Ver retificadoras de facas",
+          "whatsapp_cta": "Consultar sobre facas industriais"
+        }
+      },
+      "representative_models": [
+        { "model": "MF250CNC", "url": "https://weizhihaomachinery.com/product/blade-sharpener-mf250cnc/", "status": "en_only" },
+        { "model": "MF2510/2515CNC", "group_id": "product-mf2510-2515cnc", "status": "verified" }
+      ]
+    },
+    {
+      "group_id": "cat-profiling-knife-sharpening",
+      "image": {
+        "url": "https://weizhihaomachinery.com/wp-content/uploads/2026/02/223C-300x414.png",
+        "alt": {
+          "en": "MF223C profiling knife sharpening machine",
+          "es": "Afiladora de cuchillas perfiladas MF223C",
+          "pt": "Afiadora de facas perfiladas MF223C"
+        }
+      },
+      "labels": {
+        "en": {
+          "name": "Profiling Knife Sharpening Machine",
+          "summary": "For profile knives and shaped cutters that need the cutting form followed accurately.",
+          "fits": "Profile knives, molding knives, shaped cutters",
+          "industries": "Molding, joinery, woodworking profile shops",
+          "view_cta": "View profiling knife grinders",
+          "whatsapp_cta": "Ask about profile knives"
+        },
+        "es": {
+          "name": "Afiladora de cuchillas perfiladas",
+          "summary": "Para cuchillas perfiladas y cortadores de forma que deben seguir el perfil con precisión.",
+          "fits": "Cuchillas perfiladas, cuchillas de moldura, cortadores de forma",
+          "industries": "Molduras, carpintería, perfiles de madera",
+          "view_cta": "Ver afiladoras de perfiles",
+          "whatsapp_cta": "Consultar por cuchillas perfiladas"
+        },
+        "pt": {
+          "name": "Afiadora de facas perfiladas",
+          "summary": "Para facas perfiladas e cortadores moldados que precisam seguir a forma com precisão.",
+          "fits": "Facas perfiladas, facas de moldura, cortadores moldados",
+          "industries": "Molduras, marcenaria, perfis de madeira",
+          "view_cta": "Ver afiadoras de perfis",
+          "whatsapp_cta": "Consultar sobre facas perfiladas"
+        }
+      },
+      "representative_models": [
+        { "model": "MF223C", "url": "https://weizhihaomachinery.com/product/profiling-knife-sharpening-machine/", "status": "en_only" }
+      ]
+    }
+  ]
+}

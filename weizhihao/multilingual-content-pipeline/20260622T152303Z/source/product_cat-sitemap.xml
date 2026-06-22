@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This sitemap was dynamically generated on June 22, 2026 at 3:28 pm by All in One SEO Pro v4.8.3.2 - the original SEO plugin for WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="https://weizhihaomachinery.com/default-sitemap.xsl?sitemap=product_cat"?>
+<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xhtml="http://www.w3.org/1999/xhtml"
+	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+	<url>
+		<loc><![CDATA[https://weizhihaomachinery.com/product-category/saw-blade-grinder/]]></loc>
+		<lastmod><![CDATA[2026-05-08T13:36:52+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0.3]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[https://weizhihaomachinery.com/product-category/straight-knife-grinder/]]></loc>
+		<lastmod><![CDATA[2026-05-08T13:36:54+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0.3]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[https://weizhihaomachinery.com/product-category/universal-tool-grinder/]]></loc>
+		<lastmod><![CDATA[2026-05-08T13:36:19+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0.3]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[https://weizhihaomachinery.com/product-category/profiling-knife-sharpening-machine/]]></loc>
+		<lastmod><![CDATA[2026-05-08T13:36:06+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0.3]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[https://weizhihaomachinery.com/product-category/blade-grinding-machine/]]></loc>
+		<lastmod><![CDATA[2026-05-08T13:35:59+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0.3]]></priority>
+	</url>
+</urlset>
