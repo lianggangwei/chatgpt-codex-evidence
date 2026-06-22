@@ -1,0 +1,62 @@
+{
+  "en_faq": {
+    "url": "https://weizhihaomachinery.com/faq/",
+    "curl": "200 https://weizhihaomachinery.com/faq/",
+    "curl_stderr": "% Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n                                 Dload  Upload   Total   Spent    Left  Speed\n\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0\n  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0\n  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0\n  0     0    0     0    0     0      0      0 --:--:--  0:00:04 --:--:--     0\n  0     0    0     0    0     0      0      0 --:--:--  0:00:05 --:--:--     0\n  0     0    0     0    0     0      0      0 --:--:--  0:00:05 --:--:--     0\n  0     0    0     0    0     0      0      0 --:--:--  0:00:06 --:--:--     0\n  0     0    0     0    0     0      0      0 --:--:--  0:00:07 --:--:--     0\n100 21428    0 21428    0     0   2594      0 --:--:--  0:00:08 --:--:--  5070\n100  436k    0  436k    0     0  50605      0 --:--:--  0:00:08 --:--:--  115k",
+    "http_status": "200",
+    "html_lang": "en-US",
+    "canonical": "https://weizhihaomachinery.com/faq/",
+    "hreflang": {
+      "en": "https://weizhihaomachinery.com/faq/",
+      "es": "https://weizhihaomachinery.com/es/preguntas-frecuentes/",
+      "pt-BR": "https://weizhihaomachinery.com/pt/perguntas-frequentes/",
+      "x-default": "https://weizhihaomachinery.com/faq/"
+    },
+    "has_hreflang_pt": false,
+    "has_ru": false,
+    "language_entry_text": "EN ES BR EN ES BR",
+    "contains_en_es_br": true,
+    "headers_file": "/Users/zhumulangmafeng/Documents/国外/records/faq-i18n-registry/20260622T060223Z/validation/en_faq.headers.txt",
+    "html_file": "/Users/zhumulangmafeng/Documents/国外/records/faq-i18n-registry/20260622T060223Z/validation/en_faq.html"
+  },
+  "es_faq": {
+    "url": "https://weizhihaomachinery.com/es/preguntas-frecuentes/",
+    "curl": "200 https://weizhihaomachinery.com/es/preguntas-frecuentes/",
+    "curl_stderr": "% Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n                                 Dload  Upload   Total   Spent    Left  Speed\n\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0\n  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0\n  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0\n  0     0    0     0    0     0      0      0 --:--:--  0:00:04 --:--:--     0\n  0     0    0     0    0     0      0      0 --:--:--  0:00:05 --:--:--     0\n  0     0    0     0    0     0      0      0 --:--:--  0:00:05 --:--:--     0\n  0     0    0     0    0     0      0      0 --:--:--  0:00:06 --:--:--     0\n100  1438    0  1438    0     0    187      0 --:--:--  0:00:07 --:--:--   309\n100  221k    0  221k    0     0  27343      0 --:--:--  0:00:08 --:--:-- 53341",
+    "http_status": "200",
+    "html_lang": "es-ES",
+    "canonical": "https://weizhihaomachinery.com/es/preguntas-frecuentes/",
+    "hreflang": {
+      "en": "https://weizhihaomachinery.com/faq/",
+      "es": "https://weizhihaomachinery.com/es/preguntas-frecuentes/",
+      "pt-BR": "https://weizhihaomachinery.com/pt/perguntas-frequentes/",
+      "x-default": "https://weizhihaomachinery.com/faq/"
+    },
+    "has_hreflang_pt": false,
+    "has_ru": false,
+    "language_entry_text": "EN ES BR EN ES BR",
+    "contains_en_es_br": true,
+    "headers_file": "/Users/zhumulangmafeng/Documents/国外/records/faq-i18n-registry/20260622T060223Z/validation/es_faq.headers.txt",
+    "html_file": "/Users/zhumulangmafeng/Documents/国外/records/faq-i18n-registry/20260622T060223Z/validation/es_faq.html"
+  },
+  "br_faq": {
+    "url": "https://weizhihaomachinery.com/pt/perguntas-frequentes/",
+    "curl": "200 https://weizhihaomachinery.com/pt/perguntas-frequentes/",
+    "curl_stderr": "% Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n                                 Dload  Upload   Total   Spent    Left  Speed\n\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0\n  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0\n  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0\n  0     0    0     0    0     0      0      0 --:--:--  0:00:04 --:--:--     0\n  0     0    0     0    0     0      0      0 --:--:--  0:00:05 --:--:--     0\n  0     0    0     0    0     0      0      0 --:--:--  0:00:06 --:--:--     0\n  0     0    0     0    0     0      0      0 --:--:--  0:00:07 --:--:--     0\n100 21981    0 21981    0     0   2725      0 --:--:--  0:00:08 --:--:--  4369\n100  221k    0  221k    0     0  26596      0 --:--:--  0:00:08 --:--:-- 50541",
+    "http_status": "200",
+    "html_lang": "pt-BR",
+    "canonical": "https://weizhihaomachinery.com/pt/perguntas-frequentes/",
+    "hreflang": {
+      "en": "https://weizhihaomachinery.com/faq/",
+      "es": "https://weizhihaomachinery.com/es/preguntas-frecuentes/",
+      "pt-BR": "https://weizhihaomachinery.com/pt/perguntas-frequentes/",
+      "x-default": "https://weizhihaomachinery.com/faq/"
+    },
+    "has_hreflang_pt": false,
+    "has_ru": false,
+    "language_entry_text": "EN ES BR EN ES BR",
+    "contains_en_es_br": true,
+    "headers_file": "/Users/zhumulangmafeng/Documents/国外/records/faq-i18n-registry/20260622T060223Z/validation/br_faq.headers.txt",
+    "html_file": "/Users/zhumulangmafeng/Documents/国外/records/faq-i18n-registry/20260622T060223Z/validation/br_faq.html"
+  }
+}

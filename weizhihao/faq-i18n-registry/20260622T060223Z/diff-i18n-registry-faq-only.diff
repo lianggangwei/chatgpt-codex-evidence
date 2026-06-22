@@ -1,0 +1,38 @@
+--- /Users/zhumulangmafeng/Documents/国外/records/faq-i18n-registry/20260622T060223Z/i18n-registry.remote-before.json	2026-06-22 14:02:30
++++ /Users/zhumulangmafeng/Documents/国外/records/faq-i18n-registry/20260622T060223Z/i18n-registry.after.json	2026-06-22 14:02:30
+@@ -355,6 +355,35 @@
+           "meta_description": "MF2510CNC / MF2515CNC retificadora linear automática A MF2510CNC / MF2515CNC é uma solução de retífica linear para compradores que trabalham com facas retas longas e precisam de um processo mais controlado do que a afiação manual básica. Esta página foi preparada para fábricas de madeira, oficinas de serviço, plantas de lâmina de madeira, linhas de"
+         }
+       }
++    },
++    "faq": {
++      "x_default_lang": "en",
++      "page_type": "page",
++      "languages": {
++        "en": {
++          "url": "https://weizhihaomachinery.com/faq/"
++        },
++        "es": {
++          "url": "https://weizhihaomachinery.com/es/preguntas-frecuentes/",
++          "path": "es/preguntas-frecuentes",
++          "slug": "preguntas-frecuentes",
++          "title": "Preguntas frecuentes sobre máquinas afiladoras",
++          "wp_page_id": 4897,
++          "status": "published",
++          "verified_at": "2026-06-22",
++          "source_of_truth": "wordpress_page"
++        },
++        "pt": {
++          "url": "https://weizhihaomachinery.com/pt/perguntas-frequentes/",
++          "path": "pt/perguntas-frequentes",
++          "slug": "perguntas-frequentes",
++          "title": "Perguntas frequentes sobre máquinas de afiação",
++          "wp_page_id": 4898,
++          "status": "published",
++          "verified_at": "2026-06-22",
++          "source_of_truth": "wordpress_page"
++        }
++      }
+     }
+   }
+ }

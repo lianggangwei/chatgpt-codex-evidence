@@ -1,0 +1,22 @@
+HTTP/1.1 200 OK
+Date: Mon, 22 Jun 2026 06:12:03 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/8.3.30
+Permissions-Policy: private-state-token-redemption=(self "https://www.google.com" "https://www.gstatic.com" "https://recaptcha.net" "https://challenges.cloudflare.com" "https://hcaptcha.com"), private-state-token-issuance=(self "https://www.google.com" "https://www.gstatic.com" "https://recaptcha.net" "https://challenges.cloudflare.com" "https://hcaptcha.com")
+X-Litespeed-Cache-Control: public,max-age=604800
+X-Litespeed-Tag: 82c_page,82c_URL.9c6dca26db8df421ba2575f113af8ea7,82c_Po.4897,82c_PGS,82c_
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=rzFTwn%2BpXT81iqHA%2BnvViFke3G%2FFe2PvHM6p9V%2B54zg0LmdHjHm%2F4weP6JGGgvLqgkxf5i5tXItRwJ5JCDA4P8JE57iaF5i%2F0wGKI%2BjfxN%2BK6bYYSsril7XQz2pzf4b5N1gDDIMYIxp9"}]}
+X-Litespeed-Cache: miss
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Vary: Accept-Encoding
+Server: cloudflare
+Platform: hostinger
+Panel: hpanel
+Content-Security-Policy: upgrade-insecure-requests
+Alt-Svc: h3=":443"; ma=86400
+X-Turbo-Charged-By: LiteSpeed
+Cf-Cache-Status: DYNAMIC
+CF-RAY: a0f919550c4d7e56-SJC
+

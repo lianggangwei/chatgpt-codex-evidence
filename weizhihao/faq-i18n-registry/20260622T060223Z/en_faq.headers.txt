@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Date: Mon, 22 Jun 2026 06:11:54 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+CF-Ray: a0f9191d2a377b82-SJC
+CF-Cache-Status: EXPIRED
+Cache-Control: public, max-age=600, s-maxage=600
+Link: <https://weizhihaomachinery.com/llms.txt>; rel="alternate"; type="text/plain", <https://weizhihaomachinery.com/llms-full.txt>; rel="alternate"; type="text/plain", <https://weizhihaomachinery.com/ai-reference/>; rel="alternate"; type="text/html", <https://weizhihaomachinery.com/ai-sitemap.xml>; rel="sitemap"; type="application/xml", <https://weizhihaomachinery.com/ai-index.json>; rel="alternate"; type="application/json"
+Server: cloudflare
+Vary: Accept-Encoding
+Alt-Svc: h3=":443"; ma=86400
+Content-Security-Policy: upgrade-insecure-requests
+Panel: hpanel
+Permissions-Policy: private-state-token-redemption=(self "https://www.google.com" "https://www.gstatic.com" "https://recaptcha.net" "https://challenges.cloudflare.com" "https://hcaptcha.com"), private-state-token-issuance=(self "https://www.google.com" "https://www.gstatic.com" "https://recaptcha.net" "https://challenges.cloudflare.com" "https://hcaptcha.com")
+Platform: hostinger
+X-Litespeed-Cache: miss
+X-Litespeed-Cache-Control: public,max-age=604800
+X-Litespeed-Tag: 82c_page,82c_URL.19a3f9e6cb4417eb2564d53cad09ac8e,82c_Po.4195,82c_PGS,82c_
+X-Powered-By: PHP/8.3.30
+X-Turbo-Charged-By: LiteSpeed
+x-robots-tag: index, follow
+x-wzh-cache-policy: public-edge-600
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=KEpAsDXikbtbB1%2BPVop9xsv%2FsnJ5aqPvHkLgg3vnT5WeDqftFMEyKuGvlaY%2BcgUGFPRl%2FjC0mqeL%2F2oclaI%2FI1EqGeIWnADsl%2F2rAnip7N2e1GY6qNZQezjmgFbLvO%2BW9FZDyLjsvjUo"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+

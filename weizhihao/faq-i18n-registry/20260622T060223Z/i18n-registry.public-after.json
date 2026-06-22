@@ -1,0 +1,389 @@
+{
+  "schema_version": 1,
+  "groups": {
+    "home": {
+      "x_default_lang": "en",
+      "page_type": "home",
+      "languages": {
+        "en": {
+          "url": "https://weizhihaomachinery.com/"
+        },
+        "es": {
+          "url": "https://weizhihaomachinery.com/es/",
+          "path": "es",
+          "slug": "es",
+          "title": "Fabricante de afiladoras industriales para cuchillas y sierras",
+          "seed": "home",
+          "meta_description": "Weizhihao fabrica afiladoras industriales para cuchillas rectas, sierras circulares y herramientas. Envíe medidas, voltaje y uso para recibir una recomendación.",
+          "wp_page_id": 4825,
+          "status": "published",
+          "verified_at": "2026-06-21",
+          "source_of_truth": "wordpress_page"
+        },
+        "pt": {
+          "url": "https://weizhihaomachinery.com/pt/",
+          "path": "pt",
+          "slug": "pt",
+          "title": "Fabricante de afiadoras industriais para facas e serras",
+          "seed": "home",
+          "meta_description": "A Weizhihao fabrica afiadoras industriais para facas retas, serras circulares e ferramentas. Envie medidas, tensão e uso para receber uma recomendação.",
+          "wp_page_id": 4826,
+          "status": "published",
+          "verified_at": "2026-06-21",
+          "source_of_truth": "wordpress_page"
+        }
+      }
+    },
+    "about": {
+      "x_default_lang": "en",
+      "page_type": "page",
+      "languages": {
+        "en": {
+          "url": "https://weizhihaomachinery.com/about-us/"
+        },
+        "es": {
+          "url": "https://weizhihaomachinery.com/es/sobre-nosotros/",
+          "meta_description": "Conozca a Weizhihao, fabricante de máquinas de afilado industrial con soporte para selección, pruebas, embalaje de exportación y comunicación técnica.",
+          "wp_page_id": 4829,
+          "status": "published",
+          "verified_at": "2026-06-21",
+          "source_of_truth": "wordpress_page",
+          "path": "es/sobre-nosotros",
+          "slug": "sobre-nosotros",
+          "title": "Sobre Weizhihao"
+        },
+        "pt": {
+          "url": "https://weizhihaomachinery.com/pt/sobre-nos/",
+          "meta_description": "Conheça a Weizhihao, fabricante de máquinas de afiação industrial com suporte para seleção, testes, embalagem de exportação e comunicação técnica.",
+          "wp_page_id": 4836,
+          "status": "published",
+          "verified_at": "2026-06-21",
+          "source_of_truth": "wordpress_page",
+          "path": "pt/sobre-nos",
+          "slug": "sobre-nos",
+          "title": "Sobre a Weizhihao"
+        }
+      }
+    },
+    "contact": {
+      "x_default_lang": "en",
+      "page_type": "page",
+      "languages": {
+        "en": {
+          "url": "https://weizhihaomachinery.com/contact/"
+        },
+        "es": {
+          "url": "https://weizhihaomachinery.com/es/contacto/",
+          "meta_description": "Solicite una cotización de afiladora industrial. Envíe país, voltaje, fotos, dimensiones de cuchilla o sierra y volumen de afilado por WhatsApp.",
+          "wp_page_id": 4830,
+          "status": "published",
+          "verified_at": "2026-06-21",
+          "source_of_truth": "wordpress_page",
+          "path": "es/contacto",
+          "slug": "contacto",
+          "title": "Contactar a Weizhihao"
+        },
+        "pt": {
+          "url": "https://weizhihaomachinery.com/pt/contato/",
+          "meta_description": "Solicite cotação de afiadora industrial. Envie país, tensão, fotos, dimensões da faca ou serra e volume de afiação pelo WhatsApp.",
+          "wp_page_id": 4837,
+          "status": "published",
+          "verified_at": "2026-06-21",
+          "source_of_truth": "wordpress_page",
+          "path": "pt/contato",
+          "slug": "contato",
+          "title": "Entrar em contato com a Weizhihao"
+        }
+      }
+    },
+    "products": {
+      "x_default_lang": "en",
+      "page_type": "products",
+      "languages": {
+        "en": {
+          "url": "https://weizhihaomachinery.com/products/"
+        },
+        "es": {
+          "url": "https://weizhihaomachinery.com/es/productos/",
+          "meta_description": "Explore afiladoras Weizhihao para cuchillas rectas, sierras circulares, cuchillas industriales, herramientas universales y aplicaciones de perfilado.",
+          "wp_page_id": 4831,
+          "status": "published",
+          "verified_at": "2026-06-21",
+          "source_of_truth": "wordpress_page",
+          "path": "es/productos",
+          "slug": "productos",
+          "title": "Productos Weizhihao"
+        },
+        "pt": {
+          "url": "https://weizhihaomachinery.com/pt/produtos/",
+          "meta_description": "Explore afiadoras Weizhihao para facas retas, serras circulares, facas industriais, ferramentas universais e aplicações de perfil.",
+          "wp_page_id": 4838,
+          "status": "published",
+          "verified_at": "2026-06-21",
+          "source_of_truth": "wordpress_page",
+          "path": "pt/produtos",
+          "slug": "produtos",
+          "title": "Produtos Weizhihao"
+        }
+      }
+    },
+    "cat-straight-knife-grinder": {
+      "x_default_lang": "en",
+      "page_type": "category",
+      "languages": {
+        "en": {
+          "url": "https://weizhihaomachinery.com/product-category/straight-knife-grinder/"
+        },
+        "es": {
+          "url": "https://weizhihaomachinery.com/es/afiladora-cuchillas-rectas/",
+          "wp_page_id": 4832,
+          "status": "published",
+          "verified_at": "2026-06-21",
+          "source_of_truth": "wordpress_page",
+          "path": "es/afiladora-cuchillas-rectas",
+          "slug": "afiladora-cuchillas-rectas",
+          "title": "Afiladoras de cuchillas rectas",
+          "meta_description": "Afiladoras de cuchillas rectas La categoría de afiladoras de cuchillas rectas está pensada para compradores que trabajan con cuchillas largas, cuchillas de cepillo, cuchillas para chapa de madera, cuchillas de papel, cuchillas de astilladora y otras hojas lineales usadas en talleres de madera o producción industrial. La selección no debe empezar por una foto de"
+        },
+        "pt": {
+          "url": "https://weizhihaomachinery.com/pt/afiadora-facas-retas/",
+          "wp_page_id": 4839,
+          "status": "published",
+          "verified_at": "2026-06-21",
+          "source_of_truth": "wordpress_page",
+          "path": "pt/afiadora-facas-retas",
+          "slug": "afiadora-facas-retas",
+          "title": "Afiadoras de facas retas",
+          "meta_description": "Afiadoras de facas retas A categoria de afiadoras de facas retas foi preparada para compradores que trabalham com facas longas, facas de plaina, facas para lâmina de madeira, facas de papel, facas de picador e outras lâminas lineares usadas em oficinas de madeira ou produção industrial. A escolha correta não começa pela aparência da máquina,"
+        }
+      }
+    },
+    "cat-saw-blade-grinder": {
+      "x_default_lang": "en",
+      "page_type": "category",
+      "languages": {
+        "en": {
+          "url": "https://weizhihaomachinery.com/product-category/saw-blade-grinder/"
+        },
+        "es": {
+          "url": "https://weizhihaomachinery.com/es/afiladora-hojas-sierra/",
+          "wp_page_id": 4833,
+          "status": "published",
+          "verified_at": "2026-06-21",
+          "source_of_truth": "wordpress_page",
+          "path": "es/afiladora-hojas-sierra",
+          "slug": "afiladora-hojas-sierra",
+          "title": "Afiladoras de hojas de sierra circular",
+          "meta_description": "Afiladoras de hojas de sierra circular La categoría de afiladoras de hojas de sierra circular ayuda a talleres y fábricas a seleccionar una máquina para mantener sierras usadas en corte de madera, tableros, muebles, carpintería industrial y servicios de reparación. Una buena selección empieza por la hoja, no por la máquina. El comprador debe revisar"
+        },
+        "pt": {
+          "url": "https://weizhihaomachinery.com/pt/afiadora-serra-circular/",
+          "wp_page_id": 4842,
+          "status": "published",
+          "verified_at": "2026-06-21",
+          "source_of_truth": "wordpress_page",
+          "path": "pt/afiadora-serra-circular",
+          "slug": "afiadora-serra-circular",
+          "title": "Afiadoras de serras circulares",
+          "meta_description": "Afiadoras de serras circulares A categoria de afiadoras de serras circulares ajuda oficinas e fábricas a escolher uma máquina para manutenção de serras usadas em madeira, painéis, móveis, carpintaria industrial e serviços de afiação. A escolha correta começa pela serra, não pela máquina. O comprador deve verificar diâmetro, furo central, número de dentes, formato do"
+        }
+      }
+    },
+    "cat-universal-tool-grinder": {
+      "x_default_lang": "en",
+      "page_type": "category",
+      "languages": {
+        "en": {
+          "url": "https://weizhihaomachinery.com/product-category/universal-tool-grinder/"
+        },
+        "es": {
+          "url": "https://weizhihaomachinery.com/es/afiladora-universal-herramientas/",
+          "path": "es/afiladora-universal-herramientas",
+          "parent_path": "es",
+          "slug": "afiladora-universal-herramientas",
+          "title": "Afiladora universal de herramientas",
+          "seed": "p1",
+          "meta_description": "Afiladora universal de herramientas para talleres que afilan cortadores, brocas y herramientas de diferentes formas. Envíe fotos, medidas y material por WhatsApp.",
+          "wp_page_id": 4855,
+          "status": "published",
+          "verified_at": "2026-06-21",
+          "source_of_truth": "wordpress_page"
+        },
+        "pt": {
+          "url": "https://weizhihaomachinery.com/pt/afiadora-universal-ferramentas/",
+          "path": "pt/afiadora-universal-ferramentas",
+          "parent_path": "pt",
+          "slug": "afiadora-universal-ferramentas",
+          "title": "Afiadora universal de ferramentas",
+          "seed": "p1",
+          "meta_description": "Afiadora universal de ferramentas para oficinas que afiam cortadores, brocas e ferramentas de diferentes formatos. Envie fotos, medidas e material pelo WhatsApp.",
+          "wp_page_id": 4856,
+          "status": "published",
+          "verified_at": "2026-06-21",
+          "source_of_truth": "wordpress_page"
+        }
+      }
+    },
+    "cat-blade-grinding-machine": {
+      "x_default_lang": "en",
+      "page_type": "category",
+      "languages": {
+        "en": {
+          "url": "https://weizhihaomachinery.com/product-category/blade-grinding-machine/"
+        },
+        "es": {
+          "url": "https://weizhihaomachinery.com/es/rectificadora-cuchillas-industriales/",
+          "path": "es/rectificadora-cuchillas-industriales",
+          "parent_path": "es",
+          "slug": "rectificadora-cuchillas-industriales",
+          "title": "Rectificadora de cuchillas industriales",
+          "seed": "p1",
+          "meta_description": "Rectificadoras de cuchillas industriales para hojas rectas, insertos y piezas de corte. Envíe tipo de cuchilla, material, voltaje y volumen de afilado.",
+          "wp_page_id": 4857,
+          "status": "published",
+          "verified_at": "2026-06-21",
+          "source_of_truth": "wordpress_page"
+        },
+        "pt": {
+          "url": "https://weizhihaomachinery.com/pt/retificadora-facas-industriais/",
+          "path": "pt/retificadora-facas-industriais",
+          "parent_path": "pt",
+          "slug": "retificadora-facas-industriais",
+          "title": "Retificadora de facas industriais",
+          "seed": "p1",
+          "meta_description": "Retificadoras de facas industriais para lâminas retas, insertos e peças de corte. Envie tipo de faca, material, tensão e volume de afiação.",
+          "wp_page_id": 4858,
+          "status": "published",
+          "verified_at": "2026-06-21",
+          "source_of_truth": "wordpress_page"
+        }
+      }
+    },
+    "cat-profiling-knife-sharpening": {
+      "x_default_lang": "en",
+      "page_type": "category",
+      "languages": {
+        "en": {
+          "url": "https://weizhihaomachinery.com/product-category/profiling-knife-sharpening-machine/"
+        },
+        "es": {
+          "url": "https://weizhihaomachinery.com/es/afiladora-cuchillas-perfiladas/",
+          "path": "es/afiladora-cuchillas-perfiladas",
+          "parent_path": "es",
+          "slug": "afiladora-cuchillas-perfiladas",
+          "title": "Afiladora de cuchillas perfiladas",
+          "seed": "p1",
+          "meta_description": "Afiladora de cuchillas perfiladas para cuchillas de forma y trabajos de perfilado. Comparta dibujo, muestra o foto para revisar la solucion correcta.",
+          "wp_page_id": 4859,
+          "status": "published",
+          "verified_at": "2026-06-21",
+          "source_of_truth": "wordpress_page"
+        },
+        "pt": {
+          "url": "https://weizhihaomachinery.com/pt/afiadora-facas-perfiladas/",
+          "path": "pt/afiadora-facas-perfiladas",
+          "parent_path": "pt",
+          "slug": "afiadora-facas-perfiladas",
+          "title": "Afiadora de facas perfiladas",
+          "seed": "p1",
+          "meta_description": "Afiadora de facas perfiladas para facas de forma e trabalhos de perfil. Envie desenho, amostra ou foto para revisar a solução correta.",
+          "wp_page_id": 4860,
+          "status": "published",
+          "verified_at": "2026-06-21",
+          "source_of_truth": "wordpress_page"
+        }
+      }
+    },
+    "product-mf158cnc": {
+      "x_default_lang": "en",
+      "page_type": "product",
+      "languages": {
+        "en": {
+          "url": "https://weizhihaomachinery.com/product/fully-automatic-circular-saw-blade-sharpening-machine-mf158cnc/"
+        },
+        "es": {
+          "url": "https://weizhihaomachinery.com/es/producto/mf158cnc-afiladora-sierra-circular-cnc/",
+          "wp_page_id": 4834,
+          "status": "published",
+          "verified_at": "2026-06-21",
+          "source_of_truth": "wordpress_page",
+          "path": "es/producto/mf158cnc-afiladora-sierra-circular-cnc",
+          "slug": "mf158cnc-afiladora-sierra-circular-cnc",
+          "title": "MF158CNC afiladora automática de sierra circular",
+          "meta_description": "MF158CNC afiladora CNC de sierra circular MF158CNC es una opción para compradores que necesitan afilar hojas de sierra circular de forma repetible y con un proceso más estable que el ajuste manual básico. La página está pensada para talleres de servicio de sierras, fábricas de muebles, plantas de procesamiento de madera, distribuidores de maquinaria y"
+        },
+        "pt": {
+          "url": "https://weizhihaomachinery.com/pt/produto/mf158cnc-afiadora-serra-circular-cnc/",
+          "wp_page_id": 4843,
+          "status": "published",
+          "verified_at": "2026-06-21",
+          "source_of_truth": "wordpress_page",
+          "path": "pt/produto/mf158cnc-afiadora-serra-circular-cnc",
+          "slug": "mf158cnc-afiadora-serra-circular-cnc",
+          "title": "MF158CNC afiadora automática de serra circular",
+          "meta_description": "MF158CNC afiadora CNC de serra circular A MF158CNC é uma opção para compradores que precisam afiar serras circulares com repetibilidade e um fluxo mais estável do que o ajuste manual básico. Esta página foi preparada para oficinas de afiação, fábricas de móveis, serrarias, distribuidores de máquinas e equipes de manutenção que recebem serras com diferentes"
+        }
+      }
+    },
+    "product-mf2510-2515cnc": {
+      "x_default_lang": "en",
+      "page_type": "product",
+      "languages": {
+        "en": {
+          "url": "https://weizhihaomachinery.com/product/fully-automatic-linear-grinding-machine-mf2510cnc-mf2515cnc/"
+        },
+        "es": {
+          "url": "https://weizhihaomachinery.com/es/producto/mf2510-2515cnc-rectificadora-lineal-automatica/",
+          "wp_page_id": 4835,
+          "status": "published",
+          "verified_at": "2026-06-21",
+          "source_of_truth": "wordpress_page",
+          "path": "es/producto/mf2510-2515cnc-rectificadora-lineal-automatica",
+          "slug": "mf2510-2515cnc-rectificadora-lineal-automatica",
+          "title": "MF2510CNC / MF2515CNC rectificadora lineal automática",
+          "meta_description": "MF2510CNC / MF2515CNC rectificadora lineal automática MF2510CNC / MF2515CNC es una solución de rectificado lineal para compradores que trabajan con cuchillas rectas largas y necesitan un proceso más controlado que el afilado manual básico. La página está pensada para fábricas de madera, talleres de servicio, plantas de chapa, líneas de muebles y equipos de mantenimiento"
+        },
+        "pt": {
+          "url": "https://weizhihaomachinery.com/pt/produto/mf2510-2515cnc-retificadora-linear-automatica/",
+          "wp_page_id": 4844,
+          "status": "published",
+          "verified_at": "2026-06-21",
+          "source_of_truth": "wordpress_page",
+          "path": "pt/produto/mf2510-2515cnc-retificadora-linear-automatica",
+          "slug": "mf2510-2515cnc-retificadora-linear-automatica",
+          "title": "MF2510CNC / MF2515CNC retificadora linear automática",
+          "meta_description": "MF2510CNC / MF2515CNC retificadora linear automática A MF2510CNC / MF2515CNC é uma solução de retífica linear para compradores que trabalham com facas retas longas e precisam de um processo mais controlado do que a afiação manual básica. Esta página foi preparada para fábricas de madeira, oficinas de serviço, plantas de lâmina de madeira, linhas de"
+        }
+      }
+    },
+    "faq": {
+      "x_default_lang": "en",
+      "page_type": "page",
+      "languages": {
+        "en": {
+          "url": "https://weizhihaomachinery.com/faq/"
+        },
+        "es": {
+          "url": "https://weizhihaomachinery.com/es/preguntas-frecuentes/",
+          "path": "es/preguntas-frecuentes",
+          "slug": "preguntas-frecuentes",
+          "title": "Preguntas frecuentes sobre máquinas afiladoras",
+          "wp_page_id": 4897,
+          "status": "published",
+          "verified_at": "2026-06-22",
+          "source_of_truth": "wordpress_page"
+        },
+        "pt": {
+          "url": "https://weizhihaomachinery.com/pt/perguntas-frequentes/",
+          "path": "pt/perguntas-frequentes",
+          "slug": "perguntas-frequentes",
+          "title": "Perguntas frequentes sobre máquinas de afiação",
+          "wp_page_id": 4898,
+          "status": "published",
+          "verified_at": "2026-06-22",
+          "source_of_truth": "wordpress_page"
+        }
+      }
+    }
+  }
+}
