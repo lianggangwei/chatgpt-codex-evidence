@@ -1,0 +1,72 @@
+{
+  "generated_at": "2026-06-22T00:02:19.505Z",
+  "scope": "Publish ES FAQ 4897 and BR FAQ 4898 only; no content/slug/parent/plugin/registry/cache/RU/EN changes",
+  "actions": {
+    "published_es_4897": true,
+    "published_br_4898": true,
+    "changed_content": false,
+    "changed_slug": false,
+    "changed_parent": false,
+    "changed_plugin": false,
+    "changed_registry": false,
+    "cleared_cache": false,
+    "handled_ru": false,
+    "changed_en_faq": false
+  },
+  "publish_notices": {
+    "es": [
+      "WordPress 7.0 is available! Please update now.",
+      "Page published. View Page↗",
+      "Action required - please update Blocksy Companion Pro plugin to the latest version!We detected that you are using an outdated version of Blocksy Companion Pro plugin.In order to take full advantage of all features the core has to offer - please install and activate the latest version of Blocksy Companion Pro plugin.Update Blocksy Companion Pro Plugin Now",
+      "Your site is not connected with Broken Link Checker. Connect now to start scanning for broken links and fix them to improve your SEO. Dismiss this notice.",
+      "Are you enjoying WPCode? Yes • Not Really We're sorry to hear you aren't enjoying WPCode. We would love a chance to improve. Could you take a minute and let us know what we can do better? Give Feedback • No thanks That's awesome! Could you please do us a BIG favor and give it a 5-star rating on WordPress to help us spread the word and boost our motivation? Give Feedback • No thanks jQuery(document).ready(function ($) { $(document).on('click', '.wpcode-review-switch-step', function (e) { e.preventDefault(); var target = $(this).attr('data-step'); if (target) { var notice = $(this).closest('.wpcode-review-notice'); var review_step = notice.find('.wpcode-review-step-' + target); if (review_step.length > 0) { notice.find('.wpcode-review-step:visible').fadeOut(function () { review_step.fadeIn(); }); } } }) }); Dismiss this notice.",
+      "The block editor requires JavaScript. Please enable JavaScript in your browser settings, or install the Classic Editor plugin."
+    ],
+    "br": [
+      "WordPress 7.0 is available! Please update now.",
+      "Page published. View Page↗",
+      "Action required - please update Blocksy Companion Pro plugin to the latest version!We detected that you are using an outdated version of Blocksy Companion Pro plugin.In order to take full advantage of all features the core has to offer - please install and activate the latest version of Blocksy Companion Pro plugin.Update Blocksy Companion Pro Plugin Now",
+      "Your site is not connected with Broken Link Checker. Connect now to start scanning for broken links and fix them to improve your SEO. Dismiss this notice.",
+      "Are you enjoying WPCode? Yes • Not Really We're sorry to hear you aren't enjoying WPCode. We would love a chance to improve. Could you take a minute and let us know what we can do better? Give Feedback • No thanks That's awesome! Could you please do us a BIG favor and give it a 5-star rating on WordPress to help us spread the word and boost our motivation? Give Feedback • No thanks jQuery(document).ready(function ($) { $(document).on('click', '.wpcode-review-switch-step', function (e) { e.preventDefault(); var target = $(this).attr('data-step'); if (target) { var notice = $(this).closest('.wpcode-review-notice'); var review_step = notice.find('.wpcode-review-step-' + target); if (review_step.length > 0) { notice.find('.wpcode-review-step:visible').fadeOut(function () { review_step.fadeIn(); }); } } }) }); Dismiss this notice.",
+      "The block editor requires JavaScript. Please enable JavaScript in your browser settings, or install the Classic Editor plugin."
+    ]
+  },
+  "verification": {
+    "es": {
+      "url": "https://weizhihaomachinery.com/es/preguntas-frecuentes/",
+      "http_status": "200",
+      "html_lang_expected": "es-ES",
+      "html_lang_observed": "en-US",
+      "html_lang_pass": false,
+      "canonical": "https://weizhihaomachinery.com/es/preguntas-frecuentes/",
+      "canonical_self": true,
+      "title": "Preguntas frecuentes sobre máquinas afiladoras - weizhihaomachinery.com",
+      "h1": "Preguntas frecuentes sobre máquinas afiladoras",
+      "content_normal": true,
+      "has_ru": false,
+      "alternate_count": 0,
+      "screenshot": "weizhihao/faq-es-br-published/20260621T235714Z/es-faq-published.png"
+    },
+    "br": {
+      "url": "https://weizhihaomachinery.com/pt/perguntas-frequentes/",
+      "http_status": "200",
+      "html_lang_expected": "pt-BR",
+      "html_lang_observed": "en-US",
+      "html_lang_pass": false,
+      "canonical": "https://weizhihaomachinery.com/pt/perguntas-frequentes/",
+      "canonical_self": true,
+      "title": "Perguntas frequentes sobre máquinas de afiação - weizhihaomachinery.com",
+      "h1": "Perguntas frequentes sobre máquinas de afiação",
+      "content_normal": true,
+      "has_ru": false,
+      "alternate_count": 0,
+      "screenshot": "weizhihao/faq-es-br-published/20260621T235714Z/br-faq-published.png"
+    }
+  },
+  "conclusion": {
+    "publish_completed": true,
+    "quick_acceptance_passed": false,
+    "blocking_issue": "Both published pages are accessible and canonical is self-referential, but html lang is still en-US instead of es-ES / pt-BR. No fix was made because registry/plugin changes were forbidden in this stage.",
+    "paused": true
+  }
+}

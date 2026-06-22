@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-06-22T00:02:19.505Z",
+  "task": "publish-es-br-faq-pages",
+  "result": "published_with_html_lang_issue",
+  "files": [
+    "weizhihao/faq-es-br-published/20260621T235714Z/es-faq-published.png",
+    "weizhihao/faq-es-br-published/20260621T235714Z/br-faq-published.png",
+    "weizhihao/faq-es-br-published/20260621T235714Z/publish-log.md",
+    "weizhihao/faq-es-br-published/20260621T235714Z/publish-log.json",
+    "weizhihao/faq-es-br-published/20260621T235714Z/es-curl-headers.txt",
+    "weizhihao/faq-es-br-published/20260621T235714Z/br-curl-headers.txt"
+  ],
+  "conclusion": {
+    "publish_completed": true,
+    "quick_acceptance_passed": false,
+    "blocking_issue": "Both published pages are accessible and canonical is self-referential, but html lang is still en-US instead of es-ES / pt-BR. No fix was made because registry/plugin changes were forbidden in this stage.",
+    "paused": true
+  }
+}
