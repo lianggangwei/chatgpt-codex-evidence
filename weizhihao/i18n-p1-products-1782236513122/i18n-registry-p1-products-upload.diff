@@ -1,0 +1,96 @@
+--- /Users/zhumulangmafeng/Documents/国外/records/i18n-home-parity-20260624/publish-20260624/i18n-registry-remote-before.json	2026-06-24 01:13:18
++++ /Users/zhumulangmafeng/Documents/国外/records/i18n-home-parity-20260624/publish-20260624/i18n-registry-remote-after-p1-products.json	2026-06-24 01:15:24
+@@ -384,6 +384,93 @@
+           "source_of_truth": "wordpress_page"
+         }
+       }
++    },
++    "product-mf223c": {
++      "x_default_lang": "en",
++      "page_type": "product",
++      "languages": {
++        "en": {
++          "url": "https://weizhihaomachinery.com/product/profiling-knife-sharpening-machine/"
++        },
++        "es": {
++          "url": "https://weizhihaomachinery.com/es/producto/mf223c-afiladora-cuchillas-perfiladas/",
++          "wp_page_id": 4901,
++          "status": "published",
++          "verified_at": "2026-06-24",
++          "source_of_truth": "wordpress_page",
++          "path": "es/producto/mf223c-afiladora-cuchillas-perfiladas",
++          "slug": "mf223c-afiladora-cuchillas-perfiladas",
++          "title": "MF223C afiladora de cuchillas perfiladas"
++        },
++        "pt": {
++          "url": "https://weizhihaomachinery.com/pt/produto/mf223c-afiadora-facas-perfiladas/",
++          "wp_page_id": 4902,
++          "status": "published",
++          "verified_at": "2026-06-24",
++          "source_of_truth": "wordpress_page",
++          "path": "pt/produto/mf223c-afiadora-facas-perfiladas",
++          "slug": "mf223c-afiadora-facas-perfiladas",
++          "title": "MF223C afiadora de facas perfiladas"
++        }
++      }
++    },
++    "product-mf2718c-iii": {
++      "x_default_lang": "en",
++      "page_type": "product",
++      "languages": {
++        "en": {
++          "url": "https://weizhihaomachinery.com/product/universal-knife-sharpening-machine/"
++        },
++        "es": {
++          "url": "https://weizhihaomachinery.com/es/producto/mf2718c-iii-afiladora-universal-herramientas/",
++          "wp_page_id": 4903,
++          "status": "published",
++          "verified_at": "2026-06-24",
++          "source_of_truth": "wordpress_page",
++          "path": "es/producto/mf2718c-iii-afiladora-universal-herramientas",
++          "slug": "mf2718c-iii-afiladora-universal-herramientas",
++          "title": "MF2718C-III afiladora universal de herramientas"
++        },
++        "pt": {
++          "url": "https://weizhihaomachinery.com/pt/produto/mf2718c-iii-afiadora-universal-ferramentas/",
++          "wp_page_id": 4904,
++          "status": "published",
++          "verified_at": "2026-06-24",
++          "source_of_truth": "wordpress_page",
++          "path": "pt/produto/mf2718c-iii-afiadora-universal-ferramentas",
++          "slug": "mf2718c-iii-afiadora-universal-ferramentas",
++          "title": "MF2718C-III afiadora universal de ferramentas"
++        }
++      }
++    },
++    "product-mf256": {
++      "x_default_lang": "en",
++      "page_type": "product",
++      "languages": {
++        "en": {
++          "url": "https://weizhihaomachinery.com/product/casting-automatic-linear-sharpener-mf256/"
++        },
++        "es": {
++          "url": "https://weizhihaomachinery.com/es/producto/mf256-rectificadora-lineal-automatica/",
++          "wp_page_id": 4905,
++          "status": "published",
++          "verified_at": "2026-06-24",
++          "source_of_truth": "wordpress_page",
++          "path": "es/producto/mf256-rectificadora-lineal-automatica",
++          "slug": "mf256-rectificadora-lineal-automatica",
++          "title": "MF256 rectificadora lineal automática"
++        },
++        "pt": {
++          "url": "https://weizhihaomachinery.com/pt/produto/mf256-retificadora-linear-automatica/",
++          "wp_page_id": 4906,
++          "status": "published",
++          "verified_at": "2026-06-24",
++          "source_of_truth": "wordpress_page",
++          "path": "pt/produto/mf256-retificadora-linear-automatica",
++          "slug": "mf256-retificadora-linear-automatica",
++          "title": "MF256 retificadora linear automática"
++        }
++      }
+     }
+   }
+ }
