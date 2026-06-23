@@ -1,0 +1,24 @@
+{
+  "checked_at": "2026-06-23T17:39:55.503Z",
+  "published_pages": [
+    4901,
+    4902,
+    4903,
+    4904,
+    4905,
+    4906
+  ],
+  "registry_live_docroot_uploaded": true,
+  "registry_groups_present": {
+    "has_product_mf223c": true,
+    "has_product_mf2718c_iii": true,
+    "has_product_mf256": true
+  },
+  "all_pages_200": true,
+  "all_html_lang_ok": true,
+  "all_canonical_self": true,
+  "all_expected_hreflang": true,
+  "no_hreflang_pt": true,
+  "no_ru": true,
+  "note": "Full HTML grep confirmed language entry exists after live docroot upload; initial JSON hasEntry false was caused by scanning only the first 120KB of HTML."
+}
