@@ -1,0 +1,14 @@
+{
+  "remote_path": "/domains/weizhihaomachinery.com/public_html/wp-content/plugins/wzh-seo-output-fixes/config/i18n-registry.json",
+  "backup_path": "/Users/zhumulangmafeng/Documents/国外/records/i18n-home-parity-20260624/publish-20260624/i18n-registry-live-docroot-before-20260623T173901Z.json",
+  "uploaded_from": "/Users/zhumulangmafeng/Documents/国外/records/i18n-home-parity-20260624/publish-20260624/i18n-registry-remote-after-p1-products.json",
+  "after_path": "/Users/zhumulangmafeng/Documents/国外/records/i18n-home-parity-20260624/publish-20260624/i18n-registry-live-docroot-after.json",
+  "before_sha256": "ed3c6cb9ed83dee1964644f8dbdbfc9babb6237b180b21ba1298792e6936bfe5",
+  "target_sha256": "e0566abd10194bb57ffa87fc2bb432576ee820aa715e95982d9c9eb81f64ac30",
+  "after_sha256": "e0566abd10194bb57ffa87fc2bb432576ee820aa715e95982d9c9eb81f64ac30",
+  "before_has_product_mf223c": false,
+  "after_has_product_mf223c": true,
+  "after_matches_target": true,
+  "before_size": 18717,
+  "after_size": 22281
+}
