@@ -1,0 +1,35 @@
+{
+  "created_at": "2026-06-23T17:42:10.672Z",
+  "shots": [
+    {
+      "name": "MF223C EN",
+      "language": "en",
+      "url": "https://weizhihaomachinery.com/product/profiling-knife-sharpening-machine/",
+      "final_url": "https://weizhihaomachinery.com/product/profiling-knife-sharpening-machine/?v=p1-shot-1782236513122",
+      "status": 200,
+      "html_lang": "en-US",
+      "language_entry": "EN/ES/BR",
+      "screenshot_path": "/Users/zhumulangmafeng/Documents/国外/records/i18n-home-parity-20260624/publish-20260624/screenshots/mf223c-en-1782236513122.png"
+    },
+    {
+      "name": "MF223C ES",
+      "language": "es",
+      "url": "https://weizhihaomachinery.com/es/producto/mf223c-afiladora-cuchillas-perfiladas/",
+      "final_url": "https://weizhihaomachinery.com/es/producto/mf223c-afiladora-cuchillas-perfiladas/?v=p1-shot-1782236513122",
+      "status": 200,
+      "html_lang": "es-ES",
+      "language_entry": "EN/ES/BR",
+      "screenshot_path": "/Users/zhumulangmafeng/Documents/国外/records/i18n-home-parity-20260624/publish-20260624/screenshots/mf223c-es-1782236513122.png"
+    },
+    {
+      "name": "MF223C BR",
+      "language": "pt-BR",
+      "url": "https://weizhihaomachinery.com/pt/produto/mf223c-afiadora-facas-perfiladas/",
+      "final_url": "https://weizhihaomachinery.com/pt/produto/mf223c-afiadora-facas-perfiladas/?v=p1-shot-1782236513122",
+      "status": 200,
+      "html_lang": "pt-BR",
+      "language_entry": "EN/ES/BR",
+      "screenshot_path": "/Users/zhumulangmafeng/Documents/国外/records/i18n-home-parity-20260624/publish-20260624/screenshots/mf223c-br-1782236513122.png"
+    }
+  ]
+}
