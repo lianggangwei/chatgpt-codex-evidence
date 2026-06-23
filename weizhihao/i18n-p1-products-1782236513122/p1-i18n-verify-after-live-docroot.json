@@ -1,0 +1,407 @@
+{
+  "checked_at": "2026-06-23T17:39:55.503Z",
+  "registry": {
+    "url": "https://weizhihaomachinery.com/wp-content/plugins/wzh-seo-output-fixes/config/i18n-registry.json?v=p1-verify-1782236378634",
+    "status": 200,
+    "groups": [
+      "home",
+      "about",
+      "contact",
+      "products",
+      "cat-straight-knife-grinder",
+      "cat-saw-blade-grinder",
+      "cat-universal-tool-grinder",
+      "cat-blade-grinding-machine",
+      "cat-profiling-knife-sharpening",
+      "product-mf158cnc",
+      "product-mf2510-2515cnc",
+      "faq",
+      "product-mf223c",
+      "product-mf2718c-iii",
+      "product-mf256"
+    ],
+    "has_product_mf223c": true,
+    "has_product_mf2718c_iii": true,
+    "has_product_mf256": true
+  },
+  "results": [
+    {
+      "group": "product-mf223c",
+      "lang": "en",
+      "url": "https://weizhihaomachinery.com/product/profiling-knife-sharpening-machine/",
+      "finalUrl": "https://weizhihaomachinery.com/product/profiling-knife-sharpening-machine/?v=p1-verify-1782236378634",
+      "status": 200,
+      "htmlLang": "en-US",
+      "expectedLang": "en-US",
+      "htmlLangOk": true,
+      "canonical": "https://weizhihaomachinery.com/product/profiling-knife-sharpening-machine/",
+      "canonicalSelf": true,
+      "hreflangs": [
+        {
+          "hreflang": "en",
+          "href": "https://weizhihaomachinery.com/product/profiling-knife-sharpening-machine/"
+        },
+        {
+          "hreflang": "es",
+          "href": "https://weizhihaomachinery.com/es/producto/mf223c-afiladora-cuchillas-perfiladas/"
+        },
+        {
+          "hreflang": "pt-BR",
+          "href": "https://weizhihaomachinery.com/pt/produto/mf223c-afiadora-facas-perfiladas/"
+        },
+        {
+          "hreflang": "x-default",
+          "href": "https://weizhihaomachinery.com/product/profiling-knife-sharpening-machine/"
+        }
+      ],
+      "hreflangCodes": [
+        "en",
+        "es",
+        "pt-BR",
+        "x-default"
+      ],
+      "hasExpectedHreflangs": true,
+      "hasPtHreflang": false,
+      "hasRu": false,
+      "hasEntry": false,
+      "entryText": "",
+      "containsGroup": false
+    },
+    {
+      "group": "product-mf223c",
+      "lang": "es",
+      "url": "https://weizhihaomachinery.com/es/producto/mf223c-afiladora-cuchillas-perfiladas/",
+      "finalUrl": "https://weizhihaomachinery.com/es/producto/mf223c-afiladora-cuchillas-perfiladas/?v=p1-verify-1782236378634",
+      "status": 200,
+      "htmlLang": "es-ES",
+      "expectedLang": "es-ES",
+      "htmlLangOk": true,
+      "canonical": "https://weizhihaomachinery.com/es/producto/mf223c-afiladora-cuchillas-perfiladas/",
+      "canonicalSelf": true,
+      "hreflangs": [
+        {
+          "hreflang": "en",
+          "href": "https://weizhihaomachinery.com/product/profiling-knife-sharpening-machine/"
+        },
+        {
+          "hreflang": "es",
+          "href": "https://weizhihaomachinery.com/es/producto/mf223c-afiladora-cuchillas-perfiladas/"
+        },
+        {
+          "hreflang": "pt-BR",
+          "href": "https://weizhihaomachinery.com/pt/produto/mf223c-afiadora-facas-perfiladas/"
+        },
+        {
+          "hreflang": "x-default",
+          "href": "https://weizhihaomachinery.com/product/profiling-knife-sharpening-machine/"
+        }
+      ],
+      "hreflangCodes": [
+        "en",
+        "es",
+        "pt-BR",
+        "x-default"
+      ],
+      "hasExpectedHreflangs": true,
+      "hasPtHreflang": false,
+      "hasRu": false,
+      "hasEntry": false,
+      "entryText": "",
+      "containsGroup": true
+    },
+    {
+      "group": "product-mf223c",
+      "lang": "pt",
+      "url": "https://weizhihaomachinery.com/pt/produto/mf223c-afiadora-facas-perfiladas/",
+      "finalUrl": "https://weizhihaomachinery.com/pt/produto/mf223c-afiadora-facas-perfiladas/?v=p1-verify-1782236378634",
+      "status": 200,
+      "htmlLang": "pt-BR",
+      "expectedLang": "pt-BR",
+      "htmlLangOk": true,
+      "canonical": "https://weizhihaomachinery.com/pt/produto/mf223c-afiadora-facas-perfiladas/",
+      "canonicalSelf": true,
+      "hreflangs": [
+        {
+          "hreflang": "en",
+          "href": "https://weizhihaomachinery.com/product/profiling-knife-sharpening-machine/"
+        },
+        {
+          "hreflang": "es",
+          "href": "https://weizhihaomachinery.com/es/producto/mf223c-afiladora-cuchillas-perfiladas/"
+        },
+        {
+          "hreflang": "pt-BR",
+          "href": "https://weizhihaomachinery.com/pt/produto/mf223c-afiadora-facas-perfiladas/"
+        },
+        {
+          "hreflang": "x-default",
+          "href": "https://weizhihaomachinery.com/product/profiling-knife-sharpening-machine/"
+        }
+      ],
+      "hreflangCodes": [
+        "en",
+        "es",
+        "pt-BR",
+        "x-default"
+      ],
+      "hasExpectedHreflangs": true,
+      "hasPtHreflang": false,
+      "hasRu": false,
+      "hasEntry": false,
+      "entryText": "",
+      "containsGroup": true
+    },
+    {
+      "group": "product-mf2718c-iii",
+      "lang": "en",
+      "url": "https://weizhihaomachinery.com/product/universal-knife-sharpening-machine/",
+      "finalUrl": "https://weizhihaomachinery.com/product/universal-knife-sharpening-machine/?v=p1-verify-1782236378634",
+      "status": 200,
+      "htmlLang": "en-US",
+      "expectedLang": "en-US",
+      "htmlLangOk": true,
+      "canonical": "https://weizhihaomachinery.com/product/universal-knife-sharpening-machine/",
+      "canonicalSelf": true,
+      "hreflangs": [
+        {
+          "hreflang": "en",
+          "href": "https://weizhihaomachinery.com/product/universal-knife-sharpening-machine/"
+        },
+        {
+          "hreflang": "es",
+          "href": "https://weizhihaomachinery.com/es/producto/mf2718c-iii-afiladora-universal-herramientas/"
+        },
+        {
+          "hreflang": "pt-BR",
+          "href": "https://weizhihaomachinery.com/pt/produto/mf2718c-iii-afiadora-universal-ferramentas/"
+        },
+        {
+          "hreflang": "x-default",
+          "href": "https://weizhihaomachinery.com/product/universal-knife-sharpening-machine/"
+        }
+      ],
+      "hreflangCodes": [
+        "en",
+        "es",
+        "pt-BR",
+        "x-default"
+      ],
+      "hasExpectedHreflangs": true,
+      "hasPtHreflang": false,
+      "hasRu": false,
+      "hasEntry": false,
+      "entryText": "",
+      "containsGroup": false
+    },
+    {
+      "group": "product-mf2718c-iii",
+      "lang": "es",
+      "url": "https://weizhihaomachinery.com/es/producto/mf2718c-iii-afiladora-universal-herramientas/",
+      "finalUrl": "https://weizhihaomachinery.com/es/producto/mf2718c-iii-afiladora-universal-herramientas/?v=p1-verify-1782236378634",
+      "status": 200,
+      "htmlLang": "es-ES",
+      "expectedLang": "es-ES",
+      "htmlLangOk": true,
+      "canonical": "https://weizhihaomachinery.com/es/producto/mf2718c-iii-afiladora-universal-herramientas/",
+      "canonicalSelf": true,
+      "hreflangs": [
+        {
+          "hreflang": "en",
+          "href": "https://weizhihaomachinery.com/product/universal-knife-sharpening-machine/"
+        },
+        {
+          "hreflang": "es",
+          "href": "https://weizhihaomachinery.com/es/producto/mf2718c-iii-afiladora-universal-herramientas/"
+        },
+        {
+          "hreflang": "pt-BR",
+          "href": "https://weizhihaomachinery.com/pt/produto/mf2718c-iii-afiadora-universal-ferramentas/"
+        },
+        {
+          "hreflang": "x-default",
+          "href": "https://weizhihaomachinery.com/product/universal-knife-sharpening-machine/"
+        }
+      ],
+      "hreflangCodes": [
+        "en",
+        "es",
+        "pt-BR",
+        "x-default"
+      ],
+      "hasExpectedHreflangs": true,
+      "hasPtHreflang": false,
+      "hasRu": false,
+      "hasEntry": false,
+      "entryText": "",
+      "containsGroup": true
+    },
+    {
+      "group": "product-mf2718c-iii",
+      "lang": "pt",
+      "url": "https://weizhihaomachinery.com/pt/produto/mf2718c-iii-afiadora-universal-ferramentas/",
+      "finalUrl": "https://weizhihaomachinery.com/pt/produto/mf2718c-iii-afiadora-universal-ferramentas/?v=p1-verify-1782236378634",
+      "status": 200,
+      "htmlLang": "pt-BR",
+      "expectedLang": "pt-BR",
+      "htmlLangOk": true,
+      "canonical": "https://weizhihaomachinery.com/pt/produto/mf2718c-iii-afiadora-universal-ferramentas/",
+      "canonicalSelf": true,
+      "hreflangs": [
+        {
+          "hreflang": "en",
+          "href": "https://weizhihaomachinery.com/product/universal-knife-sharpening-machine/"
+        },
+        {
+          "hreflang": "es",
+          "href": "https://weizhihaomachinery.com/es/producto/mf2718c-iii-afiladora-universal-herramientas/"
+        },
+        {
+          "hreflang": "pt-BR",
+          "href": "https://weizhihaomachinery.com/pt/produto/mf2718c-iii-afiadora-universal-ferramentas/"
+        },
+        {
+          "hreflang": "x-default",
+          "href": "https://weizhihaomachinery.com/product/universal-knife-sharpening-machine/"
+        }
+      ],
+      "hreflangCodes": [
+        "en",
+        "es",
+        "pt-BR",
+        "x-default"
+      ],
+      "hasExpectedHreflangs": true,
+      "hasPtHreflang": false,
+      "hasRu": false,
+      "hasEntry": false,
+      "entryText": "",
+      "containsGroup": true
+    },
+    {
+      "group": "product-mf256",
+      "lang": "en",
+      "url": "https://weizhihaomachinery.com/product/casting-automatic-linear-sharpener-mf256/",
+      "finalUrl": "https://weizhihaomachinery.com/product/casting-automatic-linear-sharpener-mf256/?v=p1-verify-1782236378634",
+      "status": 200,
+      "htmlLang": "en-US",
+      "expectedLang": "en-US",
+      "htmlLangOk": true,
+      "canonical": "https://weizhihaomachinery.com/product/casting-automatic-linear-sharpener-mf256/",
+      "canonicalSelf": true,
+      "hreflangs": [
+        {
+          "hreflang": "en",
+          "href": "https://weizhihaomachinery.com/product/casting-automatic-linear-sharpener-mf256/"
+        },
+        {
+          "hreflang": "es",
+          "href": "https://weizhihaomachinery.com/es/producto/mf256-rectificadora-lineal-automatica/"
+        },
+        {
+          "hreflang": "pt-BR",
+          "href": "https://weizhihaomachinery.com/pt/produto/mf256-retificadora-linear-automatica/"
+        },
+        {
+          "hreflang": "x-default",
+          "href": "https://weizhihaomachinery.com/product/casting-automatic-linear-sharpener-mf256/"
+        }
+      ],
+      "hreflangCodes": [
+        "en",
+        "es",
+        "pt-BR",
+        "x-default"
+      ],
+      "hasExpectedHreflangs": true,
+      "hasPtHreflang": false,
+      "hasRu": false,
+      "hasEntry": false,
+      "entryText": "",
+      "containsGroup": false
+    },
+    {
+      "group": "product-mf256",
+      "lang": "es",
+      "url": "https://weizhihaomachinery.com/es/producto/mf256-rectificadora-lineal-automatica/",
+      "finalUrl": "https://weizhihaomachinery.com/es/producto/mf256-rectificadora-lineal-automatica/?v=p1-verify-1782236378634",
+      "status": 200,
+      "htmlLang": "es-ES",
+      "expectedLang": "es-ES",
+      "htmlLangOk": true,
+      "canonical": "https://weizhihaomachinery.com/es/producto/mf256-rectificadora-lineal-automatica/",
+      "canonicalSelf": true,
+      "hreflangs": [
+        {
+          "hreflang": "en",
+          "href": "https://weizhihaomachinery.com/product/casting-automatic-linear-sharpener-mf256/"
+        },
+        {
+          "hreflang": "es",
+          "href": "https://weizhihaomachinery.com/es/producto/mf256-rectificadora-lineal-automatica/"
+        },
+        {
+          "hreflang": "pt-BR",
+          "href": "https://weizhihaomachinery.com/pt/produto/mf256-retificadora-linear-automatica/"
+        },
+        {
+          "hreflang": "x-default",
+          "href": "https://weizhihaomachinery.com/product/casting-automatic-linear-sharpener-mf256/"
+        }
+      ],
+      "hreflangCodes": [
+        "en",
+        "es",
+        "pt-BR",
+        "x-default"
+      ],
+      "hasExpectedHreflangs": true,
+      "hasPtHreflang": false,
+      "hasRu": false,
+      "hasEntry": false,
+      "entryText": "",
+      "containsGroup": true
+    },
+    {
+      "group": "product-mf256",
+      "lang": "pt",
+      "url": "https://weizhihaomachinery.com/pt/produto/mf256-retificadora-linear-automatica/",
+      "finalUrl": "https://weizhihaomachinery.com/pt/produto/mf256-retificadora-linear-automatica/?v=p1-verify-1782236378634",
+      "status": 200,
+      "htmlLang": "pt-BR",
+      "expectedLang": "pt-BR",
+      "htmlLangOk": true,
+      "canonical": "https://weizhihaomachinery.com/pt/produto/mf256-retificadora-linear-automatica/",
+      "canonicalSelf": true,
+      "hreflangs": [
+        {
+          "hreflang": "en",
+          "href": "https://weizhihaomachinery.com/product/casting-automatic-linear-sharpener-mf256/"
+        },
+        {
+          "hreflang": "es",
+          "href": "https://weizhihaomachinery.com/es/producto/mf256-rectificadora-lineal-automatica/"
+        },
+        {
+          "hreflang": "pt-BR",
+          "href": "https://weizhihaomachinery.com/pt/produto/mf256-retificadora-linear-automatica/"
+        },
+        {
+          "hreflang": "x-default",
+          "href": "https://weizhihaomachinery.com/product/casting-automatic-linear-sharpener-mf256/"
+        }
+      ],
+      "hreflangCodes": [
+        "en",
+        "es",
+        "pt-BR",
+        "x-default"
+      ],
+      "hasExpectedHreflangs": true,
+      "hasPtHreflang": false,
+      "hasRu": false,
+      "hasEntry": false,
+      "entryText": "",
+      "containsGroup": true
+    }
+  ]
+}
